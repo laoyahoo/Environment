@@ -1,15 +1,6 @@
-#直连，用于ad.list广告规则拒绝之前，disconnet01.list之后
-# 东方财富
-DOMAIN-SUFFIX,eastmoney.com
-DOMAIN-SUFFIX,dfcfw.com
-DOMAIN-SUFFIX,18.cn
-# 苹果测试是否网络正常域名
-DOMAIN,captive.apple.com
+# 修正规则
 # App手机一键登陆
 DOMAIN-SUFFIX,id6.me
-# 广汽本田
-DOMAIN-SUFFIX,mob.com
-DOMAIN-KEYWORD,sensorsdata.cn
 #局域网过滤地址
 IP-CIDR,172.21.0.0/16,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
