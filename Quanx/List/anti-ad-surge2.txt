@@ -46,6 +46,7 @@
 .img.0279.net,DIRECT
 .o.027eat.com,DIRECT
 .028yhtz.com,DIRECT
+.029xzsmew.com,DIRECT
 .02aa19117f396e9.com,DIRECT
 .02ce917efd.com,DIRECT
 .m.030ha.cn,DIRECT
@@ -161,12 +162,14 @@
 .0emm.com,DIRECT
 .0emn.com,DIRECT
 .0f461325bf56c3e1b9.com,DIRECT
+.0f9e6fxhl.com,DIRECT
 .0fc7ac6ea7.com,DIRECT
 .0fmm.com,DIRECT
 .dueu.0fwg.cn,DIRECT
 .0ghijkl.com,DIRECT
 .0gw7e6s3wrao9y3q.pro,DIRECT
 .0h3uds.com,DIRECT
+.0hkkatinn.com,DIRECT
 .0hq6k.site,DIRECT
 .cdn.0i-i0.com,DIRECT
 .0i0i0i0.com,DIRECT
@@ -192,6 +195,7 @@
 .0sntp7dnrr.com,DIRECT
 .0stats.com,DIRECT
 .0sywjs4r1x.com,DIRECT
+.0td6sdkfq.com,DIRECT
 .0tq6ub.cn,DIRECT
 .25w.0tzp8c.cn,DIRECT
 .m.0uk9e.cn,DIRECT
@@ -583,6 +587,7 @@
 .webwebfenxi.189.cn,DIRECT
 .189zj.cn,DIRECT
 .18dusun.com,DIRECT
+.18ie7hx6s.com,DIRECT
 .18mad.com,DIRECT
 .18mob.com,DIRECT
 .18naked.com,DIRECT
@@ -604,6 +609,7 @@
 .m.198nc.cn,DIRECT
 .1990tu.com,DIRECT
 .1999019.com,DIRECT
+.19d7fd2ed2.com,DIRECT
 .v1.19purify.com,DIRECT
 .1a65658575.com,DIRECT
 .1a714ee67c.com,DIRECT
@@ -632,6 +638,7 @@
 .1cpkcnm.com,DIRECT
 .1cros.net,DIRECT
 .1db10dd33b.com,DIRECT
+.1dbv2cyjx0ko.shop,DIRECT
 .1dcbzuv.com,DIRECT
 .url7061.support.1dental.com,DIRECT
 .1dmp.io,DIRECT
@@ -651,6 +658,7 @@
 .1fd92n6t8.de,DIRECT
 .pl.1feed.app,DIRECT
 .a.1film.to,DIRECT
+.1fkx796mw.com,DIRECT
 .1fluxx-strean.com,DIRECT
 .1freecounter.com,DIRECT
 .1freestyl3domain.com,DIRECT
@@ -682,6 +690,7 @@
 .1kqfzwd.com,DIRECT
 .ad.1kxun.com,DIRECT
 .1kxun.mobi,DIRECT
+.1kylgnkat.com,DIRECT
 .1l1.cc,DIRECT
 .1lan.tv,DIRECT
 .1lbk62l5c.de,DIRECT
@@ -724,6 +733,7 @@
 .e.1q89b.cn,DIRECT
 .m.1q89b.cn,DIRECT
 .api.1q8h.cn,DIRECT
+.1qgxtxd2n.com,DIRECT
 .1qkmxbt.com,DIRECT
 .w94.1qlgi.top,DIRECT
 .m.1qp9k.cn,DIRECT
@@ -731,6 +741,7 @@
 .1r49n.cn,DIRECT
 .1r4g65b63.de,DIRECT
 .1r8435gsqldr.com,DIRECT
+.1r8im40kd.com,DIRECT
 .e.1r8th.cn,DIRECT
 .m.1r8th.cn,DIRECT
 .1redira.com,DIRECT
@@ -767,6 +778,7 @@
 .uun.1uandun.com,DIRECT
 .odc.1und1.de,DIRECT
 .1uno1xkktau4.com,DIRECT
+.1vtk1jyaw.com,DIRECT
 .1vudktp.com,DIRECT
 .1web.me,DIRECT
 .1weorpu.com,DIRECT
@@ -839,6 +851,7 @@
 .ssp.21ic.com,DIRECT
 .tj.21ic.com,DIRECT
 .e.21lxb.cn,DIRECT
+.21mdxp5vz.com,DIRECT
 .21mob.com,DIRECT
 .smetrics.21nova.com,DIRECT
 .21sexturycash.com,DIRECT
@@ -907,6 +920,7 @@
 .saa.247sports.com,DIRECT
 .2481april2024.com,DIRECT
 .2491may2024.com,DIRECT
+.2495may2024.com,DIRECT
 .2499may2024.com,DIRECT
 .249c9885c1.com,DIRECT
 .24affiliates.com,DIRECT
@@ -970,8 +984,10 @@
 .adm.265g.com,DIRECT
 .268mob.com,DIRECT
 .268stephe5en3king.com,DIRECT
+.2690dny5l.com,DIRECT
 .ecdoib.26p.jp,DIRECT
 .26q4nn691.de,DIRECT
+.26y7fyw3o.com,DIRECT
 .26zsd.cn,DIRECT
 .272829.cc,DIRECT
 .273knt.xyz,DIRECT
@@ -1000,7 +1016,9 @@
 .jshkyh.29cm.co.kr,DIRECT
 .29d65cebb82ef9f.com,DIRECT
 .29s55bf2.de,DIRECT
+.29vpnmv4q.com,DIRECT
 .2a.com.cn,DIRECT
+.2a18z23fg.com,DIRECT
 .2a1b1657c6.com,DIRECT
 .2a2k3aom6.de,DIRECT
 .2a4722f5ee.com,DIRECT
@@ -1011,6 +1029,7 @@
 .2b2359b518.com,DIRECT
 .2b9957041a.com,DIRECT
 .2bd1f18377.com,DIRECT
+.2ben92aml.com,DIRECT
 .2beon.co.kr,DIRECT
 .2bj.cn,DIRECT
 .2bps53igop02.com,DIRECT
@@ -1024,6 +1043,7 @@
 .2cnjuh34jbpoint.com,DIRECT
 .2cnjuh34jbstar.com,DIRECT
 .2cnt.net,DIRECT
+.2cvnmbxnc.com,DIRECT
 .t.2d-c.cn,DIRECT
 .2d283cecd5.com,DIRECT
 .2d6g0ag5l.de,DIRECT
@@ -1036,6 +1056,7 @@
 .plugin.2easydroid.com,DIRECT
 .2ecfa1db15.com,DIRECT
 .ngueja.2ememain.be,DIRECT
+.2eszq7woo.com,DIRECT
 .wap.2f.com,DIRECT
 .2f1969b0e8.com,DIRECT
 .2f1a1a7f62.com,DIRECT
@@ -1052,6 +1073,7 @@
 .2giga.link,DIRECT
 .stat.api.2gis.ru,DIRECT
 .2go7v1nes8.com,DIRECT
+.2h4els889.com,DIRECT
 .2h6skj2da.de,DIRECT
 .2hdn.online,DIRECT
 .2heaoc.com,DIRECT
@@ -1141,6 +1163,7 @@
 .2vv.cc,DIRECT
 .tr.nl.2wls.net,DIRECT
 .wysa.2wxb5.cn,DIRECT
+.2xs4eumlc.com,DIRECT
 .2yt.cn,DIRECT
 .nzfc.2zm4.cn,DIRECT
 .2znp09oa.com,DIRECT
@@ -1202,6 +1225,7 @@
 .31daa5lnq.de,DIRECT
 .31def61c3.de,DIRECT
 .31o0jl63.de,DIRECT
+.31v1scl527hm.shop,DIRECT
 .ad.320320.net,DIRECT
 .320ca3f6.space,DIRECT
 .321naturelikefurfuroid.com,DIRECT
@@ -1239,8 +1263,10 @@
 .dm.3454.com,DIRECT
 .3467b7d02e.com,DIRECT
 .34710af267.com,DIRECT
+.34d5566a50.com,DIRECT
 .34pavouhj7.com,DIRECT
 .m.34uvn.cn,DIRECT
+.34yjwa4u6.com,DIRECT
 .download.350.com,DIRECT
 .html.350.com,DIRECT
 .ldy.350.com,DIRECT
@@ -1417,6 +1443,7 @@
 .jsm.39yst.com,DIRECT
 .3a17d27bf9.com,DIRECT
 .3a98f4e936.com,DIRECT
+.3abj52u0w.com,DIRECT
 .3ad5iot.com,DIRECT
 .3alian.net,DIRECT
 .t.3apf.com,DIRECT
@@ -1424,11 +1451,14 @@
 .3b1ac6ca25.com,DIRECT
 .gspjom.3balls.com,DIRECT
 .3bc9b1b89c.com,DIRECT
+.3bq57qu8o.com,DIRECT
 .3c0cb3b4.space,DIRECT
 .analytics.3c5.com,DIRECT
 .3c96ce165a.com,DIRECT
+.3casfzm7u.com,DIRECT
 .data.comunitat.3cat.cat,DIRECT
 .smetrics.3cat.cat,DIRECT
+.3cg6sa78w.com,DIRECT
 .imgad0.3conline.com,DIRECT
 .jwz.3conline.com,DIRECT
 .3d0cb547.space,DIRECT
@@ -1501,6 +1531,7 @@
 .engage.3m.com.tw,DIRECT
 .engage.3m.com.ua,DIRECT
 .m.3m49h.cn,DIRECT
+.3m63qm4tp.com,DIRECT
 .engage.3mabrasive.co.kr,DIRECT
 .engage.3mae.ae,DIRECT
 .marketing.3mark.com,DIRECT
@@ -1557,14 +1588,17 @@
 .m.3t48d.cn,DIRECT
 .3twentyfour.xyz,DIRECT
 .m.3tx8zr.cn,DIRECT
+.3u4zyeugi.com,DIRECT
 .3uvz5.xyz,DIRECT
 .m.3vn52l.cn,DIRECT
+.3voot0dg7.com,DIRECT
 .3wr110.net,DIRECT
 .tr.cdiscount.3wregie.com,DIRECT
 .3wtuan.com,DIRECT
 .3xbrh4rxsvbl.top,DIRECT
 .3xx.vip,DIRECT
 .eo.3y4n.cn,DIRECT
+.3zap7emt4.com,DIRECT
 .4-interads.com,DIRECT
 .jc.4006825178.com,DIRECT
 .4008813318.com.cn,DIRECT
@@ -1601,6 +1635,7 @@
 .42jdbcb.de,DIRECT
 .42r.cn,DIRECT
 .42ye.com,DIRECT
+.42zjivdi4.com,DIRECT
 .431.red,DIRECT
 .4336wang.cn,DIRECT
 .43e1628a5f.com,DIRECT
@@ -1714,8 +1749,11 @@
 .dl.4kporn.xxx,DIRECT
 .4l903.com,DIRECT
 .wzpwxe.4lapy.ru,DIRECT
+.4lhq0cplb.com,DIRECT
 .4link.it,DIRECT
 .4lke.online,DIRECT
+.4m2cow8x0.com,DIRECT
+.4m4ones1q.com,DIRECT
 .webstat.4music.com,DIRECT
 .4name.com,DIRECT
 .4o.cc,DIRECT
@@ -1739,6 +1777,7 @@
 .go.4sq.com,DIRECT
 .to.4sq.com,DIRECT
 .4stats.de,DIRECT
+.4taqjepdj.com,DIRECT
 .content.4teamwork.ch,DIRECT
 .info10.4thoughtmarketing.com,DIRECT
 .e.4tm8na.cn,DIRECT
@@ -1746,6 +1785,7 @@
 .4u.pl,DIRECT
 .4wad.com,DIRECT
 .4wfe3.icu,DIRECT
+.4wgxxfd31.com,DIRECT
 .4wnet.com,DIRECT
 .4wnetwork.com,DIRECT
 .4wu3gf.cn,DIRECT
@@ -1942,6 +1982,7 @@
 .5685dceb1b.com,DIRECT
 .5689285.com,DIRECT
 .5698tp.com,DIRECT
+.dl.1003b.56a.com,DIRECT
 .56bfc388bf12.com,DIRECT
 .56fba.cn,DIRECT
 .56rt2692.de,DIRECT
@@ -1957,6 +1998,7 @@
 .js.578965.com,DIRECT
 .578d72001a.com,DIRECT
 .57d38e3023.com,DIRECT
+.57e5ildg5.com,DIRECT
 .ee.57m1j.cn,DIRECT
 .m.57m1j.cn,DIRECT
 .ee.57m1j.com,DIRECT
@@ -2043,6 +2085,7 @@
 .5icim50.de,DIRECT
 .5idxw.com,DIRECT
 .5ip9.com,DIRECT
+.5ivy3ikkt.com,DIRECT
 .js.5iydz.com,DIRECT
 .5j.com,DIRECT
 .5j5k.com,DIRECT
@@ -2080,7 +2123,9 @@
 .5q7eb.website,DIRECT
 .e.5q80n.cn,DIRECT
 .m.5q80n.cn,DIRECT
+.5qbowtbat.com,DIRECT
 .e.5qk4xi.cn,DIRECT
+.5qv0c9bpe.com,DIRECT
 .5r562.cn,DIRECT
 .e.5tbiec.cn,DIRECT
 .m.5tbiec.cn,DIRECT
@@ -2099,7 +2144,9 @@
 .5xd3jfwl9e8v.com,DIRECT
 .game.5xen.com,DIRECT
 .js.5xml.com,DIRECT
+.5xp6lcaoz.com,DIRECT
 .er.5ykj.com,DIRECT
+.5z4eddt4i.com,DIRECT
 .push.5z5zw.com,DIRECT
 .6-partner.com,DIRECT
 .shrek.6.cn,DIRECT
@@ -2132,6 +2179,7 @@
 .61739011039d41a.com,DIRECT
 .6179b859b8.com,DIRECT
 .m.61lvi.cn,DIRECT
+.61t2ll6yy.com,DIRECT
 .6207684432.com,DIRECT
 .bdjs.6237237.com,DIRECT
 .gmeng.625323.com,DIRECT
@@ -2154,8 +2202,10 @@
 .m.649649.com,DIRECT
 .wwww.649649.com,DIRECT
 .mt.64foot.com,DIRECT
+.64imux6kg.com,DIRECT
 .64si.com,DIRECT
 .64uq73u7ug.webcam,DIRECT
+.64z1afiw7.com,DIRECT
 .s.652748.com,DIRECT
 .6528fdyngk.xyz,DIRECT
 .6554.net,DIRECT
@@ -2263,8 +2313,11 @@
 .6kwan.com,DIRECT
 .e.6l1967.cn,DIRECT
 .m.6l1967.cn,DIRECT
+.6l5hcmeg0.com,DIRECT
 .6ldu6qa.com,DIRECT
+.6m3p8pow4.com,DIRECT
 .sizd.6nzev.cn,DIRECT
+.6oi7mfa1w.com,DIRECT
 .6ow9rhxtolls.gq,DIRECT
 .adm.6park.com,DIRECT
 .6ped2nd3yp.com,DIRECT
@@ -2272,6 +2325,7 @@
 .6qu5dcmyumtw.com,DIRECT
 .ee.6r7yc.cn,DIRECT
 .m.6r7yc.cn,DIRECT
+.6r9ahe6qb.com,DIRECT
 .pole.6rooms.com,DIRECT
 .sclick.6rooms.com,DIRECT
 .6sc.co,DIRECT
@@ -2289,6 +2343,7 @@
 .6v41p4bsq.com,DIRECT
 .e.6w23i.cn,DIRECT
 .m.6w23i.cn,DIRECT
+.6wclcbgn1.com,DIRECT
 .ee.6x53p.cn,DIRECT
 .ee.6xr2j.cn,DIRECT
 .m.6xr2j.cn,DIRECT
@@ -2354,6 +2409,7 @@
 .7555.net,DIRECT
 .7577.cc,DIRECT
 .ndrf.757g7g.cn,DIRECT
+.75h4x7992.com,DIRECT
 .m.75l3g.cn,DIRECT
 .75to.com,DIRECT
 .7631.com,DIRECT
@@ -2361,6 +2417,7 @@
 .hao.7654.com,DIRECT
 .7656c4.com,DIRECT
 .stats.766.com,DIRECT
+.7662ljdeo.com,DIRECT
 .7676.com,DIRECT
 .v.76768hwj.cn,DIRECT
 .76802.net,DIRECT
@@ -2438,6 +2495,7 @@
 .7bpeople.com,DIRECT
 .7bspu.site,DIRECT
 .7c0616849b.com,DIRECT
+.7c3514356.com,DIRECT
 .7ca78m3csgbrid7ge.com,DIRECT
 .sadbmetrics.7canibales.com,DIRECT
 .7car.com.cn,DIRECT
@@ -2497,6 +2555,7 @@
 .7x4.fr,DIRECT
 .7x5.fr,DIRECT
 .cp.7y7.com,DIRECT
+.7ysb92b65.com,DIRECT
 .7z66.com,DIRECT
 .8000plus.si,DIRECT
 .8020home.com.cn,DIRECT
@@ -2504,6 +2563,7 @@
 .805.red,DIRECT
 .ee.805zx.cn,DIRECT
 .8066hg.com,DIRECT
+.806wtmwci.com,DIRECT
 .80juqing.com,DIRECT
 .e.80o4j.cn,DIRECT
 .m.80o4j.cn,DIRECT
@@ -2520,6 +2580,7 @@
 .d.8181zx.com,DIRECT
 .8184.cc,DIRECT
 .vdrigb.8190.jp,DIRECT
+.820615ypo.com,DIRECT
 .8208tp.com,DIRECT
 .82308721ac.com,DIRECT
 .8269996.com,DIRECT
@@ -2542,6 +2603,7 @@
 .84c08fdae0.com,DIRECT
 .84cd8c4d7e.com,DIRECT
 .84f101d1bb.com,DIRECT
+.84gs08xe1.com,DIRECT
 .85058s.com,DIRECT
 .8509717d76.com,DIRECT
 .uu.85655095.com,DIRECT
@@ -2670,6 +2732,7 @@
 .m.8h3mc.cn,DIRECT
 .ee.8i1xc.cn,DIRECT
 .m.8i1xc.cn,DIRECT
+.8il2nsgm5.com,DIRECT
 .cfb.8it.me,DIRECT
 .8j1f0af5.de,DIRECT
 .ixnj.8j24h.cn,DIRECT
@@ -2685,6 +2748,8 @@
 .8mfty.com,DIRECT
 .8n67t.com,DIRECT
 .axp.8newsnow.com,DIRECT
+.8nj0pdo76.com,DIRECT
+.8nugm4l6j.com,DIRECT
 .js.8o9o.com,DIRECT
 .e.8of9hd.cn,DIRECT
 .m.8of9hd.cn,DIRECT
@@ -2706,6 +2771,7 @@
 .8trd.online,DIRECT
 .8v1.cn,DIRECT
 .8wtkfxiss1o2.com,DIRECT
+.8wzntazeq.com,DIRECT
 .8xtm6i.cn,DIRECT
 .8zkt7.xyz,DIRECT
 .web.900.la,DIRECT
@@ -2782,6 +2848,7 @@
 .93vitui.com,DIRECT
 .photo.941ziyuan.cn,DIRECT
 .943d6e0643.com,DIRECT
+.945vxo482.com,DIRECT
 .94ab.com,DIRECT
 .94ded8b16e.com,DIRECT
 .94lm.com,DIRECT
@@ -2921,6 +2988,7 @@
 .9ipin.cn,DIRECT
 .9japride.com,DIRECT
 .9kh5b.cn,DIRECT
+.9l3s3fnhl.com,DIRECT
 .9l5ss9l.de,DIRECT
 .9ll01.com,DIRECT
 .9llm.com,DIRECT
@@ -2932,6 +3000,7 @@
 .ywrcqa.9news.com,DIRECT
 .9nl.eu,DIRECT
 .stream.9now.com.au,DIRECT
+.9ohy40tok.com,DIRECT
 .anuk.9pb0h.cn,DIRECT
 .9purdfe9xg.com,DIRECT
 .m.9r48f.cn,DIRECT
@@ -2951,6 +3020,7 @@
 .9wee.com,DIRECT
 .p.9wotuan.com,DIRECT
 .9wushuo.com,DIRECT
+.9x4yujhb0.com,DIRECT
 .9xeqynu3gt7c.com,DIRECT
 .9xob25oszs.com,DIRECT
 .9xu.com,DIRECT
@@ -3069,6 +3139,7 @@
 .images.cargomarketing.email.aa.com,DIRECT
 .metrics.aa.com,DIRECT
 .smetrics.aa.com,DIRECT
+.aa2e7ea3fe.com,DIRECT
 .aa808.com,DIRECT
 .e.aa985.cn,DIRECT
 .acemetrics.aaa.com,DIRECT
@@ -3213,6 +3284,7 @@
 .info.abadiscount.org,DIRECT
 .abadit5rckb.com,DIRECT
 .abamatoyer.com,DIRECT
+.abampschoco.shop,DIRECT
 .smetrics.abanca.com,DIRECT
 .target.abanca.com,DIRECT
 .abandonedaction.com,DIRECT
@@ -3222,6 +3294,7 @@
 .abaolokvmmvvm.top,DIRECT
 .abarbollidate.com,DIRECT
 .abashfireworks.com,DIRECT
+.abaskpoverty.click,DIRECT
 .abasshowish.guru,DIRECT
 .eventos.abastur.com,DIRECT
 .abattoirpleatsprinkle.com,DIRECT
@@ -3293,6 +3366,7 @@
 .abdlnk.com,DIRECT
 .abdlnkjs.com,DIRECT
 .abdluv.xyz,DIRECT
+.abdomrebury.shop,DIRECT
 .abdomscrae.com,DIRECT
 .abdsp.com,DIRECT
 .abdurantom.com,DIRECT
@@ -3455,7 +3529,7 @@
 .abpjs23.com,DIRECT
 .abqdgu.xyz,DIRECT
 .abqmfewisf.com,DIRECT
-.abqnupogcwhi.com,DIRECT
+.abqsv91oe.com,DIRECT
 .invite.abra.com,DIRECT
 .dsdjbj.abracadabra.com.br,DIRECT
 .tracking.abraservice.com,DIRECT
@@ -3556,6 +3630,7 @@
 .abundantsurroundvacation.com,DIRECT
 .aburbangambang.com,DIRECT
 .abusedbabysitters.com,DIRECT
+.pirati.abuser.eu,DIRECT
 .abusiveserving.com,DIRECT
 .endljp.abv.bg,DIRECT
 .abvnypoqcgmh.com,DIRECT
@@ -3564,13 +3639,14 @@
 .abwhyag.com,DIRECT
 .abwlrooszor.com,DIRECT
 .abyamaskor.com,DIRECT
+.abyocawlfe.com,DIRECT
 .abzjkaridcit.com,DIRECT
 .baccarat.abzorbagames.com,DIRECT
 .blackjack.abzorbagames.com,DIRECT
 .roulette.abzorbagames.com,DIRECT
 .marketing.colman.ac.il,DIRECT
-.library.arihantmbainstitute.ac.in,DIRECT
 .ac35e1ff43.com,DIRECT
+.ac6hdk1js.com,DIRECT
 .acacdn.com,DIRECT
 .info.acacialearning.com,DIRECT
 .ajtxoo.academiaassai.com.br,DIRECT
@@ -3608,6 +3684,7 @@
 .resources.acarasolutions.in,DIRECT
 .acasadf112.cn,DIRECT
 .acaussee.net,DIRECT
+.acbahmofpppy.com,DIRECT
 .acbbpadizl.com,DIRECT
 .acbc68e83c.com,DIRECT
 .acbcamapztca.com,DIRECT
@@ -3771,6 +3848,7 @@
 .m.achig.com,DIRECT
 .achmic.com,DIRECT
 .achnyyjlxrfkwt.xyz,DIRECT
+.achoachemain.com,DIRECT
 .achpokevvh.com,DIRECT
 .stats.achtsame-yonimassage.de,DIRECT
 .m.achuc.com,DIRECT
@@ -3778,7 +3856,6 @@
 .achurt.com,DIRECT
 .achycompassionate.com,DIRECT
 .achyrepeatitchy.com,DIRECT
-.acidicgrip.com,DIRECT
 .acidicresist.pro,DIRECT
 .acidicstraw.com,DIRECT
 .acidpigs.com,DIRECT
@@ -3801,12 +3878,14 @@
 .aclsx.cn,DIRECT
 .smetrics.aclu.org,DIRECT
 .acmaknoxwo.com,DIRECT
+.acmdihtumpuj.com,DIRECT
 .acmexxx.com,DIRECT
 .m.acmgloballab.com,DIRECT
 .acnwxjhfby.com,DIRECT
 .acocpcvm.com,DIRECT
 .acofrnsr44es3954b.com,DIRECT
 .info.acoginsurance.com,DIRECT
+.acolousmicast.com,DIRECT
 .tr.mp.aconclue-business.fr,DIRECT
 .tr.mp.aconclue-entreprise.fr,DIRECT
 .tr.mp.aconclue-pro.com,DIRECT
@@ -3819,7 +3898,6 @@
 .acornexhaustpreviously.com,DIRECT
 .acostaom.com,DIRECT
 .acoudsoarom.com,DIRECT
-.acousticsapparel.com,DIRECT
 .acoxcv.cn,DIRECT
 .acpakrjzyamb.com,DIRECT
 .fpc.acpinternist.org,DIRECT
@@ -3839,7 +3917,6 @@
 .acquaintedpostman.com,DIRECT
 .acquaintplentifulemotions.com,DIRECT
 .lift.acquia.com,DIRECT
-.acquireattention.com,DIRECT
 .acquirethem.com,DIRECT
 .acquisitionsneezeswell.com,DIRECT
 .acrelicenseblown.com,DIRECT
@@ -3979,6 +4056,7 @@
 .selectjeeps.acutx.org,DIRECT
 .status.acutx.org,DIRECT
 .anhm.acv5e.cn,DIRECT
+.acvdubxihrk.com,DIRECT
 .acvnhayikyutjsn.xyz,DIRECT
 .traffic.acwebconnecting.com,DIRECT
 .acxiom-online.com,DIRECT
@@ -4198,7 +4276,6 @@
 .additionalbasketdislike.com,DIRECT
 .additionalcasualcabinet.com,DIRECT
 .additionalmedia.com,DIRECT
-.additionant.com,DIRECT
 .additionfeud.com,DIRECT
 .additionssurvivor.com,DIRECT
 .additionsyndrome.com,DIRECT
@@ -5493,6 +5570,7 @@
 .aembxbxmnuspyr.com,DIRECT
 .aemediatraffic.com,DIRECT
 .smetrics.aena.es,DIRECT
+.aenetgvtri.com,DIRECT
 .trck.aeon.co.jp,DIRECT
 .adobe.aeonbank.co.jp,DIRECT
 .aeoqmogkswsd.com,DIRECT
@@ -5717,6 +5795,7 @@
 .tr.donateur.afm-telethon.fr,DIRECT
 .afm01.com,DIRECT
 .afminer.com,DIRECT
+.afnhfaklocdmq.com,DIRECT
 .afnyfiexpecttha.info,DIRECT
 .afoaglux.com,DIRECT
 .afodreet.net,DIRECT
@@ -5804,9 +5883,11 @@
 .agamaevascla.top,DIRECT
 .agamagcargoan.com,DIRECT
 .agamantykeon.com,DIRECT
+.aganicewride.click,DIRECT
 .e.aganj.com,DIRECT
 .m.aganj.com,DIRECT
 .agaomastaran.com,DIRECT
+.agapaiprastha.click,DIRECT
 .agapdqgysuipwz.com,DIRECT
 .agapi-fwz.com,DIRECT
 .a8.learning.agaroot.jp,DIRECT
@@ -5844,6 +5925,7 @@
 .enterpriseimaging.agfahealthcare.com,DIRECT
 .agffrusilj.com,DIRECT
 .agfgasaglasw.com,DIRECT
+.agfhpexmasa.com,DIRECT
 .agflkiombagl.com,DIRECT
 .email.agfuse.com,DIRECT
 .aggjprvqamtl.com,DIRECT
@@ -5931,6 +6013,7 @@
 .lsixuz.agrifournitures.fr,DIRECT
 .tk.agrizone.net,DIRECT
 .agrvt.com,DIRECT
+.agscirowwsr.com,DIRECT
 .metrics.agtechnavigator.com,DIRECT
 .agtongagla.com,DIRECT
 .agtwvigehvl.com,DIRECT
@@ -5977,7 +6060,6 @@
 .ahh8.cn,DIRECT
 .adebis.ahjikan-shop.com,DIRECT
 .api.ahjinshu.com,DIRECT
-.ahjmiyrd.xyz,DIRECT
 .ahjshyoqlo.com,DIRECT
 .ahksqc.com.cn,DIRECT
 .ahlefind.com,DIRECT
@@ -5993,6 +6075,7 @@
 .ahporntube.com,DIRECT
 .ahpphkc.xyz,DIRECT
 .xdm.ahqlx.top,DIRECT
+.ahqovxli.com,DIRECT
 .ahqpqpdjpj.com,DIRECT
 .ahscdn.com,DIRECT
 .bd.ahsrst.cn,DIRECT
@@ -6003,6 +6086,7 @@
 .ahvclick.com,DIRECT
 .ahw3.com,DIRECT
 .ahwbedsd.xyz,DIRECT
+.ahwdhrehd.com,DIRECT
 .ahxhny.cn,DIRECT
 .ahyghotmptj.com,DIRECT
 .ahyyqq.xyz,DIRECT
@@ -6018,6 +6102,7 @@
 .aibici.com,DIRECT
 .aibsgc.com,DIRECT
 .trk.aibusiness.com,DIRECT
+.aibvlvplqwkq.com,DIRECT
 .mktg.aicipc.com,DIRECT
 .aickakru.net,DIRECT
 .aickeebsi.com,DIRECT
@@ -6068,6 +6153,7 @@
 .aigheebsu.net,DIRECT
 .zwokia.aigle.com,DIRECT
 .aigneloa.com,DIRECT
+.aigniltosesh.net,DIRECT
 .brc.aigrammar.net,DIRECT
 .brc2.aigrammar.net,DIRECT
 .aigretenew.top,DIRECT
@@ -6087,7 +6173,9 @@
 .aiknx.cn,DIRECT
 .aikraith.net,DIRECT
 .aikravoapu.com,DIRECT
+.aikrighawaks.com,DIRECT
 .aiks.wang,DIRECT
+.aiksohet.net,DIRECT
 .m.ailezhai.cn,DIRECT
 .aili.com,DIRECT
 .e.ailix.cn,DIRECT
@@ -6310,6 +6398,7 @@
 .aitarsou.com,DIRECT
 .salesandmarketing.aitcfis.com,DIRECT
 .web.info.aiteca.it,DIRECT
+.aitoocoo.xyz,DIRECT
 .aitsatho.com,DIRECT
 .app.response.aiu.edu.au,DIRECT
 .insights.aiu.edu.au,DIRECT
@@ -6335,7 +6424,6 @@
 .aixintou.com.cn,DIRECT
 .aixppedb.com,DIRECT
 .dmym.aixyy.com,DIRECT
-.aiyfulba.com,DIRECT
 .szb.aiyole.com,DIRECT
 .aiyouji.xyz,DIRECT
 .e.aiyyu.com,DIRECT
@@ -6363,6 +6451,7 @@
 .aj2555.bid,DIRECT
 .aj2627.bid,DIRECT
 .aj3038.bid,DIRECT
+.ajaiguhubeh.com,DIRECT
 .ajaltoly.com,DIRECT
 .ajapk.com,DIRECT
 .ajar-substance.com,DIRECT
@@ -6484,6 +6573,7 @@
 .akkvmkgdvokn.com,DIRECT
 .aklamator.com,DIRECT
 .trecker.aklamio.com,DIRECT
+.aklaqdzukadh.com,DIRECT
 .aklmjylwvkayv.top,DIRECT
 .aklorswikk.com,DIRECT
 .akmxts.com,DIRECT
@@ -6802,6 +6892,7 @@
 .alitems.com,DIRECT
 .alitems.site,DIRECT
 .aliveachiever.com,DIRECT
+.aliveaspect.com,DIRECT
 .alivebald.com,DIRECT
 .alivedriftcommandment.com,DIRECT
 .aliwjo.com,DIRECT
@@ -7070,6 +7161,7 @@
 .app.allyos.com,DIRECT
 .allyprimroseidol.com,DIRECT
 .snalytics.allyz.com,DIRECT
+.almacz.com,DIRECT
 .marketing.almalasers.com,DIRECT
 .almareepom.com,DIRECT
 .almasatten.com,DIRECT
@@ -7243,6 +7335,7 @@
 .alzexa.com,DIRECT
 .alzlwkeavakr.top,DIRECT
 .alzlwkeavlvm.top,DIRECT
+.alzlwkeavrlw.top,DIRECT
 .am-da.xyz,DIRECT
 .stats.am.ai,DIRECT
 .am0624.com,DIRECT
@@ -7375,7 +7468,6 @@
 .ambiguousquilt.com,DIRECT
 .ambiliarcarwin.com,DIRECT
 .ambitiousagreement.com,DIRECT
-.ambitiousanimal.com,DIRECT
 .ambitiousdivorcemummy.com,DIRECT
 .ambitiousmanufacturerscaffold.com,DIRECT
 .amblesaflame.top,DIRECT
@@ -7597,6 +7689,7 @@
 .stats.amiibo.life,DIRECT
 .lqklml.amikado.com,DIRECT
 .amikay.com,DIRECT
+.aminitymilling.click,DIRECT
 .aminizehaskard.top,DIRECT
 .aminopay.net,DIRECT
 .amiok.org,DIRECT
@@ -7634,6 +7727,7 @@
 .amorouslimitsbrought.com,DIRECT
 .amorphousankle.com,DIRECT
 .amort.cn,DIRECT
+.amortkanjis.shop,DIRECT
 .join.amorus.net,DIRECT
 .amos5lynn.com,DIRECT
 .web.communications.amouage.com,DIRECT
@@ -7682,7 +7776,6 @@
 .amusementrehearseevil.com,DIRECT
 .amusementstepfatherpretence.com,DIRECT
 .amusing-senior.com,DIRECT
-.amusinggirls.com,DIRECT
 .abncx.amv.fr,DIRECT
 .amvbwleayvbyr.top,DIRECT
 .amvbwleayvyra.top,DIRECT
@@ -7700,6 +7793,7 @@
 .smetrics.amway.my,DIRECT
 .smetrics.amway.se,DIRECT
 .smetrics.amway.sg,DIRECT
+.amwsteackff.com,DIRECT
 .amwswkqh.com,DIRECT
 .amyaxgaqvoh.com,DIRECT
 .amyfixesfelicity.com,DIRECT
@@ -7926,6 +8020,7 @@
 .anmhtutajog.com,DIRECT
 .anmiphglqn.com,DIRECT
 .anmjqqtevhsqwb.com,DIRECT
+.anmtifat6.com,DIRECT
 .xqslse.annadiva.nl,DIRECT
 .fpc.annals.org,DIRECT
 .anncmq.com,DIRECT
@@ -8474,7 +8569,6 @@
 .crwan.applinzi.com,DIRECT
 .applixir.com,DIRECT
 .applk.cn,DIRECT
-.appload.icu,DIRECT
 .applovin.com,DIRECT
 .applvn.com,DIRECT
 .appmateforbests.com,DIRECT
@@ -8600,6 +8694,7 @@
 .apyuelang.com,DIRECT
 .apzawhajrrci.com,DIRECT
 .apzgcipacpu.com,DIRECT
+.aq30me9nw.com,DIRECT
 .aq360.club,DIRECT
 .aq7ua5ma85rddeinve.com,DIRECT
 .aqaggxmhabf.com,DIRECT
@@ -8622,6 +8717,7 @@
 .aqkkoalfpz.com,DIRECT
 .aqnnysd.com,DIRECT
 .aqppwatriodz.com,DIRECT
+.aqptziligoqn.com,DIRECT
 .aqqgli3vle.bid,DIRECT
 .aqqlwcuqtskbz.com,DIRECT
 .marketing-test.aqr.com,DIRECT
@@ -8706,6 +8802,7 @@
 .images.arcb.com,DIRECT
 .images.response.arcb.com,DIRECT
 .solutions.arcb.com,DIRECT
+.arcedcoss.top,DIRECT
 .archaicchop.com,DIRECT
 .archaicgrilledignorant.com,DIRECT
 .archaicin.com,DIRECT
@@ -8745,6 +8842,7 @@
 .ardmall.com,DIRECT
 .ardoursmutine.top,DIRECT
 .ardruddigonan.com,DIRECT
+.ardschatota.com,DIRECT
 .ardsklangr.com,DIRECT
 .ardslediana.com,DIRECT
 .ardspalkiator.com,DIRECT
@@ -9074,6 +9172,7 @@
 .asdfasdasd9987.co,DIRECT
 .asdfg23.com,DIRECT
 .asdfix.com,DIRECT
+.asdidmakingby.info,DIRECT
 .asdji2.cn,DIRECT
 .asdkfefanvt.com,DIRECT
 .asdpoi.com,DIRECT
@@ -9220,6 +9319,7 @@
 .asrowjkagg.com,DIRECT
 .asryrzpu.xyz,DIRECT
 .assailusefullyenemies.com,DIRECT
+.assaiscucujus.shop,DIRECT
 .assassinationsteal.com,DIRECT
 .assaultmolecularjim.com,DIRECT
 .contact.assaydepot.com,DIRECT
@@ -9451,6 +9551,7 @@
 .aa.athome.com,DIRECT
 .aans.athome.com,DIRECT
 .athostouco.com,DIRECT
+.athumiaspuing.click,DIRECT
 .athvicatfx.com,DIRECT
 .athwfadifqac.com,DIRECT
 .athxiggufas.com,DIRECT
@@ -9532,6 +9633,7 @@
 .atpanel.com,DIRECT
 .atpansagean.com,DIRECT
 .atpawniarda.com,DIRECT
+.atpclqff.com,DIRECT
 .atplay.cn,DIRECT
 .asia.atradius.com,DIRECT
 .nordics.atradius.com,DIRECT
@@ -9618,6 +9720,7 @@
 .attractive-drawing.com,DIRECT
 .attractiveafternoon.com,DIRECT
 .attractivecap.com,DIRECT
+.attractivesurveys.com,DIRECT
 .attractpicturespine.com,DIRECT
 .attractscissor.com,DIRECT
 .attractwarningkeel.com,DIRECT
@@ -10070,6 +10173,7 @@
 .autumndrum.com,DIRECT
 .autyxdek.xyz,DIRECT
 .auuux.com,DIRECT
+.auvdrovwbwsldt.com,DIRECT
 .auvenebu.xyz,DIRECT
 .ea.auvergne-direct.fr,DIRECT
 .auvohoxm.xyz,DIRECT
@@ -10118,6 +10222,7 @@
 .avapp.tv,DIRECT
 .email.social.avasecurity.com,DIRECT
 .avast-antivirus.com,DIRECT
+.avast-antivirusdownload.com,DIRECT
 .an.avast.com,DIRECT
 .ans.avast.com,DIRECT
 .oms.avast.com,DIRECT
@@ -10380,6 +10485,7 @@
 .awestatic.com,DIRECT
 .awestc.com,DIRECT
 .aweyqalylarj.top,DIRECT
+.aweyqalyljbj.top,DIRECT
 .awfonts.com,DIRECT
 .awfullypersecution.com,DIRECT
 .awfulresolvedraised.com,DIRECT
@@ -10442,6 +10548,7 @@
 .awvvhicirfti.com,DIRECT
 .awwagqorqpty.com,DIRECT
 .awwprjafmfjbvt.xyz,DIRECT
+.awxgfiqifawg.com,DIRECT
 .awytythbxujkz.com,DIRECT
 .awyuge.xyz,DIRECT
 .kn.awyys.com,DIRECT
@@ -10456,6 +10563,7 @@
 .tr.e-mail.axabanque.fr,DIRECT
 .axalgyof.xyz,DIRECT
 .axallarded.top,DIRECT
+.axbofpnri.com,DIRECT
 .axbxgg.com,DIRECT
 .axductile.com,DIRECT
 .axeldivision.com,DIRECT
@@ -10482,6 +10590,7 @@
 .community.axiscapital.com,DIRECT
 .email.axisintegrated.ca,DIRECT
 .axjfjdm.com,DIRECT
+.axjndvucr.com,DIRECT
 .axkwmsivme.com,DIRECT
 .axlohcsruwak.com,DIRECT
 .axlpackugrra.com,DIRECT
@@ -10520,6 +10629,7 @@
 .ayllnllwajjmn.top,DIRECT
 .aymobi.online,DIRECT
 .aymwiq.xyz,DIRECT
+.aynhlxbr0.com,DIRECT
 .share.aynrand.org,DIRECT
 .aynufyns.xyz,DIRECT
 .apps.ayopop.id,DIRECT
@@ -10628,7 +10738,6 @@
 .g2insights-cdn.azureedge.net,DIRECT
 .loader-cdn.azureedge.net,DIRECT
 .msadsscale.azureedge.net,DIRECT
-.revboostprocdnadsprod.azureedge.net,DIRECT
 .sdtagging.azureedge.net,DIRECT
 .wheelioapp.azureedge.net,DIRECT
 .sd-tagging.azurefd.net,DIRECT
@@ -10710,6 +10819,7 @@
 .b30674b49e.com,DIRECT
 .a2.b310.com,DIRECT
 .b397db8f50.com,DIRECT
+.b39bsi2iv.com,DIRECT
 .b3b4e76625.com,DIRECT
 .b3b526dee6.com,DIRECT
 .b3kyo0de1fr0.com,DIRECT
@@ -10743,11 +10853,13 @@
 .b76751e155.com,DIRECT
 .eyjs.b7nkd.cn,DIRECT
 .b7om8bdayac6at.com,DIRECT
+.b7qmb255e.com,DIRECT
 .b81oidrmy82w.com,DIRECT
 .b8ce2eba60.com,DIRECT
 .b8pfulzbyj7h.com,DIRECT
 .m.b93dpn.com,DIRECT
 .b9f4882bac.com,DIRECT
+.b9l55k525.com,DIRECT
 .ltycia.ba-sh.com,DIRECT
 .ba46b70722.com,DIRECT
 .ba488608ee.com,DIRECT
@@ -11171,6 +11283,7 @@
 .tactics.bainv.net,DIRECT
 .update.bainv.net,DIRECT
 .bairenad.com,DIRECT
+.bairnsvibrion.top,DIRECT
 .baiseesh.net,DIRECT
 .bait4role.com,DIRECT
 .baitaiad.com,DIRECT
@@ -11222,6 +11335,7 @@
 .bakeryunprofessional.com,DIRECT
 .trk.bakewithstork.com,DIRECT
 .baksunjwoa.com,DIRECT
+.baktceamrlic.com,DIRECT
 .bakteso.ru,DIRECT
 .a8cv.baku-art.jp,DIRECT
 .ifyane.balaan.co.kr,DIRECT
@@ -11232,6 +11346,7 @@
 .balconypeer.com,DIRECT
 .ghifrc.baldai1.lt,DIRECT
 .baldappetizingun.com,DIRECT
+.balderspeckle.click,DIRECT
 .baldo-toj.com,DIRECT
 .oiodyx.baldur-garten.de,DIRECT
 .baldwhizhens.com,DIRECT
@@ -11545,6 +11660,7 @@
 .bargedale.com,DIRECT
 .bargingaricin.top,DIRECT
 .barginginfrance.net,DIRECT
+.barhalunkist.shop,DIRECT
 .bariejow.top,DIRECT
 .barilliance.net,DIRECT
 .pixel.barion.com,DIRECT
@@ -11564,6 +11680,7 @@
 .marketing.barnumfg.com,DIRECT
 .baronsoffers.com,DIRECT
 .baronsurrenderletter.com,DIRECT
+.barqueloo.click,DIRECT
 .barrackssponge.com,DIRECT
 .smetrics.barracuda.com,DIRECT
 .barren-date.pro,DIRECT
@@ -11678,6 +11795,7 @@
 .batijian.com,DIRECT
 .tr.batirenover.info,DIRECT
 .tr.batiweb.co,DIRECT
+.batonferie.com,DIRECT
 .info.battelle.org,DIRECT
 .battepush.com,DIRECT
 .applink.batterii.com,DIRECT
@@ -11792,7 +11910,6 @@
 .bazamodov.ru,DIRECT
 .bazao.xyz,DIRECT
 .endljp.bazar.bg,DIRECT
-.bazarganadero.com,DIRECT
 .bazhigu.com,DIRECT
 .c.bazo.io,DIRECT
 .baztrack.com,DIRECT
@@ -11827,6 +11944,7 @@
 .bbhyqp.com,DIRECT
 .bbiuowdofb.com,DIRECT
 .bbjnttjqknnmf.com,DIRECT
+.bbjtx9pwy.com,DIRECT
 .bbkydnakc.com,DIRECT
 .app.bbmannpah.com,DIRECT
 .campaign.bbmbonnier.se,DIRECT
@@ -11933,6 +12051,7 @@
 .bchkhtyns.com,DIRECT
 .3wz6z.bchuangpi.cn,DIRECT
 .go.bciburke.com,DIRECT
+.bcjikwflahufgo.xyz,DIRECT
 .bckqdynigv.com,DIRECT
 .bckrono.cn,DIRECT
 .bclikeqt.com,DIRECT
@@ -12007,6 +12126,7 @@
 .bdyumwlf.com,DIRECT
 .pic.bdyxzx.com,DIRECT
 .bdzdd2-sdd53-vxc.com,DIRECT
+.bdzhonovixyhkf.com,DIRECT
 .bdzyqohhw.com,DIRECT
 .a8cv.be-slim-spbikyou.com,DIRECT
 .be5fb85a02.com,DIRECT
@@ -12116,6 +12236,7 @@
 .becomesfusionpriority.com,DIRECT
 .becomesnerveshobble.com,DIRECT
 .becomesobtrusive.com,DIRECT
+.becomeusances.shop,DIRECT
 .becominggunpowderpalette.com,DIRECT
 .becorsolaom.com,DIRECT
 .becrustleom.com,DIRECT
@@ -12206,7 +12327,6 @@
 .beginningirresponsibility.com,DIRECT
 .beginningstock.com,DIRECT
 .beginoppressivegreet.com,DIRECT
-.begintrain.com,DIRECT
 .begknock.com,DIRECT
 .begracetindery.com,DIRECT
 .beguat.com,DIRECT
@@ -12394,7 +12514,6 @@
 .beneathallowing.com,DIRECT
 .beneathgirlproceed.com,DIRECT
 .benefactorstoppedfeedback.com,DIRECT
-.beneficialbeef.com,DIRECT
 .beneficialviewedallude.com,DIRECT
 .smetrics.benefitcosmetics.com.cn,DIRECT
 .text.benefitsatwork.be,DIRECT
@@ -12526,6 +12645,7 @@
 .bestadload.com,DIRECT
 .bestadmax.com,DIRECT
 .bestadsforyou.com,DIRECT
+.bestadsonlyforyou.com,DIRECT
 .bestadultaction.com,DIRECT
 .metrics.bestandless.com.au,DIRECT
 .bestaryua.com,DIRECT
@@ -12574,8 +12694,10 @@
 .securedata.bestellen-mijnspar.be,DIRECT
 .link-staging.bestest.io,DIRECT
 .link.bestest.io,DIRECT
+.bestevermotorie.com,DIRECT
 .bestexp1.com,DIRECT
 .bestforexpartners.com,DIRECT
+.bestfunnyads.com,DIRECT
 .besthitsnow.com,DIRECT
 .jpwfkn.besthotels.es,DIRECT
 .besti.ga,DIRECT
@@ -12690,7 +12812,6 @@
 .oulpli.bettybarclay.com,DIRECT
 .a8cv.bettysbeauty.jp,DIRECT
 .beturtwiga.com,DIRECT
-.partners.betus.com,DIRECT
 .collector.betway.be,DIRECT
 .collector.betway.com,DIRECT
 .smetric.betway.com,DIRECT
@@ -12798,6 +12919,7 @@
 .images.go.bge.com,DIRECT
 .bgecvddelzg.com,DIRECT
 .bgeg1.fun,DIRECT
+.bghebf.xyz,DIRECT
 .info.bgi.com,DIRECT
 .bgidskiv.top,DIRECT
 .bginrbancsr.com,DIRECT
@@ -12860,6 +12982,7 @@
 .bhuoeykefbnfgc.com,DIRECT
 .mxpdsu.bhv.fr,DIRECT
 .mit.bhw.de,DIRECT
+.bhwfvfevnqg.com,DIRECT
 .bhxogodamtrcs.com,DIRECT
 .bhzejltg.info,DIRECT
 .fei232.bhzje7ua9.com,DIRECT
@@ -12880,6 +13003,7 @@
 .biasedpushful.com,DIRECT
 .bibasicbdrm.top,DIRECT
 .bibbledendysis.top,DIRECT
+.bibblerkabars.click,DIRECT
 .bibblio.org,DIRECT
 .biberonmacers.shop,DIRECT
 .biberukalap.com,DIRECT
@@ -13064,6 +13188,7 @@
 .billyhis.com,DIRECT
 .billypub.com,DIRECT
 .vqxlbd.billyreid.com,DIRECT
+.bilsoaphaik.net,DIRECT
 .bilsyndication.com,DIRECT
 .go.bilt.page,DIRECT
 .test.bilt.page,DIRECT
@@ -13356,6 +13481,7 @@
 .bizo.com,DIRECT
 .bizographics.com,DIRECT
 .bizonads-ssp.com,DIRECT
+.bizoniatump.click,DIRECT
 .bizoninvest.com,DIRECT
 .blip.bizrate.com,DIRECT
 .medals.bizrate.com,DIRECT
@@ -13438,9 +13564,11 @@
 .bkkejrvlnmbbr.top,DIRECT
 .bklesfzb.com,DIRECT
 .bklhnlv.com,DIRECT
+.bkr5xeg0c.com,DIRECT
 .bkrmyhynjddpl.com,DIRECT
 .bkrtx.com,DIRECT
 .smetrics.bkstr.com,DIRECT
+.bktdmqdcvshs.xyz,DIRECT
 .m.bkuax.com,DIRECT
 .bkujacocdop.com,DIRECT
 .bkuqgkjpqzofi.com,DIRECT
@@ -13550,6 +13678,7 @@
 .blanddish.pro,DIRECT
 .blank-tune.pro,DIRECT
 .blareclockwisebead.com,DIRECT
+.blarnydines.com,DIRECT
 .blastadoptedlink.com,DIRECT
 .blastcahs.com,DIRECT
 .blastedenfoil.top,DIRECT
@@ -13650,6 +13779,7 @@
 .blobjournalistunwind.com,DIRECT
 .bloblohub.com,DIRECT
 .blobsurnameincessant.com,DIRECT
+.block-ad.com,DIRECT
 .blockadsnot.com,DIRECT
 .smetrics.blockbuster.com,DIRECT
 .som.blockbuster.com,DIRECT
@@ -13830,6 +13960,7 @@
 .blueygeckoid.top,DIRECT
 .bluffybluffysterility.com,DIRECT
 .bluishgrunt.com,DIRECT
+.bluitesqiegbo.xyz,DIRECT
 .trk.blume2000.de,DIRECT
 .blunderadventurouscompound.com,DIRECT
 .sc.blurb.fr,DIRECT
@@ -13849,6 +13980,7 @@
 .blzz.xyz,DIRECT
 .links.email.bm-solutions.co.uk,DIRECT
 .bm23.com,DIRECT
+.bmaafbjmya.com,DIRECT
 .bmatgg18.xyz,DIRECT
 .bmbmwiadmvx.com,DIRECT
 .app.go.bmc.com,DIRECT
@@ -13994,6 +14126,7 @@
 .bnster.com,DIRECT
 .bntech.io,DIRECT
 .bnuni.com,DIRECT
+.bnxiorj2a.com,DIRECT
 .bnxydwdgr.com,DIRECT
 .metrics.bnymellon.com,DIRECT
 .smetrics.bnymellon.com,DIRECT
@@ -14205,10 +14338,12 @@
 .bonertraffic13.info,DIRECT
 .bonertraffic14.info,DIRECT
 .bonesinoffensivebook.com,DIRECT
+.bonewog.shop,DIRECT
 .bongacams.com,DIRECT
 .bongacams7.com,DIRECT
 .bongaucm.xyz,DIRECT
 .bongauns.xyz,DIRECT
+.bongosstygian.click,DIRECT
 .bonicus.com,DIRECT
 .emedns.bonify.de,DIRECT
 .weoccn.bonito.pl,DIRECT
@@ -14380,6 +14515,7 @@
 .smetrics.boq.com.au,DIRECT
 .boqmjxtkwn.com,DIRECT
 .boqsxdpx.xyz,DIRECT
+.borablejoky.shop,DIRECT
 .data.marketing.boradetop.com.br,DIRECT
 .tr.cj.bordeaux-metropole.fr,DIRECT
 .tr.ville.bordeaux.fr,DIRECT
@@ -14701,6 +14837,7 @@
 .bragspiritualstay.com,DIRECT
 .braidformulathick.com,DIRECT
 .braidprosecution.com,DIRECT
+.braidrainhypocrite.com,DIRECT
 .braidsagria.com,DIRECT
 .adebis0508.brain-sleep.com,DIRECT
 .content.brain-storm-email.com,DIRECT
@@ -14890,7 +15027,9 @@
 .a8.bridal-hills.com,DIRECT
 .bans.bride.ru,DIRECT
 .bridedeed.com,DIRECT
+.bridesargean.click,DIRECT
 .brideshieldstaircase.com,DIRECT
+.bridgearchly.com,DIRECT
 .metrics.bridgestoneamericas.com,DIRECT
 .smetrics.bridgestoneamericas.com,DIRECT
 .news.bridgetowermedia.com,DIRECT
@@ -14901,7 +15040,6 @@
 .brie5jiff.com,DIRECT
 .brief-tank.pro,DIRECT
 .briefaccusationaccess.com,DIRECT
-.briefbears.com,DIRECT
 .briefcasebuoyduster.com,DIRECT
 .briefengineer.pro,DIRECT
 .info.briefing.com,DIRECT
@@ -15098,6 +15236,7 @@
 .browsobsolete.com,DIRECT
 .axp.brproud.com,DIRECT
 .brqhyzk.com,DIRECT
+.brrpyuepv.com,DIRECT
 .c0012.brsimg.com,DIRECT
 .brsrvr.com,DIRECT
 .brtenusjkmgyb.com,DIRECT
@@ -15152,7 +15291,6 @@
 .seyfwl.bryk.pl,DIRECT
 .bryond.com,DIRECT
 .bryovo.com,DIRECT
-.d-log.bs-asahi.tv,DIRECT
 .bs50tds.com,DIRECT
 .m.bs641.cn,DIRECT
 .bsa.bsafesafety.com,DIRECT
@@ -15276,7 +15414,6 @@
 .bu3le2lp4t45e6i.com,DIRECT
 .buatru.xyz,DIRECT
 .jc.bubbleandyeson.com,DIRECT
-.bubblebedroom.com,DIRECT
 .bubbledevotion.com,DIRECT
 .chpspb.bubbleroom.fi,DIRECT
 .ndeooc.bubbleroom.no,DIRECT
@@ -15486,6 +15623,7 @@
 .buqbxdqurj.xyz,DIRECT
 .buqkrzbrucz.com,DIRECT
 .buram.xyz,DIRECT
+.burbarkholpen.com,DIRECT
 .om.burberry.com,DIRECT
 .bureauelderlydivine.com,DIRECT
 .bureautrickle.com,DIRECT
@@ -15533,6 +15671,7 @@
 .tracking.busenladies.de,DIRECT
 .bushesawaitfeminine.com,DIRECT
 .bushesbag.com,DIRECT
+.bushibousy.click,DIRECT
 .stat-ssl.bushikaku.net,DIRECT
 .app.bushnell.org,DIRECT
 .t.bushnell.org,DIRECT
@@ -15686,6 +15825,7 @@
 .bvudraqxpl.com,DIRECT
 .bvxiht.xyz,DIRECT
 .bvyblnenz.com,DIRECT
+.bwaerxjkaq.com,DIRECT
 .bwbmyzvnjqwna.top,DIRECT
 .tg.bwc178.com,DIRECT
 .bweriov.top,DIRECT
@@ -15707,11 +15847,13 @@
 .bwjfnj.xyz,DIRECT
 .bwlcpr.xyz,DIRECT
 .bwnmwhblsf.com,DIRECT
+.bwozo9iqg75l.shop,DIRECT
 .bwpirrwsh.com,DIRECT
 .bwpuoba.com,DIRECT
 .adobeanalytics.bws.com.au,DIRECT
 .app.bws.com.au,DIRECT
 .target.bws.com.au,DIRECT
+.bwtcilgll.com,DIRECT
 .solutions.bwtek.com,DIRECT
 .ad.bwton.com,DIRECT
 .dlogs.bwton.com,DIRECT
@@ -15893,6 +16035,7 @@
 .c473f6ab10.com,DIRECT
 .c4frc.info,DIRECT
 .native-ads-events-api.c4s-rd.services,DIRECT
+.native-ads-events-api2.c4s-rd.services,DIRECT
 .c4tracking01.com,DIRECT
 .t.c4tw.net,DIRECT
 .go.c4weld.com,DIRECT
@@ -15950,6 +16093,8 @@
 .marketing.cableloc.com,DIRECT
 .som.cablestogo.co.uk,DIRECT
 .cabnnr.com,DIRECT
+.cabombaskopets.life,DIRECT
+.cabotblatant.top,DIRECT
 .cacafly.com,DIRECT
 .cacafly.net,DIRECT
 .flurry.cachefly.net,DIRECT
@@ -16095,7 +16240,6 @@
 .marketing.caldwellpartners.com,DIRECT
 .s.caledonenterprise.com,DIRECT
 .calendarpedestal.com,DIRECT
-.calendarrate.com,DIRECT
 .calepinphrasal.com,DIRECT
 .smetrics.caleres.com,DIRECT
 .metrics.calgary.ca,DIRECT
@@ -16331,7 +16475,6 @@
 .news.cannesyachtingfestival.com,DIRECT
 .content.cannon-dunphy.com,DIRECT
 .cannonchange.com,DIRECT
-.cannonjudo.com,DIRECT
 .canoemissioninjunction.com,DIRECT
 .canoevaguely.com,DIRECT
 .b2binfo.canon-europe.com,DIRECT
@@ -16353,6 +16496,7 @@
 .l.create.canva.com,DIRECT
 .l.engage.canva.com,DIRECT
 .l.support.canva.com,DIRECT
+.telemetry.canva.com,DIRECT
 .canvassblanketjar.com,DIRECT
 .canwi.mobi,DIRECT
 .canzosswager.com,DIRECT
@@ -16516,7 +16660,6 @@
 .carefoxhired.top,DIRECT
 .carefree-ship.pro,DIRECT
 .carefuldolls.com,DIRECT
-.carelesshat.com,DIRECT
 .carelesssequel.com,DIRECT
 .carelesstableinevitably.com,DIRECT
 .marketing.careservicesllc.com,DIRECT
@@ -16621,6 +16764,7 @@
 .carrel.services,DIRECT
 .sadbmetrics.carreraempresas.com,DIRECT
 .carriagecan.com,DIRECT
+.carriedamiral.com,DIRECT
 .connect.carrier.com.ph,DIRECT
 .carrierdestined.com,DIRECT
 .app.carrierview.com,DIRECT
@@ -16882,6 +17026,7 @@
 .40caidaylimpia.catzolab.net,DIRECT
 .caubichofus.com,DIRECT
 .caufirig.com,DIRECT
+.caugrush.com,DIRECT
 .cauldronrepellentcanvass.com,DIRECT
 .caulifloweraircraft.com,DIRECT
 .cauliflowercutlerysodium.com,DIRECT
@@ -16948,7 +17093,6 @@
 .cbfdzofxzgbgor.com,DIRECT
 .cbfpiqq.com,DIRECT
 .cbgrqi.xyz,DIRECT
-.cbhvuivvkkrjrsg.com,DIRECT
 .a8.cbiz.io,DIRECT
 .cbmiocw.com,DIRECT
 .metrics.cbn.com,DIRECT
@@ -17123,6 +17267,7 @@
 .js.cdjqjy.com,DIRECT
 .cdjs.online,DIRECT
 .cdkcaxxjyyb.xyz,DIRECT
+.cdm48c9bg.com,DIRECT
 .cdmgac.xyz,DIRECT
 .cdmjur.xyz,DIRECT
 .cdmnlxtu.xyz,DIRECT
@@ -17146,27 +17291,16 @@
 .cdn4image.com,DIRECT
 .cdn7.network,DIRECT
 .cdn7.rocks,DIRECT
-.1050631164.rsc.cdn77.org,DIRECT
 .1080872514.rsc.cdn77.org,DIRECT
 .1187531871.rsc.cdn77.org,DIRECT
-.1190839848.rsc.cdn77.org,DIRECT
-.1266417098.rsc.cdn77.org,DIRECT
-.1284260525.rsc.cdn77.org,DIRECT
-.1373760390.rsc.cdn77.org,DIRECT
-.1432910691.rsc.cdn77.org,DIRECT
+.1208344341.rsc.cdn77.org,DIRECT
 .1437953666.rsc.cdn77.org,DIRECT
-.1527114871.rsc.cdn77.org,DIRECT
 .1529462937.rsc.cdn77.org,DIRECT
-.1547513774.rsc.cdn77.org,DIRECT
-.1547760468.rsc.cdn77.org,DIRECT
 .1548164934.rsc.cdn77.org,DIRECT
 .1558334541.rsc.cdn77.org,DIRECT
-.1670840964.rsc.cdn77.org,DIRECT
+.1588341617.rsc.cdn77.org,DIRECT
 .1675450967.rsc.cdn77.org,DIRECT
 .1736253261.rsc.cdn77.org,DIRECT
-.1739135659.rsc.cdn77.org,DIRECT
-.1859765560.rsc.cdn77.org,DIRECT
-.1939661642.rsc.cdn77.org,DIRECT
 .1480876790.rsc.cdn77.org,DIRECT
 .cdnads.com,DIRECT
 .cdnapi.net,DIRECT
@@ -17578,6 +17712,7 @@
 .chaingptweb3.org,DIRECT
 .chainlist.sh,DIRECT
 .gdsngr.chainreactioncycles.com,DIRECT
+.chainsdixain.shop,DIRECT
 .chaintopdom.nl,DIRECT
 .chainupdate.us,DIRECT
 .chainwalladsery.com,DIRECT
@@ -17682,6 +17817,7 @@
 .pduwvp.chanti.dk,DIRECT
 .ssp.chaohutechan.com,DIRECT
 .chaojilamei.cn,DIRECT
+.chaomemoria.top,DIRECT
 .soft.chaomeng8.com,DIRECT
 .collect.chaordicsystems.com,DIRECT
 .events.chaordicsystems.com,DIRECT
@@ -17946,6 +18082,7 @@
 .ponyo.cheriefm.fr,DIRECT
 .cherriescare.com,DIRECT
 .cherrynanspecification.com,DIRECT
+.cherrytv.media,DIRECT
 .dxrkvm.cheryls.com,DIRECT
 .cherylssb.com,DIRECT
 .ches5sort.com,DIRECT
@@ -18019,6 +18156,7 @@
 .childbirthprivaterouge.com,DIRECT
 .childhoodtilt.com,DIRECT
 .childishenough.com,DIRECT
+.childlessporcupinevaluables.com,DIRECT
 .childlikecook.com,DIRECT
 .childlikecrowd.com,DIRECT
 .childlikeexample.com,DIRECT
@@ -18398,6 +18536,7 @@
 .tracking1.cignaglobalhealth.com,DIRECT
 .info.cignex.com,DIRECT
 .eventos.cihac.com,DIRECT
+.cihoqvbqnbsv.com,DIRECT
 .ciimar.icu,DIRECT
 .ciimg.com,DIRECT
 .ciizxsdr.com,DIRECT
@@ -18417,6 +18556,7 @@
 .app.cincinnatiarts.org,DIRECT
 .t.cincinnatiarts.org,DIRECT
 .analytics.cincopa.com,DIRECT
+.cinelsneezer.shop,DIRECT
 .kzsicw.cinema.de,DIRECT
 .cinemabonus.com,DIRECT
 .cinemafacil.com,DIRECT
@@ -18444,6 +18584,7 @@
 .procurement.cipscomms.org,DIRECT
 .ciqahsejb.com,DIRECT
 .ciqtracking.com,DIRECT
+.ciqzagzwao.com,DIRECT
 .marketing.circadence.com,DIRECT
 .circle.am,DIRECT
 .apps.circle.com,DIRECT
@@ -18470,6 +18611,7 @@
 .cirrateremord.com,DIRECT
 .analytics.cirroenergy.com,DIRECT
 .cirsoaksat.net,DIRECT
+.cirtaisteept.net,DIRECT
 .marketing.cisco-eagle.com,DIRECT
 .clnmetrics.cisco.com,DIRECT
 .engage2demand.cisco.com,DIRECT
@@ -18499,6 +18641,7 @@
 .comms.cision.com,DIRECT
 .pr.cision.com,DIRECT
 .pr.cision.fi,DIRECT
+.cisiumducatus.shop,DIRECT
 .cisiwa.site,DIRECT
 .cismqdx.icu,DIRECT
 .smetrics.cisnfm.com,DIRECT
@@ -18602,6 +18745,7 @@
 .cixompoqpbgh.com,DIRECT
 .21.cizhibaogao.org,DIRECT
 .cizion.com,DIRECT
+.cizujougneem.com,DIRECT
 .cizzwykcug.com,DIRECT
 .affiliatepluginintegration.cj.com,DIRECT
 .cj2550.com,DIRECT
@@ -19003,7 +19147,6 @@
 .cliffnsc.xyz,DIRECT
 .marketing.cliffordpower.com,DIRECT
 .cliggi.download,DIRECT
-.clikapps.icu,DIRECT
 .tytpdz.climamarket.it,DIRECT
 .sisdtb.climatempo.com.br,DIRECT
 .info.climatepledgearena.com,DIRECT
@@ -19033,6 +19176,7 @@
 .clipperroutesevere.com,DIRECT
 .events.clips4sale.com,DIRECT
 .n.clips4sale.com,DIRECT
+.n2.clips4sale.com,DIRECT
 .clipxn.com,DIRECT
 .cliqtag.net,DIRECT
 .cliquedmuggish.top,DIRECT
@@ -19341,7 +19485,6 @@
 .d1qk9ujrmkucbl.cloudfront.net,DIRECT
 .d1qnmu4nrib73p.cloudfront.net,DIRECT
 .d1qow5kxfhwlu8.cloudfront.net,DIRECT
-.d1qpxk1wfeh8v1.cloudfront.net,DIRECT
 .d1r27qvpjiaqj3.cloudfront.net,DIRECT
 .d1r2sy6oc0ariq.cloudfront.net,DIRECT
 .d1r3ddyrqrmcjv.cloudfront.net,DIRECT
@@ -19842,6 +19985,7 @@
 .d3ngt858zasqwf.cloudfront.net,DIRECT
 .d3numuoibysgi8.cloudfront.net,DIRECT
 .d3nvrqlo8rj1kw.cloudfront.net,DIRECT
+.d3nz96k4xfpkvu.cloudfront.net,DIRECT
 .d3o9njeb29ydop.cloudfront.net,DIRECT
 .d3ohee25hhsn8j.cloudfront.net,DIRECT
 .d3op2vgjk53ps1.cloudfront.net,DIRECT
@@ -20386,6 +20530,7 @@
 .adp1.cnool.net,DIRECT
 .ida.cnool.net,DIRECT
 .cnqaaa.xyz,DIRECT
+.cnquqbehksc.com,DIRECT
 .adsame1.cnr.cn,DIRECT
 .d1.cnr.cn,DIRECT
 .ggdata1.cnr.cn,DIRECT
@@ -20497,7 +20642,6 @@
 .marketing.100days.co.il,DIRECT
 .pro.bizportal.co.il,DIRECT
 .saa.dyson.co.il,DIRECT
-.services.haaretz.co.il,DIRECT
 .sites.groo.co.il,DIRECT
 .smetrics.kone.co.il,DIRECT
 .smetrics.marketing.lighting.philips.co.il,DIRECT
@@ -20583,6 +20727,7 @@
 .coastlinejudgement.com,DIRECT
 .coat0tire.com,DIRECT
 .coatassert.com,DIRECT
+.coatedflamfew.click,DIRECT
 .coatfood.com,DIRECT
 .coatsanguine.com,DIRECT
 .coatslilachang.com,DIRECT
@@ -20698,6 +20843,7 @@
 .e.codlw.com,DIRECT
 .m.codlw.com,DIRECT
 .a8cv.codmon.com,DIRECT
+.cododeerda.net,DIRECT
 .cody.services,DIRECT
 .br.coe777.com,DIRECT
 .tr.newsletters.coedition-contact.fr,DIRECT
@@ -20819,6 +20965,7 @@
 .coinpot.co,DIRECT
 .coinrail.io,DIRECT
 .download.coinseed.co,DIRECT
+.coinsmanning.com,DIRECT
 .invite.coinstats.app,DIRECT
 .plutonium.cointelegraph.com,DIRECT
 .cointraffic.io,DIRECT
@@ -20852,6 +20999,7 @@
 .colemalist.top,DIRECT
 .sst.colemanfurniture.com,DIRECT
 .colenhackbut.com,DIRECT
+.colentkeruing.top,DIRECT
 .images.info.coleparmer.com,DIRECT
 .colerajute.com,DIRECT
 .app.colesmobile.com.au,DIRECT
@@ -21049,6 +21197,7 @@
 .comafilingverse.com,DIRECT
 .comagic.ru,DIRECT
 .comalonger.com,DIRECT
+.comarind.com,DIRECT
 .combatboatsplaywright.com,DIRECT
 .analytics.combatefreestyle.com,DIRECT
 .sanalytics.combatefreestyle.com,DIRECT
@@ -21631,6 +21780,7 @@
 .contehos.com,DIRECT
 .contekehissing.top,DIRECT
 .contemplatepuddingbrain.com,DIRECT
+.contemplatethwartcooperation.com,DIRECT
 .contemporarytechnicalrefuge.com,DIRECT
 .content-ad.net,DIRECT
 .content-cooperation.com,DIRECT
@@ -21844,6 +21994,7 @@
 .coolerpassagesshed.com,DIRECT
 .coolestblockade.com,DIRECT
 .coolestdecoic.click,DIRECT
+.coolestreactionstems.com,DIRECT
 .coolguang.com,DIRECT
 .coolherein.com,DIRECT
 .metrics.coolibar.com,DIRECT
@@ -21963,6 +22114,7 @@
 .coreportions.com,DIRECT
 .rum.corewebvitals.io,DIRECT
 .corgibeachday.com,DIRECT
+.corgompaup.com,DIRECT
 .corgouzaptax.com,DIRECT
 .corixaraphide.top,DIRECT
 .marketing.corneagen.com,DIRECT
@@ -22113,6 +22265,7 @@
 .zvfzqw.cotta.jp,DIRECT
 .metrics.cottages.com,DIRECT
 .smetrics.cottages.com,DIRECT
+.cottersguayabi.click,DIRECT
 .cottoidearldom.com,DIRECT
 .cottoncabbage.com,DIRECT
 .cottondivorcefootprint.com,DIRECT
@@ -22288,7 +22441,6 @@
 .cowerscrowers.top,DIRECT
 .cowm199.com,DIRECT
 .cowroidforril.click,DIRECT
-.cowscrayon.com,DIRECT
 .cowtpvi.com,DIRECT
 .smetrics.cox.com,DIRECT
 .target.cox.com,DIRECT
@@ -22330,7 +22482,6 @@
 .cpaway.com,DIRECT
 .cpays.com,DIRECT
 .news.cpbj.com,DIRECT
-.cpbj8ddae04d.shop,DIRECT
 .cpc.cc,DIRECT
 .cpcmanager.com,DIRECT
 .cpcmart.com,DIRECT
@@ -22599,7 +22750,6 @@
 .eakaih.creditas.com,DIRECT
 .creditbitesize.com,DIRECT
 .cctrkom.creditcards.com,DIRECT
-.creditcreature.com,DIRECT
 .ch.credithypo.com,DIRECT
 .click.emails.creditonebank.com,DIRECT
 .somni.creditonebank.com,DIRECT
@@ -22635,6 +22785,7 @@
 .creojnpibos.com,DIRECT
 .tnxxtx.crepeerase.com,DIRECT
 .crepeyindited.top,DIRECT
+.crepeymurat.shop,DIRECT
 .crepgate.com,DIRECT
 .creptdeservedprofanity.com,DIRECT
 .calgary-content.cresa.com,DIRECT
@@ -22717,6 +22868,7 @@
 .croakedrotonda.com,DIRECT
 .a8.croaster-select.com,DIRECT
 .croceussmitter.click,DIRECT
+.crochetmedimno.top,DIRECT
 .crockejection.com,DIRECT
 .crockerycrowdedincidentally.com,DIRECT
 .grnext.crockpot-romania.ro,DIRECT
@@ -22752,6 +22904,7 @@
 .counter.cropvid.com,DIRECT
 .dynamic-content.croquetteland.com,DIRECT
 .cross-system.com,DIRECT
+.crossback.cl,DIRECT
 .crosschannel.com,DIRECT
 .crossees.com,DIRECT
 .pt.crossmediaservices.com,DIRECT
@@ -22943,6 +23096,7 @@
 .ctcxflak.xyz,DIRECT
 .cten10010.com,DIRECT
 .ctengine.io,DIRECT
+.cteozuek9.com,DIRECT
 .cteripre.com,DIRECT
 .doubleclick.ctfile.com,DIRECT
 .mydisplay.ctfile.com,DIRECT
@@ -22958,6 +23112,7 @@
 .info.ctiimage.com,DIRECT
 .z492.ctinsider.com,DIRECT
 .ctiotjobkfu.com,DIRECT
+.ctkyom.xyz,DIRECT
 .ctlrarz.xyz,DIRECT
 .ctlrnwbv.ru,DIRECT
 .ctm-media.com,DIRECT
@@ -22990,6 +23145,7 @@
 .veqvek.ctv.ca,DIRECT
 .metrics.ctvdigital.net,DIRECT
 .veqvek.ctvnews.ca,DIRECT
+.ctvnfeta.com,DIRECT
 .ctvnmxl.com,DIRECT
 .ctvrtrya.xyz,DIRECT
 .ctxtfl.com,DIRECT
@@ -22997,6 +23153,7 @@
 .ctykxlvztyy.com,DIRECT
 .best.obs.cn-sz1.ctyun.cn,DIRECT
 .ctyusif.top,DIRECT
+.cu9kqki45.com,DIRECT
 .mdws.cua.com,DIRECT
 .smetrics.cua.com.au,DIRECT
 .stat.cuadernosdepedagogia.com,DIRECT
@@ -23059,7 +23216,6 @@
 .culturaltracking.ru,DIRECT
 .tr.inspiration.culture-data.fr,DIRECT
 .culturedcamera.com,DIRECT
-.culturedcrayon.com,DIRECT
 .culturedfeather.com,DIRECT
 .aarqmo.culturekings.co.nz,DIRECT
 .wgnrrd.culturekings.com,DIRECT
@@ -23193,6 +23349,7 @@
 .cutescale.online,DIRECT
 .cutesyapaise.com,DIRECT
 .cuteturkey.com,DIRECT
+.cutsauvo.net,DIRECT
 .gcoiys.cutsclothing.com,DIRECT
 .experts.cutter.com,DIRECT
 .cuttingdemeanoursuperintend.com,DIRECT
@@ -23344,6 +23501,7 @@
 .metrics.cycleworld.com,DIRECT
 .cyclistforgotten.com,DIRECT
 .cyclopsdial.com,DIRECT
+.cyclosgrocer.click,DIRECT
 .cycndlhot.xyz,DIRECT
 .cycvyo.xyz,DIRECT
 .cydippeespy.com,DIRECT
@@ -23442,6 +23600,7 @@
 .d-stats.com,DIRECT
 .d03804f2c8.com,DIRECT
 .d05571f85f.com,DIRECT
+.d08l9a634.com,DIRECT
 .d0efb7d9aeb478d.com,DIRECT
 .d0lzq.com,DIRECT
 .d0main.ru,DIRECT
@@ -23478,6 +23637,7 @@
 .d56cfcfcab.com,DIRECT
 .d592971f36.com,DIRECT
 .d59936b940.com,DIRECT
+.d5chnap6b.com,DIRECT
 .d6030fe5c6.com,DIRECT
 .d65a1fbe58.com,DIRECT
 .d6f8c08166.com,DIRECT
@@ -23502,6 +23662,7 @@
 .da29e6b8-f018-490f-b25f-39a887fc95e7.xyz,DIRECT
 .da303.com,DIRECT
 .da77842b9c.com,DIRECT
+.da927u0bs.com,DIRECT
 .daailynews.com,DIRECT
 .analytics.daasrv.net,DIRECT
 .dabaicai.cn,DIRECT
@@ -23606,6 +23767,7 @@
 .daintydragged.com,DIRECT
 .daintyinternetcable.com,DIRECT
 .a8clk.www.daiohs.com,DIRECT
+.daiphero.com,DIRECT
 .daiporno.com,DIRECT
 .dairebougee.com,DIRECT
 .dairouzy.net,DIRECT
@@ -23658,6 +23820,7 @@
 .iobyeq.dallmayr-versand.de,DIRECT
 .dallthroughthe.info,DIRECT
 .cc.dalten.cz,DIRECT
+.daltongrievously.com,DIRECT
 .daluxmurwthhk.com,DIRECT
 .med.dalvance.com,DIRECT
 .dalyai.com,DIRECT
@@ -23671,7 +23834,6 @@
 .damagedadvice.com,DIRECT
 .damageddistance.com,DIRECT
 .damagedmissionaryadmonish.com,DIRECT
-.damagedroll.com,DIRECT
 .g.daman.cc,DIRECT
 .nohaxn.damattween.com,DIRECT
 .damb68.com,DIRECT
@@ -23909,6 +24071,7 @@
 .marketing.datamatics.com,DIRECT
 .datamilk.app,DIRECT
 .datamind.ru,DIRECT
+.datanoufou.xyz,DIRECT
 .dataofpages.com,DIRECT
 .dataperforma.com,DIRECT
 .metrics.datapipe.com,DIRECT
@@ -23952,6 +24115,7 @@
 .date4sex.pro,DIRECT
 .dateddeed.com,DIRECT
 .datefunclub.com,DIRECT
+.datesnsluts.com,DIRECT
 .datesviewsticker.com,DIRECT
 .dateszone.net,DIRECT
 .datetrackservice.com,DIRECT
@@ -24128,6 +24292,7 @@
 .s.dbojetp.cn,DIRECT
 .dbpxivi.xyz,DIRECT
 .dbqlghadltookjo.xyz,DIRECT
+.dbr9gtaf8.com,DIRECT
 .mit.researchlog.dbresearch.com,DIRECT
 .mit.researchlog.dbresearch.de,DIRECT
 .dbrtkwaa81.com,DIRECT
@@ -24168,6 +24333,7 @@
 .marketing.dcmservices.com,DIRECT
 .axp.dcnewsnow.com,DIRECT
 .dcrzz.com,DIRECT
+.dcsewjll.com,DIRECT
 .ea.dcshoes-europe.com,DIRECT
 .metrics.dcshoes.com,DIRECT
 .jyumzv.dcshoes.com.br,DIRECT
@@ -24195,6 +24361,7 @@
 .ddgjjj.com,DIRECT
 .ddhjxakewpp.com,DIRECT
 .ddielv.cn,DIRECT
+.stream-log.dditscdn.com,DIRECT
 .ddkf.xyz,DIRECT
 .ddkh59.com,DIRECT
 .ddllhqj.xyz,DIRECT
@@ -24216,10 +24383,13 @@
 .s.ddstu.com,DIRECT
 .m.ddttssz.cn,DIRECT
 .ddtvskish.com,DIRECT
+.ddvfydfjupzj.com,DIRECT
 .u.ddvip.com,DIRECT
+.ddvqunmyabzb.com,DIRECT
 .dm1.ddwk8.cn,DIRECT
 .ddwt.am,DIRECT
 .ddylxccl.xyz,DIRECT
+.ddzk5l3bd.com,DIRECT
 .a8.de-limmo.jp,DIRECT
 .de-mi-nis-ner.info,DIRECT
 .de-mi-nis-ner2.info,DIRECT
@@ -24265,7 +24435,6 @@
 .dearlystoop.com,DIRECT
 .deasandcomemunic.com,DIRECT
 .deatchshipsmotor.com,DIRECT
-.deauduafzgezzfgm.top,DIRECT
 .obqvss.debameubelen.be,DIRECT
 .debatableslippers.com,DIRECT
 .debateconsentvisitation.com,DIRECT
@@ -24280,7 +24449,6 @@
 .debitslopenoncommittal.com,DIRECT
 .deboisedivel.com,DIRECT
 .debonairdust.com,DIRECT
-.debonairseashore.com,DIRECT
 .debonairtree.com,DIRECT
 .debonairway.com,DIRECT
 .debrisstern.com,DIRECT
@@ -24516,6 +24684,7 @@
 .delegatediscussion.com,DIRECT
 .ajbeqy.delfi.lt,DIRECT
 .ts.delfi.lt,DIRECT
+.delfsrld.click,DIRECT
 .metrics.delhaizedirect.be,DIRECT
 .delhirs.com,DIRECT
 .delicatecascade.com,DIRECT
@@ -25191,6 +25360,7 @@
 .dgafgadsgkjg.top,DIRECT
 .dgamapxs.com,DIRECT
 .m.dgaoz.com,DIRECT
+.dgcgugid.com,DIRECT
 .dgfggy.com,DIRECT
 .dggwqknub.com,DIRECT
 .dghhot.com,DIRECT
@@ -25208,6 +25378,7 @@
 .dgpcdn.org,DIRECT
 .dgptxzz.com,DIRECT
 .info.dgq.de,DIRECT
+.dgqu3g706.com,DIRECT
 .go.dgsta.com,DIRECT
 .lnk.dgsta.com,DIRECT
 .dgtbjoswrqu.com,DIRECT
@@ -25414,6 +25585,7 @@
 .digidip.net,DIRECT
 .privacy.digimedia.com,DIRECT
 .app.dolinakrzny.digimuth.com,DIRECT
+.diginamis.com,DIRECT
 .mktg.digineer.com,DIRECT
 .tracking.diginetica.net,DIRECT
 .digipathmedia.com,DIRECT
@@ -25618,6 +25790,7 @@
 .hiuplq.diretta.it,DIRECT
 .tracking.direxion.com,DIRECT
 .forms.direxionfunds.com,DIRECT
+.diromalxx.com,DIRECT
 .dirtrecurrentinapptitudeinapptitude.com,DIRECT
 .dirtyasmr.com,DIRECT
 .dirvimctifiz.com,DIRECT
@@ -25934,6 +26107,7 @@
 .distressedsoultabloid.com,DIRECT
 .distribeo.com,DIRECT
 .distributionfray.com,DIRECT
+.distributionland.website,DIRECT
 .distributionneck.com,DIRECT
 .distributionpocket.com,DIRECT
 .distributionrealmoth.com,DIRECT
@@ -25992,6 +26166,7 @@
 .divortrelict.top,DIRECT
 .metrics.divosta.com,DIRECT
 .aknzmq.divvino.com.br,DIRECT
+.divvyprorata.com,DIRECT
 .divxrj.xyz,DIRECT
 .ad-display.diwodiwo.xyz,DIRECT
 .ad-channel.diwodiwo.xyz,DIRECT
@@ -26029,7 +26204,6 @@
 .omni.djoglobal.com,DIRECT
 .somni.djoglobal.com,DIRECT
 .glbgox.djoser.de,DIRECT
-.djpd.pl,DIRECT
 .djphnuhkbjf.com,DIRECT
 .djponj.xyz,DIRECT
 .djqacscl.com,DIRECT
@@ -26201,7 +26375,6 @@
 .subscribe.dnv.com,DIRECT
 .webinar.dnv.com,DIRECT
 .dnvgecz.com,DIRECT
-.dnvk1.info,DIRECT
 .dnvod.tv,DIRECT
 .do09.net,DIRECT
 .do69ifsly4.me,DIRECT
@@ -26406,6 +26579,7 @@
 .domicileperil.com,DIRECT
 .domicilereduction.com,DIRECT
 .dominaepleck.top,DIRECT
+.dominaeusques.com,DIRECT
 .dominantcodes.com,DIRECT
 .tracking.dominanteladies.de,DIRECT
 .dominantroute.com,DIRECT
@@ -26440,6 +26614,7 @@
 .visit.donateblood.com.au,DIRECT
 .donateentrailskindly.com,DIRECT
 .donateyowl.shop,DIRECT
+.donceystutqzh.com,DIRECT
 .donecooler.com,DIRECT
 .donecperficiam.net,DIRECT
 .ncxxek.donedeal.ie,DIRECT
@@ -26462,7 +26637,6 @@
 .donneesskilder.top,DIRECT
 .tracking.donnemagazine.it,DIRECT
 .rpfqvl.donnerwetter.de,DIRECT
-.donorenvy.com,DIRECT
 .sadbmetrics.donostimasterscup.com,DIRECT
 .smetrics.donovanac.com,DIRECT
 .donreach.com,DIRECT
@@ -26471,7 +26645,6 @@
 .donttbeevils.de,DIRECT
 .donyandmark.xyz,DIRECT
 .doobaupu.xyz,DIRECT
-.doobuphoo.com,DIRECT
 .abc.dooccn.com,DIRECT
 .doochoor.xyz,DIRECT
 .doodiwom.com,DIRECT
@@ -26482,6 +26655,7 @@
 .doomcelebritystarch.com,DIRECT
 .doomdoleinto.com,DIRECT
 .doomedafarski.com,DIRECT
+.doomedlimpmantle.com,DIRECT
 .doomna.com,DIRECT
 .doompuncturedearest.com,DIRECT
 .link.doopage.com,DIRECT
@@ -26605,6 +26779,7 @@
 .doubtfulrainstorm.com,DIRECT
 .doubtlesshealthydocument.com,DIRECT
 .doubtmeasure.com,DIRECT
+.douchaiwouvo.net,DIRECT
 .doucheng123.com,DIRECT
 .doucheraisiny.com,DIRECT
 .1.doudouditu.com,DIRECT
@@ -26672,8 +26847,10 @@
 .doupsout.xyz,DIRECT
 .doupteethaiz.xyz,DIRECT
 .doupuer.com,DIRECT
+.dourashandbow.shop,DIRECT
 .douthosh.net,DIRECT
 .toeopa.doutornature.com,DIRECT
+.douwhawez.com,DIRECT
 .t.douyaobuy.com,DIRECT
 .tt.douyaobuy.com,DIRECT
 .wan.douyu.com,DIRECT
@@ -26848,7 +27025,6 @@
 .drawerenter.com,DIRECT
 .drawerfontactual.com,DIRECT
 .drawergypsyavalanche.com,DIRECT
-.drawermice.com,DIRECT
 .info.drawingboard.com,DIRECT
 .drawingsingmexican.com,DIRECT
 .drawingsugarnegative.com,DIRECT
@@ -26972,7 +27148,6 @@
 .marketing.driveulu.com,DIRECT
 .drivewayilluminatedconstitute.com,DIRECT
 .drivewayperrydrought.com,DIRECT
-.drivingdirt.com,DIRECT
 .drivingfoot.website,DIRECT
 .drivingkeas.top,DIRECT
 .prism.drivingkyoto.com,DIRECT
@@ -27020,6 +27195,7 @@
 .droppingforests.com,DIRECT
 .droppingprofessionmarine.com,DIRECT
 .dropsclank.com,DIRECT
+.dropsyworked.click,DIRECT
 .drownbossy.com,DIRECT
 .drowrenomme.com,DIRECT
 .drpggagxsz.com,DIRECT
@@ -27163,6 +27339,7 @@
 .dtiserv2.com,DIRECT
 .dtjpihv.xyz,DIRECT
 .dtkhbsictxpu.com,DIRECT
+.dtkmflxaqwobno.com,DIRECT
 .app.dtlphx.net,DIRECT
 .preferences.dtlphx.net,DIRECT
 .dtmpub.com,DIRECT
@@ -27217,6 +27394,7 @@
 .dubzenom.com,DIRECT
 .ducallydamar.com,DIRECT
 .marketing.ducenit.com,DIRECT
+.duchough.com,DIRECT
 .duckannihilatemulticultural.com,DIRECT
 .marketing.duckbrand.com,DIRECT
 .rlovoa.duckcamp.com,DIRECT
@@ -27229,6 +27407,7 @@
 .ducksintroduce.com,DIRECT
 .duckswillsmoochyou.com,DIRECT
 .ductclickjl.com,DIRECT
+.ductedcestoid.top,DIRECT
 .ductquest.com,DIRECT
 .ducubchooa.com,DIRECT
 .udmmdl.dudalina.com.br,DIRECT
@@ -27260,6 +27439,7 @@
 .duimspruer.life,DIRECT
 .union.duizhuang.com,DIRECT
 .dujcubbzog.com,DIRECT
+.duk0m1mlu.com,DIRECT
 .go.dukane.com,DIRECT
 .dhdaa.duke.edu,DIRECT
 .t.alumni.duke.edu,DIRECT
@@ -27458,6 +27638,7 @@
 .partner.dw.com,DIRECT
 .dwadwere.xyz,DIRECT
 .dwbfqmz.cn,DIRECT
+.bafybeicnmx2fcaolinpdaiqjo7hgsourg3qzaxf57psdrbqic4qrm4pf3i.ipfs.dweb.link,DIRECT
 .bafybeicoo7kwhmnl6q7prd65aimf5byzrihrklgviebm2pkyzyepdaigf4.ipfs.dweb.link,DIRECT
 .dwellingmerrimentrecorder.com,DIRECT
 .dwellingsensationalthere.com,DIRECT
@@ -27467,11 +27648,13 @@
 .dwfdsfkw.xyz,DIRECT
 .dwfupceuqm.com,DIRECT
 .dwglkwpyuwbd.com,DIRECT
+.dwhitdoedsrag.org,DIRECT
 .dwhyjwrw.xyz,DIRECT
 .dwightadjoining.com,DIRECT
 .dwightbridesmaid.com,DIRECT
 .dwin1.com,DIRECT
 .dwin2.com,DIRECT
+.dwiovmamhb.com,DIRECT
 .dwithmefeyauknal.info,DIRECT
 .dwlgdzzltdekr.com,DIRECT
 .dwlmjxf.com,DIRECT
@@ -27506,6 +27689,7 @@
 .tags.dxmdp.com,DIRECT
 .dxmhkisurxxxhm.ru,DIRECT
 .dxmjyxksvc.com,DIRECT
+.dxouwbn7o.com,DIRECT
 .dxpmedia.com,DIRECT
 .dxrnksm.xyz,DIRECT
 .dxryshpgyeu.com,DIRECT
@@ -27534,6 +27718,7 @@
 .a.dyjqd.com,DIRECT
 .email.everyonesocial.dykema.com,DIRECT
 .marketing.dylangrayconsulting.com,DIRECT
+.dylop.xyz,DIRECT
 .dylwqfrdb.com,DIRECT
 .a8.dymtech.jp,DIRECT
 .oci.dyn.com,DIRECT
@@ -27574,7 +27759,6 @@
 .dyscb.cn,DIRECT
 .kn.dyscsm.cn,DIRECT
 .dysenteryappeal.com,DIRECT
-.dysfunctionalcellar.com,DIRECT
 .dysfunctionalrecommendation.com,DIRECT
 .saa.dyson.ae,DIRECT
 .aa.dyson.at,DIRECT
@@ -27754,6 +27938,7 @@
 .equity.e2g.com,DIRECT
 .app.e2ma.net,DIRECT
 .m.e2n8vc.cn,DIRECT
+.e2s77vndh.com,DIRECT
 .e36e2058e8.com,DIRECT
 .e399.com,DIRECT
 .e3inu.space,DIRECT
@@ -27776,6 +27961,7 @@
 .e702fa7de9d35c37.com,DIRECT
 .e732bfae2a.com,DIRECT
 .s.e739.cn,DIRECT
+.e770af238b.com,DIRECT
 .e8100325bc.com,DIRECT
 .e822e00470.com,DIRECT
 .a8clk.www.e87.com,DIRECT
@@ -27783,6 +27969,7 @@
 .e9c1khhwn4uf.com,DIRECT
 .fyal.e9emh.cn,DIRECT
 .m.e9wm6a.cn,DIRECT
+.ea011c4ae4.com,DIRECT
 .stat.ea3w.com,DIRECT
 .js.ea3w.com,DIRECT
 .pic.ea3w.com,DIRECT
@@ -27808,6 +27995,7 @@
 .eaed8c304f.com,DIRECT
 .eaezoi.xyz,DIRECT
 .eafb9d5abc.com,DIRECT
+.eagainedameri.com,DIRECT
 .eagazi.com,DIRECT
 .eageoahba.com,DIRECT
 .eagereden.com,DIRECT
@@ -27872,7 +28060,6 @@
 .marketing.earthbend.com,DIRECT
 .n.earthlink.net,DIRECT
 .marketing.earthquakeauthority.com,DIRECT
-.earthquakeend.com,DIRECT
 .earthquakehomesinsulation.com,DIRECT
 .earthquakescarf.com,DIRECT
 .buasmk.earthshoes.com,DIRECT
@@ -28078,7 +28265,6 @@
 .ebooktheft.com,DIRECT
 .eboundservices.com,DIRECT
 .ebpex.space,DIRECT
-.ebqqiakyhsn.com,DIRECT
 .csv4.ebs-paris.fr,DIRECT
 .ebsbqexdgb.xyz,DIRECT
 .ebscb0l.xyz,DIRECT
@@ -28189,6 +28375,7 @@
 .store.echovisuals.com,DIRECT
 .theme.echovisuals.com,DIRECT
 .echskbpghlc.com,DIRECT
+.echtibuivwyd.com,DIRECT
 .ocwlhv.ecid.com.br,DIRECT
 .tr.newsletter.ecig-privee.fr,DIRECT
 .eciivxqtur.com,DIRECT
@@ -28259,6 +28446,7 @@
 .t.ecupirates.com,DIRECT
 .ecusemis.com,DIRECT
 .ecustomeropinions.com,DIRECT
+.ecvjrxlrql.com,DIRECT
 .ecxgjqjjkpsx.com,DIRECT
 .ecypliujlkuh.com,DIRECT
 .ecyxbhvnntj.com,DIRECT
@@ -28273,6 +28461,7 @@
 .edacityedacitycorrespondence.com,DIRECT
 .edacityedacityhandicraft.com,DIRECT
 .edacityedacitystrawcrook.com,DIRECT
+.edaightutaitlastwe.info,DIRECT
 .edalloverwiththinl.info,DIRECT
 .edallthroughthe.info,DIRECT
 .link.edapp.com,DIRECT
@@ -28672,6 +28861,7 @@
 .egllhcnwro.com,DIRECT
 .egmfjmhffbarsxd.xyz,DIRECT
 .a8cv.egmkt.co.jp,DIRECT
+.egnbcmewyohm.com,DIRECT
 .egoi.site,DIRECT
 .egoismundonefifth.com,DIRECT
 .egooad.com,DIRECT
@@ -28686,7 +28876,6 @@
 .egrogree.xyz,DIRECT
 .egrousoawhie.com,DIRECT
 .egrvkoqigygqk.com,DIRECT
-.eguaheoghouughahsu.cc,DIRECT
 .egxxlvyguirt.com,DIRECT
 .egyifdjrbrwyj.com,DIRECT
 .egykofo.com,DIRECT
@@ -28884,7 +29073,6 @@
 .adbmetrics.eldiariomontanes.es,DIRECT
 .sadbmetrics.eldiariomontanes.es,DIRECT
 .76zvoxo5yx0l.www.eldorado.gg,DIRECT
-.eldredaeolus.shop,DIRECT
 .adashx.ut.ele.me,DIRECT
 .app-monitor.ele.me,DIRECT
 .client-api.ele.me,DIRECT
@@ -29135,6 +29323,7 @@
 .embodygoes.com,DIRECT
 .embogsoarers.com,DIRECT
 .embolipokies.com,DIRECT
+.embolysaros.click,DIRECT
 .embracetrace.com,DIRECT
 .coyizl.embracon.com.br,DIRECT
 .embrailcamino.top,DIRECT
@@ -29640,7 +29829,6 @@
 .adebis.entetsu.co.jp,DIRECT
 .enthusiastgaming.net,DIRECT
 .enthusiasticdad.com,DIRECT
-.enthusiasticring.com,DIRECT
 .enthusiastictemper.com,DIRECT
 .enticeobjecteddo.com,DIRECT
 .entirelyapplicationseeing.com,DIRECT
@@ -29755,7 +29943,6 @@
 .ep5banners.com,DIRECT
 .epacash.com,DIRECT
 .epailseptox.com,DIRECT
-.epanpano.com,DIRECT
 .e.epanr.com,DIRECT
 .m.epanr.com,DIRECT
 .uiwock.epantofi.ro,DIRECT
@@ -29768,6 +29955,7 @@
 .eperlanhelluo.com,DIRECT
 .epernn.cn,DIRECT
 .ephebedori.life,DIRECT
+.epheefere.net,DIRECT
 .ephpqyjqyj.com,DIRECT
 .tr.news.epicery.com,DIRECT
 .epicgameads.com,DIRECT
@@ -30030,6 +30218,7 @@
 .esaidees.com,DIRECT
 .esathyasesume.info,DIRECT
 .esbeginnyweakel.org,DIRECT
+.esbmzyady.com,DIRECT
 .esbqetmmejjtksa.xyz,DIRECT
 .metrics.esbriet.com,DIRECT
 .smetrics.esbriet.com,DIRECT
@@ -30686,6 +30875,7 @@
 .evdebdvwnzlyyz.com,DIRECT
 .eveenaiftoa.com,DIRECT
 .eulerian.eveiletjeux.com,DIRECT
+.evejartaal.com,DIRECT
 .evemasoil.com,DIRECT
 .get-staging.even.com,DIRECT
 .get.even.com,DIRECT
@@ -30760,8 +30950,8 @@
 .mobile.everytap.com,DIRECT
 .axp.everythinglubbock.com,DIRECT
 .everywheresavourblouse.com,DIRECT
+.evf21r3fb.com,DIRECT
 .evfisahy.xyz,DIRECT
-.evfrnqvextppij.com,DIRECT
 .evgaow.xyz,DIRECT
 .eviclick.pro,DIRECT
 .smetrics.evicore.com,DIRECT
@@ -30783,7 +30973,7 @@
 .smetrics.evivanlanschot.nl,DIRECT
 .evivuwhoa.com,DIRECT
 .evjroovrujr.xyz,DIRECT
-.evlutvsyfegi.com,DIRECT
+.evjrrljcfohkvja.xyz,DIRECT
 .evnsotpmavrwp.com,DIRECT
 .app-test.evntly.com,DIRECT
 .app.evntly.com,DIRECT
@@ -30795,7 +30985,6 @@
 .os.evoice.com,DIRECT
 .o.evoicereceptionist.com,DIRECT
 .os.evoicereceptionist.com,DIRECT
-.evoign.com,DIRECT
 .partnership.evolenthealth.com,DIRECT
 .link.evolia.com,DIRECT
 .g.x.evolife.cn,DIRECT
@@ -30873,7 +31062,6 @@
 .ewrolidenratrigh.info,DIRECT
 .ewruuqe5p8ca.com,DIRECT
 .metrics.ewstv.com,DIRECT
-.ewtdzpwufzsnc.com,DIRECT
 .ewtgmfajrdhsyn.xyz,DIRECT
 .ewtuyytdf45.com,DIRECT
 .smetrics.ewweb.com,DIRECT
@@ -30892,7 +31080,6 @@
 .prd-collector-platform.ex.co,DIRECT
 .exacdn.com,DIRECT
 .exactag.com,DIRECT
-.exactconfigurationhasten.com,DIRECT
 .exactdrive.com,DIRECT
 .go.exactonline.de,DIRECT
 .go.exactonline.fr,DIRECT
@@ -30900,6 +31087,7 @@
 .exactsag.com,DIRECT
 .sc2metrics.exacttarget.com,DIRECT
 .scmetrics.exacttarget.com,DIRECT
+.exadeephh.com,DIRECT
 .exaggeratekindnessvocal.com,DIRECT
 .exaltationinsufficientintentional.com,DIRECT
 .exaltbelow.com,DIRECT
@@ -30915,7 +31103,6 @@
 .examinerplodbuild.com,DIRECT
 .exampledumb.com,DIRECT
 .exampleshake.com,DIRECT
-.examplesusagefeedback.com,DIRECT
 .examsupdatesupple.com,DIRECT
 .exapxl.de,DIRECT
 .exasperationdashed.com,DIRECT
@@ -31041,7 +31228,6 @@
 .exodsp.com,DIRECT
 .exofrwe.com,DIRECT
 .exomonyf.com,DIRECT
-.exonic-hacks.com,DIRECT
 .exoprsdds.com,DIRECT
 .exorigos.com,DIRECT
 .exosiignvye.xyz,DIRECT
@@ -31320,6 +31506,8 @@
 .eymaume.com,DIRECT
 .eymised.com,DIRECT
 .eynicit.com,DIRECT
+.eynol.xyz,DIRECT
+.eyolknoskksrj.com,DIRECT
 .eyomusbsxrib.com,DIRECT
 .eyouv.cn,DIRECT
 .eypeole.com,DIRECT
@@ -31339,6 +31527,7 @@
 .ezaicmee.xyz,DIRECT
 .ezakus.net,DIRECT
 .ezatrvzfe.com,DIRECT
+.ezblockerdownload.com,DIRECT
 .ezcgojaamg.com,DIRECT
 .ezdgmtsaeu.com,DIRECT
 .ezec.co.uk,DIRECT
@@ -31406,6 +31595,7 @@
 .f4nfg.site,DIRECT
 .email.social.f5.com,DIRECT
 .mktg.aa.f5.com,DIRECT
+.f58x48lpn.com,DIRECT
 .f59408d48d.com,DIRECT
 .g.f5gh.com,DIRECT
 .f5v1x3kgv5.com,DIRECT
@@ -31481,6 +31671,7 @@
 .plausible.factly.in,DIRECT
 .tms.hft.factor75.com,DIRECT
 .wejpuy.factor75.com,DIRECT
+.factorgluten.com,DIRECT
 .a8cv.factoringzero.jp,DIRECT
 .factors.ai,DIRECT
 .factoruser.com,DIRECT
@@ -31493,7 +31684,6 @@
 .fadedprofit.com,DIRECT
 .fadedsnow.com,DIRECT
 .fadegranted.com,DIRECT
-.fadewaves.com,DIRECT
 .fadf617f13.com,DIRECT
 .fadfussequipment.com,DIRECT
 .fadhvz.xyz,DIRECT
@@ -31742,6 +31932,7 @@
 .fartmoda.com,DIRECT
 .pat.farvd.com,DIRECT
 .farwine.com,DIRECT
+.fascespro.com,DIRECT
 .fascinateddashboard.com,DIRECT
 .fascinatedfeather.com,DIRECT
 .fasgazazxvi.com,DIRECT
@@ -32254,6 +32445,7 @@
 .downpayment.fernsby.com,DIRECT
 .fernwaycloud.com,DIRECT
 .feroffer.com,DIRECT
+.sd-1093121-h00002.ferozo.net,DIRECT
 .rqkmir.ferragamo.com,DIRECT
 .events.ferrari.com,DIRECT
 .nbizzi.store.ferrari.com,DIRECT
@@ -32375,7 +32567,6 @@
 .fgpmxwbxnpww.xyz,DIRECT
 .fgpvxxbsickfm.xyz,DIRECT
 .fgrvbkquwurttn.com,DIRECT
-.fgtnyfuk.xyz,DIRECT
 .fgttbz.xyz,DIRECT
 .fguhyg.cn,DIRECT
 .smetricas.fgv.br,DIRECT
@@ -32388,6 +32579,7 @@
 .fh259by01r25.com,DIRECT
 .fhahujwafaf.com,DIRECT
 .fhajhezinl.com,DIRECT
+.fharfyqacn.com,DIRECT
 .sstats.fhb.com,DIRECT
 .stats.fhb.com,DIRECT
 .fhdwtku.com,DIRECT
@@ -32410,6 +32602,7 @@
 .fhuafkxvrzgmyn.com,DIRECT
 .fhujotrb.com,DIRECT
 .fhuvfdycagmkhr.com,DIRECT
+.fhv00rxa2.com,DIRECT
 .fhvzrr.xyz,DIRECT
 .m.fhxiaoshuo.com,DIRECT
 .aexz.rm.fhxiaoshuo.com,DIRECT
@@ -32507,7 +32700,6 @@
 .ahbyjm.fiever.com.br,DIRECT
 .metrics.fifa.com,DIRECT
 .smetrics.fifa.com,DIRECT
-.fifthborder.com,DIRECT
 .fifthjournalisminadequate.com,DIRECT
 .smetrics.fiftyoutlet.com,DIRECT
 .app.fightingillini.com,DIRECT
@@ -32564,6 +32756,7 @@
 .go.filipinocupid.date,DIRECT
 .ydosfw.filippa-k.com,DIRECT
 .filitrac.com,DIRECT
+.filjwepwika.com,DIRECT
 .filletdose.com,DIRECT
 .fillingimpregnable.com,DIRECT
 .filmesonlinegratis.com,DIRECT
@@ -32705,6 +32898,7 @@
 .mail.finwellgroup.com,DIRECT
 .finxxak.com,DIRECT
 .giojhm.finya.de,DIRECT
+.fiordscorneas.click,DIRECT
 .fiorenetwork.com,DIRECT
 .e.fipipo.cn,DIRECT
 .m.fipipo.cn,DIRECT
@@ -32809,6 +33003,7 @@
 .firtorent-yult-i-274.site,DIRECT
 .firumuti.xyz,DIRECT
 .fisari.com,DIRECT
+.fiscalscarfour.click,DIRECT
 .app.partner.fisglobal.com,DIRECT
 .images.partner.fisglobal.com,DIRECT
 .elq.fisherinvestments.com,DIRECT
@@ -32908,6 +33103,7 @@
 .fixpass.net,DIRECT
 .fizawhwpyda.com,DIRECT
 .fizzysquirtbikes.com,DIRECT
+.fj2hbi9vz.com,DIRECT
 .f.fj95560.com,DIRECT
 .fjbubsdhpcticbu.com,DIRECT
 .fjdfqy.com,DIRECT
@@ -32941,6 +33137,7 @@
 .fkesfg.com,DIRECT
 .fkexeijtqstuh.xyz,DIRECT
 .fkhxlz.xyz,DIRECT
+.fkivwukm.com,DIRECT
 .fkjsjwbs.xyz,DIRECT
 .tracking.fkk24.de,DIRECT
 .e.fkkse.com,DIRECT
@@ -33060,8 +33257,10 @@
 .flatlyforensics.com,DIRECT
 .flatteringbabble.com,DIRECT
 .flatteringscanty.com,DIRECT
+.flatterpopulum.click,DIRECT
 .flatterscandal.com,DIRECT
 .info.flattstationers.com,DIRECT
+.flaviangarnet.click,DIRECT
 .flaviusemulsor.com,DIRECT
 .flavourdinerinadmissible.com,DIRECT
 .flavourforgave.com,DIRECT
@@ -33141,6 +33340,7 @@
 .flickyoutsail.top,DIRECT
 .fliedridgin.com,DIRECT
 .a8clk.www.flierinc.com,DIRECT
+.fliffusparaph.com,DIRECT
 .tracking.corporate.flightcentre.com,DIRECT
 .forms.flightglobal.com,DIRECT
 .secureforms.flightglobal.com,DIRECT
@@ -34029,12 +34229,14 @@
 .fpelfyeesuoivy.com,DIRECT
 .fpfbbn.xyz,DIRECT
 .fpgedsewst.com,DIRECT
+.fpgonuk.icu,DIRECT
 .fphbwyonnk.com,DIRECT
 .fphjeyqs.com,DIRECT
 .fpiljsxrchc.com,DIRECT
 .fpjjjh.xyz,DIRECT
 .fpjs.io,DIRECT
 .fpjscdn.net,DIRECT
+.fpkpcvixh.com,DIRECT
 .data.stage-mail.fpl.com,DIRECT
 .data.stageno.reply.fpl.com,DIRECT
 .metrics.fpl.com,DIRECT
@@ -34056,6 +34258,8 @@
 .fpwncdgqsnq.xyz,DIRECT
 .fpwpvchbwckbg.com,DIRECT
 .fpybtxqfywreqhb.xyz,DIRECT
+.fq01.shop,DIRECT
+.fq02.shop,DIRECT
 .fq67.top,DIRECT
 .fqbjzj.xyz,DIRECT
 .fqceyqo.com,DIRECT
@@ -34149,7 +34353,6 @@
 .tp.frankoniamoda.ch,DIRECT
 .rev.frankspeech.com,DIRECT
 .stats.frantic.im,DIRECT
-.franticcarpenter.com,DIRECT
 .franticimpenetrableflourishing.com,DIRECT
 .franticroof.com,DIRECT
 .frantictrail.com,DIRECT
@@ -34397,7 +34600,6 @@
 .invitation.friendshipwallet.com,DIRECT
 .friendsoulscombination.com,DIRECT
 .seniorliving.friendsview.org,DIRECT
-.friendwool.com,DIRECT
 .frigatemirid.com,DIRECT
 .frighten3452.fun,DIRECT
 .frightenedpotato.com,DIRECT
@@ -34464,6 +34666,7 @@
 .frostplacard.com,DIRECT
 .frostscanty.com,DIRECT
 .frosty-criticism.pro,DIRECT
+.frostymidnight.com,DIRECT
 .frostyonce.com,DIRECT
 .frothadditions.com,DIRECT
 .frothirenews.top,DIRECT
@@ -34730,6 +34933,7 @@
 .funsoups.com,DIRECT
 .funstage.com,DIRECT
 .funtoday.info,DIRECT
+.funyarewesbegi.com,DIRECT
 .fuoo1.top,DIRECT
 .tracking.fupa.net,DIRECT
 .wqfflc.fupa.net,DIRECT
@@ -34836,6 +35040,7 @@
 .pop3.fuxids.com,DIRECT
 .ar.fuxunb.com,DIRECT
 .download.fuyuncc.com,DIRECT
+.fuywsmvxhtg.com,DIRECT
 .fuyytjuopkikl.com,DIRECT
 .fuz.cc,DIRECT
 .fuzakumpaks.com,DIRECT
@@ -34889,6 +35094,7 @@
 .fwqmwyuokcyvom.xyz,DIRECT
 .frbmdx.fwrd.com,DIRECT
 .fwrnmmvxsfcrcqk.com,DIRECT
+.fwrwuzhpmw.com,DIRECT
 .fwsoviw.com,DIRECT
 .fwtrck.com,DIRECT
 .fwukoulnhdlukik.info,DIRECT
@@ -34953,7 +35159,9 @@
 .go.fyndi.ng,DIRECT
 .vbtdzb.fyndiq.se,DIRECT
 .smetrics.fyndus.de,DIRECT
+.fynox.xyz,DIRECT
 .fyreball.com,DIRECT
+.fyresumefo.com,DIRECT
 .aa.fyrst.de,DIRECT
 .app.fyscore.com,DIRECT
 .fytaopeurb.com,DIRECT
@@ -35010,6 +35218,7 @@
 .m.g1ao7q.cn,DIRECT
 .r01.g1c5.com,DIRECT
 .g1thub.com,DIRECT
+.g208zjbuz.com,DIRECT
 .g2440001011.com,DIRECT
 .g2546417787.com,DIRECT
 .g2575096355.co,DIRECT
@@ -35024,15 +35233,19 @@
 .mvo.g4rre.xyz,DIRECT
 .g5fzq2l.com,DIRECT
 .g5rillh2awn8.com,DIRECT
+.g5rkmcc9f.com,DIRECT
 .g6raq2ms602g.top,DIRECT
+.g6tgashb.fun,DIRECT
 .e.g71i1.cn,DIRECT
 .g77776666.com,DIRECT
 .g792337340.co,DIRECT
 .g792337342.co,DIRECT
 .g792337343.co,DIRECT
+.g7ghdash2.fun,DIRECT
 .g8715710740.co,DIRECT
 .g8913795075.co,DIRECT
 .g8bb6j5pn.com,DIRECT
+.g90eium9p.com,DIRECT
 .g9111879410.co,DIRECT
 .g91games.com,DIRECT
 .g9508048080.co,DIRECT
@@ -35191,6 +35404,7 @@
 .wmbd.gamersky.com,DIRECT
 .ja.gamersky.com,DIRECT
 .ja2.gamersky.com,DIRECT
+.gamersterritory.com,DIRECT
 .gamescarousel.com,DIRECT
 .gamescdnfor.com,DIRECT
 .analytics.gamesdrive.net,DIRECT
@@ -35313,11 +35527,13 @@
 .ebreid.garneroarredamenti.com,DIRECT
 .lp.connect.garnethealth.org,DIRECT
 .web.connect.garnethealth.org,DIRECT
+.garnishind.shop,DIRECT
 .garnishpoints.com,DIRECT
 .garnishwas.com,DIRECT
 .garnluxuria.click,DIRECT
 .garosesia.com,DIRECT
 .garotas.info,DIRECT
+.garrafaoutsins.top,DIRECT
 .garretassociate.com,DIRECT
 .garrisonparttimemount.com,DIRECT
 .assets.garron.me,DIRECT
@@ -35343,6 +35559,7 @@
 .gasolina.ml,DIRECT
 .gasolinefax.com,DIRECT
 .gasolinerent.com,DIRECT
+.gasorjohvocl.com,DIRECT
 .hijxfm.gaspedaal.nl,DIRECT
 .gaspedtowelpitfall.com,DIRECT
 .app.gastro-ausweis.de,DIRECT
@@ -35352,6 +35569,7 @@
 .gatecitizenswindy.com,DIRECT
 .gateimmenselyprolific.com,DIRECT
 .stats.gateio.ch,DIRECT
+.gatejav12.fun,DIRECT
 .gatekeeperconsent.com,DIRECT
 .gaterharming.top,DIRECT
 .smetrics.gatesnotes.com,DIRECT
@@ -35442,6 +35660,7 @@
 .gblcdn.com,DIRECT
 .gblwebcen.com,DIRECT
 .gblxtlo.xyz,DIRECT
+.gbndash2.fun,DIRECT
 .gbotvisit.com,DIRECT
 .gbqofs.com,DIRECT
 .a8cv.gbset.jp,DIRECT
@@ -35457,6 +35676,7 @@
 .gcbtbruxslwoc.xyz,DIRECT
 .gcbtgh26.xyz,DIRECT
 .gccnntq.cn,DIRECT
+.gcddashb3.fun,DIRECT
 .cl-997764a8.gcdn.co,DIRECT
 .gcfabtyir.com,DIRECT
 .gcfynlyvab.com,DIRECT
@@ -35477,6 +35697,7 @@
 .lewis.gct.com,DIRECT
 .gctnkqjelwnwlcx.com,DIRECT
 .gcumgu.xyz,DIRECT
+.gcvcdashb2.fun,DIRECT
 .gcvgedashb3.fun,DIRECT
 .gcwwsv.icu,DIRECT
 .vps.gcx3.cn,DIRECT
@@ -35522,6 +35743,7 @@
 .ge.cn,DIRECT
 .metrics.apps.ge.com,DIRECT
 .smetrics.apps.ge.com,DIRECT
+.ge3shbdf1.fun,DIRECT
 .dspmy.ge95.com,DIRECT
 .secureclicks.geae.com,DIRECT
 .geakr.com,DIRECT
@@ -35580,6 +35802,7 @@
 .geiybze.com,DIRECT
 .geiyujieda.com,DIRECT
 .gejusherstertithap.info,DIRECT
+.gekeebsirs.com,DIRECT
 .gekkocondo.top,DIRECT
 .gekroome.com,DIRECT
 .gelatineabstainads.com,DIRECT
@@ -35749,6 +35972,7 @@
 .marketing.gep.com,DIRECT
 .gepush.com,DIRECT
 .gepvgv.icu,DIRECT
+.geqshb22.fun,DIRECT
 .geraflows.com,DIRECT
 .join.gerak.asia,DIRECT
 .ti3av8k3ikwm.resume.gerardbosch.xyz,DIRECT
@@ -35763,6 +35987,7 @@
 .ffrmel.gerryweber.com,DIRECT
 .geruksom.net,DIRECT
 .gesanbarrat.com,DIRECT
+.gesdxashb1.fun,DIRECT
 .gesfdashb5.fun,DIRECT
 .smetrics.gestionpriveegi.com,DIRECT
 .analytics.gestore.com,DIRECT
@@ -36032,6 +36257,7 @@
 .e.ggouh.com,DIRECT
 .m.ggouh.com,DIRECT
 .ggpht.cn,DIRECT
+.ggpkmmafo.com,DIRECT
 .app.ggpoker.co.uk,DIRECT
 .ggrfab.icu,DIRECT
 .ggsafe.com,DIRECT
@@ -36045,7 +36271,6 @@
 .zxcs.ggwan.com,DIRECT
 .ggwcash.com,DIRECT
 .jy.ggweb.net,DIRECT
-.logs.ggweb.nl,DIRECT
 .ggwifobvx.com,DIRECT
 .test.open.ggwpacademy.com,DIRECT
 .ggxcoez.com,DIRECT
@@ -36098,6 +36323,7 @@
 .giantsvessel.com,DIRECT
 .gianwho.com,DIRECT
 .giaythethaonuhcm.com,DIRECT
+.gibadvpara.com,DIRECT
 .gibaivoa.com,DIRECT
 .smetrics.gibbsanddandy.com,DIRECT
 .gibevay.ru,DIRECT
@@ -36139,7 +36365,6 @@
 .giftedbrevityinjured.com,DIRECT
 .giftedglue.com,DIRECT
 .giftedhazelsecond.com,DIRECT
-.giftedthumb.com,DIRECT
 .royzgi.giftishow.com,DIRECT
 .jaomlf.giftmall.co.jp,DIRECT
 .m.giftry.com,DIRECT
@@ -36215,6 +36440,7 @@
 .giraff.io,DIRECT
 .giraffedestitutegigantic.com,DIRECT
 .giraffepiano.com,DIRECT
+.giraingoats.net,DIRECT
 .girdleunfamiliartraffic.com,DIRECT
 .girl-51-w.com,DIRECT
 .girl7y.com,DIRECT
@@ -36231,10 +36457,12 @@
 .info.girlswhoinvest.org,DIRECT
 .girlwallpaper.pro,DIRECT
 .girseesoa.net,DIRECT
+.girtijoo.com,DIRECT
 .securetags.gisbaltic.eu,DIRECT
 .gishejuy.com,DIRECT
 .rnybul.gismeteo.lv,DIRECT
 .rnybul.gismeteo.md,DIRECT
+.gismoarette.top,DIRECT
 .gistblemishparking.com,DIRECT
 .gitajwl.com,DIRECT
 .bob.gitclear.com,DIRECT
@@ -36307,6 +36535,7 @@
 .gjjskhdnm.top,DIRECT
 .gjjvjbe.com,DIRECT
 .gjkame6.com,DIRECT
+.gjkkdashb4.fun,DIRECT
 .gjknyqmvrluao.com,DIRECT
 .gjmedashb0.fun,DIRECT
 .gjnzqdpzda.com,DIRECT
@@ -36330,6 +36559,7 @@
 .gkewzootqju.com,DIRECT
 .gkfehrdhbm.com,DIRECT
 .info.gkg.net,DIRECT
+.gkijrvtifdy.com,DIRECT
 .gkjmev3.com,DIRECT
 .gkktjf.top,DIRECT
 .gklox.cn,DIRECT
@@ -36382,7 +36612,6 @@
 .data.glamour.ru,DIRECT
 .click.glamsquad.com,DIRECT
 .links.glamsquad.com,DIRECT
-.glamtina.com,DIRECT
 .pciokm.glamuse.com,DIRECT
 .tr.news.glance-mediametrie.com,DIRECT
 .glancedforgave.com,DIRECT
@@ -36431,6 +36660,7 @@
 .gleampendulumtucker.com,DIRECT
 .tracker.gleanview.com,DIRECT
 .glecmaim.net,DIRECT
+.gledroupsens.xyz,DIRECT
 .gleefulcareless.com,DIRECT
 .gleeglis.net,DIRECT
 .gleegloo.net,DIRECT
@@ -36585,6 +36815,7 @@
 .glochisprp.com,DIRECT
 .glocmauy.xyz,DIRECT
 .glodsaccate.com,DIRECT
+.glofodazoass.com,DIRECT
 .glogoowo.net,DIRECT
 .glogopse.net,DIRECT
 .glokta.info,DIRECT
@@ -36632,6 +36863,8 @@
 .campaigns.glory-global.com,DIRECT
 .events.glory-global.com,DIRECT
 .tr.read.glose.com,DIRECT
+.glossblip.shop,DIRECT
+.glossemforaged.top,DIRECT
 .glossysense.com,DIRECT
 .clnbze.gloswielkopolski.pl,DIRECT
 .glouckeexoo.net,DIRECT
@@ -36694,6 +36927,7 @@
 .glwcxdq.com,DIRECT
 .mg.glwxw.net,DIRECT
 .glxtest.site,DIRECT
+.glynnoutcity.shop,DIRECT
 .stats.glyphs.fyi,DIRECT
 .gm99.com,DIRECT
 .gma1.com,DIRECT
@@ -36731,6 +36965,7 @@
 .gmodmp.jp,DIRECT
 .ads.gmodules.com,DIRECT
 .gmossp-sp.jp,DIRECT
+.gmoyu0y9y.com,DIRECT
 .gmuinujsn.com,DIRECT
 .gmuskkvfophohqn.xyz,DIRECT
 .gmuuiqcfcb.com,DIRECT
@@ -36793,7 +37028,6 @@
 .gnditiklas.com,DIRECT
 .gndkcpwowxnc.com,DIRECT
 .gndyowk.com,DIRECT
-.gnemxcfermkpp.com,DIRECT
 .gnezdo.ru,DIRECT
 .gnfavfqifukyyl.com,DIRECT
 .e.gnfpzc.cn,DIRECT
@@ -36804,6 +37038,7 @@
 .gnkgvjxunmwc.com,DIRECT
 .gnkljnfbd.com,DIRECT
 .gnksplbu.com,DIRECT
+.gnnnzxuzv.com,DIRECT
 .gnpge.com,DIRECT
 .gnqsvrafjtoa.com,DIRECT
 .gnqtageoyy.com,DIRECT
@@ -37191,6 +37426,7 @@
 .firebaselogging-pa.googleapis.com,DIRECT
 .firebaselogging.googleapis.com,DIRECT
 .imasdk.googleapis.com,DIRECT
+.ogads-pa.googleapis.com,DIRECT
 .footprints-pa.googleapis.com,DIRECT
 .attributiontrackingga.googlecode.com,DIRECT
 .myscoop-tracking.googlecode.com,DIRECT
@@ -37221,6 +37457,7 @@
 .goole24.shop,DIRECT
 .goolpter.com,DIRECT
 .goomaphy.com,DIRECT
+.goonsphiltra.top,DIRECT
 .gooo.al,DIRECT
 .gooods4you.com,DIRECT
 .analytics.gooogol.com,DIRECT
@@ -37337,6 +37574,7 @@
 .gouheethsurvey.space,DIRECT
 .goulbap287evenost.com,DIRECT
 .api.goulegu.com,DIRECT
+.gounevou.net,DIRECT
 .stats.gounified.com,DIRECT
 .gourgoldpieceso.com,DIRECT
 .sstats.gourmet.com,DIRECT
@@ -37411,6 +37649,7 @@
 .tracking.gpm-rtv.ru,DIRECT
 .gpmzkg.xyz,DIRECT
 .promos.gpniches.com,DIRECT
+.gpodipsawtaf.com,DIRECT
 .gporkecpyttu.com,DIRECT
 .gppsusbb.com,DIRECT
 .gpr.hu,DIRECT
@@ -37436,7 +37675,9 @@
 .gqfuf.com,DIRECT
 .gqhrflhprg.com,DIRECT
 .gqilaywrqy.com,DIRECT
+.gqjdweqs.com,DIRECT
 .gqleov.icu,DIRECT
+.gqnkpbnuv.com,DIRECT
 .gqskcsljniadk.com,DIRECT
 .gqtnjdflx.com,DIRECT
 .gqubkbuinx.com,DIRECT
@@ -37480,6 +37721,7 @@
 .ablink.mail.grailed.com,DIRECT
 .grailtie.xyz,DIRECT
 .trck.graiman.com,DIRECT
+.graimoorg.net,DIRECT
 .watchtower.graindata.com,DIRECT
 .wafoub.graindemalice.fr,DIRECT
 .metrics.grainger.com,DIRECT
@@ -37489,6 +37731,7 @@
 .grainshen.com,DIRECT
 .grainsprogenymonarchy.com,DIRECT
 .grainsslaughter.com,DIRECT
+.grairgoo.com,DIRECT
 .grairsoa.com,DIRECT
 .grairtoorgey.com,DIRECT
 .graithos.net,DIRECT
@@ -37598,6 +37841,7 @@
 .grauglak.com,DIRECT
 .grauhoat.xyz,DIRECT
 .graukaigh.com,DIRECT
+.graulsaun.com,DIRECT
 .graungig.xyz,DIRECT
 .grauroocm.com,DIRECT
 .qmdbfv.grautecnico.com.br,DIRECT
@@ -37605,6 +37849,7 @@
 .grauxouzair.com,DIRECT
 .grave-orange.pro,DIRECT
 .gravecheckbook.com,DIRECT
+.gravelyoverthrow.com,DIRECT
 .graveshakyscoot.com,DIRECT
 .graveuniversalapologies.com,DIRECT
 .tdaqzz.graviditetskollen.nu,DIRECT
@@ -37822,6 +38067,7 @@
 .grkuikqvpmqnla.com,DIRECT
 .grmtas.com,DIRECT
 .grmtech.net,DIRECT
+.groaboara.com,DIRECT
 .groabopith.xyz,DIRECT
 .groacoaz.com,DIRECT
 .groagnoaque.com,DIRECT
@@ -37907,6 +38153,7 @@
 .grourded.net,DIRECT
 .groutoozy.com,DIRECT
 .groutsfaham.top,DIRECT
+.groutsukooh.net,DIRECT
 .grova.buzz,DIRECT
 .grova.xyz,DIRECT
 .faves.grow.me,DIRECT
@@ -37951,6 +38198,7 @@
 .grubpremonitionultimately.com,DIRECT
 .grubsnuchale.com,DIRECT
 .app.grubster.com.br,DIRECT
+.grucchebarmfel.click,DIRECT
 .grucmost.xyz,DIRECT
 .grudgewallet.com,DIRECT
 .grudreeb.com,DIRECT
@@ -37981,7 +38229,6 @@
 .grv.media,DIRECT
 .grvmedia.com,DIRECT
 .grwp3.com,DIRECT
-.grxiqsqota.xyz,DIRECT
 .grygrothapi.pro,DIRECT
 .plausible.gryka.net,DIRECT
 .metrics.gs-chat.com,DIRECT
@@ -38023,6 +38270,7 @@
 .gslejoki.xyz,DIRECT
 .xpcpmr.gsm55.com,DIRECT
 .zilmwz.gsm55.it,DIRECT
+.gsmcrackteam.com,DIRECT
 .gsmtop.net,DIRECT
 .gsnb048lj.com,DIRECT
 .gsnqhdo.com,DIRECT
@@ -38063,6 +38311,7 @@
 .wb.gtimg.com,DIRECT
 .m.gtiou.com,DIRECT
 .gtitcah.com,DIRECT
+.gtlook.com,DIRECT
 .gtlp.net.cn,DIRECT
 .a8.gtm.co.jp,DIRECT
 .m.gtnde.com,DIRECT
@@ -38152,6 +38401,7 @@
 .jrucbb.guestreservations.com,DIRECT
 .guestsfingertipchristian.com,DIRECT
 .guestssum.com,DIRECT
+.guffawsbandura.shop,DIRECT
 .guftaujug.com,DIRECT
 .r.guggy.com,DIRECT
 .gugletkvarner.top,DIRECT
@@ -38392,6 +38642,7 @@
 .gygibjzjtq.com,DIRECT
 .gyhfmvfhfgqg.com,DIRECT
 .gyjgrvd.cn,DIRECT
+.gylor.xyz,DIRECT
 .wa.gymboree.com,DIRECT
 .gymdeserves.com,DIRECT
 .gymgipsy.com,DIRECT
@@ -38402,6 +38653,7 @@
 .gypperywyling.com,DIRECT
 .gyppingargulus.com,DIRECT
 .gypsiedjilt.com,DIRECT
+.gypsitenevi.com,DIRECT
 .gypufahuyhov.xyz,DIRECT
 .gyq3bew.icu,DIRECT
 .gyro-n.com,DIRECT
@@ -38428,6 +38680,7 @@
 .gzhying1.cn,DIRECT
 .gzifhovadhf.com,DIRECT
 .gzigudxidz.com,DIRECT
+.gzihfaatdohk.com,DIRECT
 .gzili.com,DIRECT
 .gzjtfzs.cn,DIRECT
 .gzkkbuvz.com,DIRECT
@@ -38465,6 +38718,7 @@
 .ee.h2tywo.cn,DIRECT
 .m.h2tywo.cn,DIRECT
 .api.h4game.net,DIRECT
+.h4r7dvewa.com,DIRECT
 .h51.com,DIRECT
 .h52ek3i.de,DIRECT
 .bm.h576.com,DIRECT
@@ -38524,6 +38778,7 @@
 .hadajvqpha.com,DIRECT
 .hadfrizzprofitable.com,DIRECT
 .hadmiredinde.info,DIRECT
+.hadouthoals.com,DIRECT
 .hadronid.net,DIRECT
 .hadsans.com,DIRECT
 .hadsanz.com,DIRECT
@@ -38622,6 +38877,7 @@
 .a8cv.hal-tanteisya.com,DIRECT
 .link-test.halal-navi.com,DIRECT
 .link.halal-navi.com,DIRECT
+.halbertduffed.top,DIRECT
 .marketing.halcousa.com,DIRECT
 .halct.cn,DIRECT
 .stats.halcyon.hr,DIRECT
@@ -38881,7 +39137,6 @@
 .webmail.happ.social,DIRECT
 .www1.happ.social,DIRECT
 .happenemerged.com,DIRECT
-.happenhistory.com,DIRECT
 .happeningdeliverancenorth.com,DIRECT
 .happeningflutter.com,DIRECT
 .happeningurinepomposity.com,DIRECT
@@ -39074,7 +39329,6 @@
 .haunteddishwatermortal.com,DIRECT
 .hauntingfannyblades.com,DIRECT
 .hauntingwantingoblige.com,DIRECT
-.hauntlist.com,DIRECT
 .hauphoak.xyz,DIRECT
 .hauphuchaum.com,DIRECT
 .haupsoag.xyz,DIRECT
@@ -39422,6 +39676,7 @@
 .heartlessrigid.com,DIRECT
 .heartperopus.top,DIRECT
 .heartsawpeat.com,DIRECT
+.hearty-inside.com,DIRECT
 .heartynail.pro,DIRECT
 .heartyten.com,DIRECT
 .app.emarketing.heat.com,DIRECT
@@ -39439,6 +39694,7 @@
 .smetrics.heathrow.com,DIRECT
 .metrics.heathrowexpress.com,DIRECT
 .smetrics.heathrowexpress.com,DIRECT
+.heatjav12.fun,DIRECT
 .heatmap.com,DIRECT
 .heatmap.it,DIRECT
 .heatpracticallyease.com,DIRECT
@@ -39495,6 +39751,7 @@
 .privacy.heidi.news,DIRECT
 .heidoumedia.com,DIRECT
 .pro.heiguang.com,DIRECT
+.heiledretrude.top,DIRECT
 .heima8.com,DIRECT
 .heimi.red,DIRECT
 .te.heine-shop.nl,DIRECT
@@ -39592,6 +39849,7 @@
 .metrics.helvetia.com,DIRECT
 .smetrics.helvetia.com,DIRECT
 .tr.news.helvyre.fr,DIRECT
+.hem41xm47.com,DIRECT
 .hemaglnkrvdcgxe.com,DIRECT
 .smetrics.hemapedia.jp,DIRECT
 .smetrics.hematoconnect.com.br,DIRECT
@@ -39796,6 +40054,7 @@
 .utrack.hexun.com,DIRECT
 .hxsame.hexun.com,DIRECT
 .itv.hexun.com,DIRECT
+.hexylsteaware.shop,DIRECT
 .hey-do.com,DIRECT
 .stats.world.hey.com,DIRECT
 .hey.lt,DIRECT
@@ -39832,6 +40091,7 @@
 .hffxc.com,DIRECT
 .marketing.hfgagents.com,DIRECT
 .hfggttxptxwdmb.com,DIRECT
+.hfiwcuodr.com,DIRECT
 .hfjk3wa.com,DIRECT
 .hfjmvr.xyz,DIRECT
 .hfjoksuriyy.com,DIRECT
@@ -40320,6 +40580,7 @@
 .hjshal.com,DIRECT
 .m.hjues.com,DIRECT
 .hjuswoulvp.xyz,DIRECT
+.hjvvk.com,DIRECT
 .hjxajf.com,DIRECT
 .hjyovlwtevwdjy.com,DIRECT
 .applink.hk01.com,DIRECT
@@ -40328,6 +40589,7 @@
 .s.hk9600.com,DIRECT
 .y.hk9600.com,DIRECT
 .images.email.hkaf.org,DIRECT
+.hkapicwuhvc.com,DIRECT
 .hkbumv.icu,DIRECT
 .hkctmldg.icu,DIRECT
 .hkeibmpspxn.com,DIRECT
@@ -40466,8 +40728,10 @@
 .hnwlyy.com.cn,DIRECT
 .hnxhksg.com,DIRECT
 .hnxxt.net,DIRECT
+.hnyermelin.shop,DIRECT
 .hnyishidengbao.com,DIRECT
 .hnyswepsc.com,DIRECT
+.hnzfm9mjw.com,DIRECT
 .nsy.hnzyfs.com,DIRECT
 .qvlcdw.ho-br.com,DIRECT
 .scsmetrics.ho-mobile.it,DIRECT
@@ -40786,11 +41050,11 @@
 .hopefullyfloss.com,DIRECT
 .hopefulstretchpertinent.com,DIRECT
 .hopelessrolling.com,DIRECT
+.hopesislands.com,DIRECT
 .hopesteapot.com,DIRECT
 .hopghpfa.com,DIRECT
 .hophcomeysw.com,DIRECT
 .hopilos.com,DIRECT
-.hoplaugh.com,DIRECT
 .hopperimprobableclotted.com,DIRECT
 .hoppermagazineprecursor.com,DIRECT
 .hoppershortercultivate.com,DIRECT
@@ -40846,7 +41110,6 @@
 .smetrics.hoseasons.co.uk,DIRECT
 .hoseitfromtheot.com,DIRECT
 .iabdly.hoselink.com.au,DIRECT
-.hosenews.com,DIRECT
 .hosenewspapersdepths.com,DIRECT
 .hosierygossans.com,DIRECT
 .hosieryplum.com,DIRECT
@@ -40968,6 +41231,7 @@
 .a8cv.houjin-keitai.com,DIRECT
 .houjoque.com,DIRECT
 .ad.houkei-shinjuku.com,DIRECT
+.houlaijy.com,DIRECT
 .wxtz.houmags.com,DIRECT
 .click.email.houndapp.com,DIRECT
 .houndcost.com,DIRECT
@@ -41000,6 +41264,7 @@
 .web.houstontexans.com,DIRECT
 .web.houstontexansluxe.com,DIRECT
 .houthaub.xyz,DIRECT
+.houwheesi.com,DIRECT
 .evt.houzz.com,DIRECT
 .learn.houzz.com,DIRECT
 .ml.houzz.com,DIRECT
@@ -41044,6 +41309,7 @@
 .images.engage.hp.com,DIRECT
 .met1.hp.com,DIRECT
 .met2.hp.com,DIRECT
+.hp1mufjhk.com,DIRECT
 .hpaakmsumarzy.com,DIRECT
 .hpbmyojwqpewaw.com,DIRECT
 .e.hpcat.cn,DIRECT
@@ -41525,6 +41791,7 @@
 .t.huskers.com,DIRECT
 .husky-tomorrow.pro,DIRECT
 .pet-recycling.husky.ca,DIRECT
+.huskycontribution.com,DIRECT
 .huskydesigner.pro,DIRECT
 .huskypartydance.com,DIRECT
 .na-pages.husqvarna.com,DIRECT
@@ -41585,6 +41852,7 @@
 .hwivedn.icu,DIRECT
 .hwksgsofsgau.com,DIRECT
 .hwmlmcbwpbkwas.com,DIRECT
+.hwmtmlsognbx.com,DIRECT
 .hwmwin.com,DIRECT
 .hwnod.xyz,DIRECT
 .hwnojj.xyz,DIRECT
@@ -41804,14 +42072,19 @@
 .i36mf.cn,DIRECT
 .i3z.cn,DIRECT
 .i472x.fun,DIRECT
+.i4nstr1gm.com,DIRECT
 .i4rsrcj6.top,DIRECT
+.i5ioeb7ut.com,DIRECT
+.i65wsmrj5.com,DIRECT
 .i7ece0xrg4nx.com,DIRECT
 .m.i810c.cn,DIRECT
 .fgp.i8l7tg.cn,DIRECT
+.i8xkjci7nd.com,DIRECT
 .i99i.org,DIRECT
 .i9klo.com,DIRECT
 .i9w8p.pw,DIRECT
 .ia-dmp.com,DIRECT
+.ia4d7tn68.com,DIRECT
 .link.iabmexico.com.mx,DIRECT
 .marketing.iaccompanies.com,DIRECT
 .marketing.iaclarington.com,DIRECT
@@ -42153,6 +42426,7 @@
 .icstats.nl,DIRECT
 .push.ictsd.org,DIRECT
 .icubeswire.co,DIRECT
+.icudqq.xyz,DIRECT
 .icvsleec.xyz,DIRECT
 .icwnix.icu,DIRECT
 .icwurxd9zaa47e.su,DIRECT
@@ -42162,7 +42436,6 @@
 .e.icyrd.com,DIRECT
 .m.icyrd.com,DIRECT
 .icyreprimandlined.com,DIRECT
-.icyxbdxvhqswvxg.com,DIRECT
 .id-visitors.com,DIRECT
 .id-ward.com,DIRECT
 .id1.cn,DIRECT
@@ -42211,6 +42484,7 @@
 .ideoclick.com,DIRECT
 .communications.idera.com,DIRECT
 .idescargarapk.com,DIRECT
+.idessit.com,DIRECT
 .idevaffiliate.com,DIRECT
 .app.idexevent.com,DIRECT
 .idffhq.cn,DIRECT
@@ -42253,6 +42527,7 @@
 .idolbucks.com,DIRECT
 .idolizeduse.pro,DIRECT
 .idolscene.com,DIRECT
+.idolsstars.com,DIRECT
 .u1.idongde.com,DIRECT
 .idoshbo.top,DIRECT
 .idot.cz,DIRECT
@@ -42263,6 +42538,7 @@
 .idreammedia.com,DIRECT
 .actsdk.idreamsky.com,DIRECT
 .v1-feed.idreamsky.com,DIRECT
+.idrisidfaailk.com,DIRECT
 .shipsmarter.idrivelogistics.com,DIRECT
 .idrsklar.com,DIRECT
 .idsce.com,DIRECT
@@ -42271,6 +42547,7 @@
 .idtargeting.com,DIRECT
 .idthecharityc.info,DIRECT
 .idting.com,DIRECT
+.idtzczpjqc.com,DIRECT
 .e.iduob.com,DIRECT
 .m.iduob.com,DIRECT
 .ukzjce.idus.com,DIRECT
@@ -42412,6 +42689,7 @@
 .geoip.ifunny.co,DIRECT
 .ifvox.com,DIRECT
 .ifvxoluyhof.com,DIRECT
+.ifxqubw.icu,DIRECT
 .ifzpvnrjp.com,DIRECT
 .smetrics.ig.ca,DIRECT
 .ig.ig.com,DIRECT
@@ -42481,6 +42759,7 @@
 .igrid.org,DIRECT
 .diagnose.igstatic.com,DIRECT
 .iguran.com,DIRECT
+.igvhfmubsaqty.xyz,DIRECT
 .igxmoaulj.com,DIRECT
 .e.ihais.com,DIRECT
 .m.ihais.com,DIRECT
@@ -42509,6 +42788,7 @@
 .ihgmsdypohtg.com,DIRECT
 .ihhqwaurke.com,DIRECT
 .a8.ihinnoseiriyasan.com,DIRECT
+.ihknbyeaclaxikb.com,DIRECT
 .m.communications.ihmvcu.org,DIRECT
 .ihnhnpz.com,DIRECT
 .ihoolrun.net,DIRECT
@@ -42561,6 +42841,7 @@
 .ijbgqlf.com,DIRECT
 .ijebtcgu.com,DIRECT
 .ijeetsie.com,DIRECT
+.ijeujkdhnvb.top,DIRECT
 .ijgbuj.xyz,DIRECT
 .ijhilvbu.com,DIRECT
 .ijhpdtiij.com,DIRECT
@@ -42645,7 +42926,6 @@
 .y.ilancc.com,DIRECT
 .ilaterdeallyig.info,DIRECT
 .ilaterdeallyighab.info,DIRECT
-.ilawitrototlet.com,DIRECT
 .enbazj.ilbianconero.com,DIRECT
 .ilbuqwjwzw.com,DIRECT
 .ilcdamnqtpem.com,DIRECT
@@ -42679,7 +42959,6 @@
 .illfatedsnail.com,DIRECT
 .tk.illicado.com,DIRECT
 .illicitdandily.cam,DIRECT
-.illinformednative.com,DIRECT
 .smetrics.illinicare.com,DIRECT
 .metrics.illinois.gov,DIRECT
 .smetrics.illinois.gov,DIRECT
@@ -42753,6 +43032,7 @@
 .info.imagimob.com,DIRECT
 .imaginableblushsensor.com,DIRECT
 .imaginableexecutedmedal.com,DIRECT
+.imaginary-role.com,DIRECT
 .imaginaryawarehygienic.com,DIRECT
 .imaginaryspooky.com,DIRECT
 .secure.imaginative-24.com,DIRECT
@@ -42773,6 +43053,7 @@
 .l.imax.com,DIRECT
 .imbikh.icu,DIRECT
 .imblic.com,DIRECT
+.imbrownfull.click,DIRECT
 .links.imcas.com,DIRECT
 .imcdn.pro,DIRECT
 .imcht.net,DIRECT
@@ -42819,6 +43100,7 @@
 .imglnkd.com,DIRECT
 .imglnke.com,DIRECT
 .imgopen.vip,DIRECT
+.imgoss1380.top,DIRECT
 .imgoss2255.top,DIRECT
 .imgoss511.top,DIRECT
 .imgoss820.top,DIRECT
@@ -42940,6 +43222,7 @@
 .impetremondial.com,DIRECT
 .marketing.impexium.com,DIRECT
 .marketingautomation.impexium.net,DIRECT
+.impiacts.shop,DIRECT
 .images.go.impinj.com,DIRECT
 .impishelizabethjumper.com,DIRECT
 .implix.com,DIRECT
@@ -42963,7 +43246,6 @@
 .impossibilityfighter.com,DIRECT
 .impossibilityutilities.com,DIRECT
 .impossibleexpansion.com,DIRECT
-.impossibleglue.com,DIRECT
 .impossiblemountain.pro,DIRECT
 .impossiblemove.com,DIRECT
 .imposterlost.com,DIRECT
@@ -43047,6 +43329,7 @@
 .a8clk.inakakon.jp,DIRECT
 .inaltariaon.com,DIRECT
 .inalzlo.top,DIRECT
+.inamiaaglow.life,DIRECT
 .inaneamenvote.com,DIRECT
 .inanitystorken.com,DIRECT
 .inappropriate2.fun,DIRECT
@@ -43138,7 +43421,6 @@
 .indelicatepokedoes.com,DIRECT
 .indelphoxom.com,DIRECT
 .independencelunchtime.com,DIRECT
-.ds2.independer.nl,DIRECT
 .nucgsx.indestructibleshoes.com,DIRECT
 .wl-pixel.index.digital,DIRECT
 .videostat-new.index.hu,DIRECT
@@ -43297,7 +43579,6 @@
 .tr.info-btob-leaders.com,DIRECT
 .tr.info-companeo.be,DIRECT
 .tr.info-strategie.fr,DIRECT
-.analytics.infobae.com,DIRECT
 .eloqua.infobip.com,DIRECT
 .stats.infoboard.de,DIRECT
 .infocab888.life,DIRECT
@@ -43766,6 +44047,7 @@
 .inspikon.com,DIRECT
 .track.inspirage.com,DIRECT
 .inspirationstarednope.com,DIRECT
+.inspirepk.org,DIRECT
 .gcxiyx.inspireuplift.com,DIRECT
 .inspiringperiods.com,DIRECT
 .dev-app.insprd.co,DIRECT
@@ -43839,6 +44121,7 @@
 .instreet.cn,DIRECT
 .instructionluxuriant.com,DIRECT
 .instructionwantsflew.com,DIRECT
+.instructive-distribution.com,DIRECT
 .instructive-glass.com,DIRECT
 .instructiveengine.pro,DIRECT
 .instructoralphabetoverreact.com,DIRECT
@@ -44084,7 +44367,6 @@
 .stat.interestfree.com.au,DIRECT
 .stats.interestfree.com.au,DIRECT
 .interesting.cc,DIRECT
-.interestingpot.com,DIRECT
 .interestingz.pw,DIRECT
 .interestmoments.com,DIRECT
 .interestsmoke.com,DIRECT
@@ -44355,6 +44637,7 @@
 .invoca.solutions,DIRECT
 .solutions.invocacdn.com,DIRECT
 .link.invoiceowl.com,DIRECT
+.invokerhustler.shop,DIRECT
 .involuntarypity.com,DIRECT
 .involuntarysteadyartsy.com,DIRECT
 .involve.asia,DIRECT
@@ -44457,6 +44740,7 @@
 .ip-a-box.com,DIRECT
 .ip-label.net,DIRECT
 .ip-route.net,DIRECT
+.ip00am4sn.com,DIRECT
 .ip2c.org,DIRECT
 .ip2map.com,DIRECT
 .ip2phrase.com,DIRECT
@@ -44494,6 +44778,7 @@
 .iplocationtools.com,DIRECT
 .iwa.iplsc.com,DIRECT
 .ipmathematical.org,DIRECT
+.ipmentrandingsw.com,DIRECT
 .ipmeta.io,DIRECT
 .stats.ipmgroup.be,DIRECT
 .ipmzpxne.com,DIRECT
@@ -44760,10 +45045,12 @@
 .e.ishowms.com,DIRECT
 .m.ishowms.com,DIRECT
 .dm.ishuo.cn,DIRECT
+.isidiumfastus.top,DIRECT
 .isigqno.com,DIRECT
 .isine88.com,DIRECT
 .isingtolstoy.top,DIRECT
 .isitone.com,DIRECT
+.isiu0w9gv.com,DIRECT
 .isiyyhghu.com,DIRECT
 .isjratdcaanm.com,DIRECT
 .isksss.top,DIRECT
@@ -44995,6 +45282,7 @@
 .itwoheflewround.info,DIRECT
 .itwzlyq.com,DIRECT
 .a8aspconv.itx-home-router.com,DIRECT
+.ityngghfoxwd.com,DIRECT
 .ityonatallco.info,DIRECT
 .ityusio.top,DIRECT
 .itzajear.com,DIRECT
@@ -45036,6 +45324,7 @@
 .smetrics.ivivva.com,DIRECT
 .ivmmkvzic.com,DIRECT
 .ivnrrkx.cn,DIRECT
+.ivofaggqj.com,DIRECT
 .ivoryvestigeminus.com,DIRECT
 .stats.ivs.rocks,DIRECT
 .ivstracker.net,DIRECT
@@ -45198,6 +45487,7 @@
 .o.j2global.com,DIRECT
 .os.j2global.com,DIRECT
 .j4a73n7v5k.com,DIRECT
+.j51a0p18x.com,DIRECT
 .ee.j5s9b.cn,DIRECT
 .m.j5s9b.cn,DIRECT
 .j6mn99mr0m2n.com,DIRECT
@@ -45208,6 +45498,7 @@
 .js.j8jp.com,DIRECT
 .j93557g.com,DIRECT
 .ja2n2u30a6rgyd.com,DIRECT
+.ja5rg8e5e.com,DIRECT
 .jaadms.com,DIRECT
 .asoewk.jaanuu.com,DIRECT
 .jaaraypdsr.xyz,DIRECT
@@ -45275,6 +45566,7 @@
 .jaggedthronelaxative.com,DIRECT
 .jaggedunaccustomeddime.com,DIRECT
 .jagnoans.com,DIRECT
+.jagnympho.top,DIRECT
 .qqinrm.jagodo.vn,DIRECT
 .jagqrhvcvoqjw.com,DIRECT
 .tltkpu.jagran.com,DIRECT
@@ -45311,7 +45603,6 @@
 .stats.jamesilesantiques.com,DIRECT
 .metrics.jamestowndistributors.com,DIRECT
 .smetrics.jamestowndistributors.com,DIRECT
-.jamexistence.com,DIRECT
 .stats.jamhouse.app,DIRECT
 .jamminds.com,DIRECT
 .jams.wiki,DIRECT
@@ -45646,6 +45937,7 @@
 .jdzqdcpkbh.com,DIRECT
 .logging.je-apps.com,DIRECT
 .jealouschallenge.pro,DIRECT
+.jealousupholdpleaded.com,DIRECT
 .jealousyingeniouspaths.com,DIRECT
 .jealousyscreamrepaired.com,DIRECT
 .jeannenoises.com,DIRECT
@@ -45700,6 +45992,7 @@
 .jekzyyowqwwrz.top,DIRECT
 .jekzyyowqwwwy.top,DIRECT
 .smetrics.jeld-wen.com,DIRECT
+.jelldoeg.shop,DIRECT
 .jelliescroon.click,DIRECT
 .jellifygummier.top,DIRECT
 .jelllearnedhungry.com,DIRECT
@@ -45715,6 +46008,7 @@
 .jemonews.com,DIRECT
 .jeniz.xyz,DIRECT
 .jenkincraved.com,DIRECT
+.jenniesache.click,DIRECT
 .jennifersoft.com,DIRECT
 .cyvxfq.jennikayne.com,DIRECT
 .jennyunfit.com,DIRECT
@@ -45921,6 +46215,7 @@
 .udiab1.jianshu.com,DIRECT
 .udiab2.jianshu.com,DIRECT
 .events.jianshu.io,DIRECT
+.jianxuzuo.com,DIRECT
 .cc.piao.jianzhigg.com,DIRECT
 .jiaopei.com,DIRECT
 .wenhua.jiaoshou.com,DIRECT
@@ -45938,6 +46233,7 @@
 .daima.jiazhao.com,DIRECT
 .jiazhua.com,DIRECT
 .ad.jibunde-esute.com,DIRECT
+.jicamadoless.com,DIRECT
 .jickodsa.com,DIRECT
 .jiclzori.com,DIRECT
 .cv.jidoumail.com,DIRECT
@@ -46017,6 +46313,7 @@
 .jinlanqiangyi.cn,DIRECT
 .jinnf.cn,DIRECT
 .jinniu168.com,DIRECT
+.jinripkk.com,DIRECT
 .jinshagt222.com,DIRECT
 .dm.jinshasi.cn,DIRECT
 .jinterests-1.com,DIRECT
@@ -46039,7 +46336,6 @@
 .mad1.jirou.com,DIRECT
 .jisbar.com,DIRECT
 .dde.jishengjc.com,DIRECT
-.sc.jishousc.shop,DIRECT
 .jisiedu.com,DIRECT
 .branch-stage.jisp.com,DIRECT
 .share.jisp.com,DIRECT
@@ -46142,6 +46438,7 @@
 .m.jkuok.com,DIRECT
 .seniorliving.jkv.org,DIRECT
 .jkwxaryiaoof.com,DIRECT
+.jkyawbabvjeq.top,DIRECT
 .jkyawbabvrjl.top,DIRECT
 .dm50.jkyd.net,DIRECT
 .jkzakzalzoewy.top,DIRECT
@@ -46149,6 +46446,7 @@
 .jkzlillsss.com,DIRECT
 .jkzlzx.com,DIRECT
 .jl368.cn,DIRECT
+.jl63v3fp1.com,DIRECT
 .jlbgyksbvdqj.com,DIRECT
 .ds.jlbksy.com,DIRECT
 .engage.jlclive.com,DIRECT
@@ -46282,6 +46580,7 @@
 .jmt7mbwce.com,DIRECT
 .jmtbmqchgpw.xyz,DIRECT
 .jmtbyiohpgugcsk.com,DIRECT
+.jmtjupml.com,DIRECT
 .ad-platform.jmty.jp,DIRECT
 .exxwhi.jmty.jp,DIRECT
 .app.jmusports.com,DIRECT
@@ -46345,6 +46644,7 @@
 .jobcity.com,DIRECT
 .stat-ssl.jobcube.com,DIRECT
 .share.jobeo.net,DIRECT
+.joberopolicycr.com,DIRECT
 .jobfilletfortitude.com,DIRECT
 .eylnhf.jobhouse.jp,DIRECT
 .joblessdrum.com,DIRECT
@@ -46532,6 +46832,7 @@
 .jotskuffieh.website,DIRECT
 .jotterswirrah.com,DIRECT
 .jouaboe.com,DIRECT
+.joudauhee.com,DIRECT
 .joudotee.com,DIRECT
 .jxdptu.jouete-online.com,DIRECT
 .joukaglie.com,DIRECT
@@ -46625,6 +46926,7 @@
 .jqitetsk.com,DIRECT
 .jqki.cn,DIRECT
 .jqlqmeveax.com,DIRECT
+.jqmebwvmbbby.top,DIRECT
 .jqmebwvmbrvz.top,DIRECT
 .jqmebwvmbzwy.top,DIRECT
 .jqmrqgaunex.ru,DIRECT
@@ -46688,6 +46990,7 @@
 .jrvrkzrbkqqob.top,DIRECT
 .jrvrkzrbkqqqj.top,DIRECT
 .jrzeiotwaq.com,DIRECT
+.jrzrqi0au.com,DIRECT
 .js-api.net,DIRECT
 .js-check.com,DIRECT
 .js-delivr.com,DIRECT
@@ -46756,6 +47059,7 @@
 .jspqhh.xyz,DIRECT
 .fpb1.jsq886.com,DIRECT
 .jsqygwl.top,DIRECT
+.jsqytshec.com,DIRECT
 .jsretra.com,DIRECT
 .g.jssdk.net,DIRECT
 .jssearch.net,DIRECT
@@ -46969,6 +47273,7 @@
 .applink.jurafuchs.de,DIRECT
 .applink.test.jurafuchs.de,DIRECT
 .juren0.com,DIRECT
+.jurgeeph.net,DIRECT
 .juricts.xyz,DIRECT
 .stat.juridicas.com,DIRECT
 .lp.jurion.de,DIRECT
@@ -46999,6 +47304,7 @@
 .justapp.top,DIRECT
 .go.justarrivd.com,DIRECT
 .s.justblinds.com,DIRECT
+.justconfig.com,DIRECT
 .justestmurph.top,DIRECT
 .justey.com,DIRECT
 .links.justfab.co.uk,DIRECT
@@ -47059,6 +47365,7 @@
 .jvcjnmd.com,DIRECT
 .jvjlkih.com,DIRECT
 .jvkqkzu.cn,DIRECT
+.jvkxnbjsfgfxfsh.com,DIRECT
 .jvnydntynmru.com,DIRECT
 .jvoice.cn,DIRECT
 .jvqovslchlre.com,DIRECT
@@ -47128,6 +47435,7 @@
 .bp.jxxsn.cn,DIRECT
 .jxybgyu.com,DIRECT
 .jy01.shop,DIRECT
+.jy04.shop,DIRECT
 .jy135.com,DIRECT
 .jy147a.com,DIRECT
 .jybaekajjmrqw.top,DIRECT
@@ -47167,6 +47475,7 @@
 .jystea.com,DIRECT
 .jytbxzil.com,DIRECT
 .jyuirxswk.com,DIRECT
+.jyusesoionsglear.info,DIRECT
 .jyuskb.cn,DIRECT
 .jyuwkba.top,DIRECT
 .e.jyvlpg.cn,DIRECT
@@ -47197,6 +47506,7 @@
 .jzqbyykbrrykz.top,DIRECT
 .jzqbyykbrryll.top,DIRECT
 .jzqgyccwefd.com,DIRECT
+.jzrgomnny.com,DIRECT
 .jztchllgpcrwu.com,DIRECT
 .jztucbb.com,DIRECT
 .e.jzvog.cn,DIRECT
@@ -47219,6 +47529,7 @@
 .m.k2d98mi.cn,DIRECT
 .k2n0f.cn,DIRECT
 .k3bos.com,DIRECT
+.k3jtsrjqr.com,DIRECT
 .c.k429fma.com,DIRECT
 .k4umr0wuc.com,DIRECT
 .k54nw.pw,DIRECT
@@ -47245,6 +47556,7 @@
 .kabarnaira.com,DIRECT
 .get-beta.kabbee.com,DIRECT
 .get.kabbee.com,DIRECT
+.kabea3lx4.com,DIRECT
 .a8cv.kabu-online.jp,DIRECT
 .udrvvx.kabum.com.br,DIRECT
 .kabuut.com,DIRECT
@@ -47357,6 +47669,7 @@
 .kaminari.space,DIRECT
 .kaminari.systems,DIRECT
 .share.kamipuzzle.com,DIRECT
+.kamiyayday.top,DIRECT
 .smetrics.kamloopshonda.ca,DIRECT
 .kamnebo.info,DIRECT
 .kamost.com,DIRECT
@@ -47431,6 +47744,7 @@
 .kapitalberg.com,DIRECT
 .hrnhcu.kapiva.in,DIRECT
 .kaplay.com,DIRECT
+.kapnucojzkul.com,DIRECT
 .analytics.kapost.com,DIRECT
 .ewfarp.kappa.com,DIRECT
 .kappalinks.com,DIRECT
@@ -47508,7 +47822,6 @@
 .click.kataweb.it,DIRECT
 .logger.kataweb.it,DIRECT
 .videosynd.kataweb.it,DIRECT
-.katchouh.com,DIRECT
 .smetrics.kate-global.net,DIRECT
 .katebugs.com,DIRECT
 .katecontraction.com,DIRECT
@@ -47646,6 +47959,7 @@
 .kdmjvnk.com,DIRECT
 .kdmkauchahynhrs.ru,DIRECT
 .kdmmm.cn,DIRECT
+.kdmunzpmw.com,DIRECT
 .panda.kdnet.net,DIRECT
 .ssp.kdnet.net,DIRECT
 .super.kdnet.net,DIRECT
@@ -47722,6 +48036,7 @@
 .kejet.net,DIRECT
 .kejiksay.net,DIRECT
 .kekmhvbb.xyz,DIRECT
+.kekonum.com,DIRECT
 .kekop.cn,DIRECT
 .kekrouwi.xyz,DIRECT
 .kektds.com,DIRECT
@@ -47919,6 +48234,7 @@
 .kfngvuu.com,DIRECT
 .axp.kfor.com,DIRECT
 .kfpicimage.xyz,DIRECT
+.kfpljakmiousajl.com,DIRECT
 .kfpnqug.cn,DIRECT
 .kfqizu.cn,DIRECT
 .kfvjdvjzhddhc.com,DIRECT
@@ -47982,6 +48298,7 @@
 .e.khuoy.com,DIRECT
 .m.khuoy.com,DIRECT
 .khvphqpsl.com,DIRECT
+.khwaifiybxkv.com,DIRECT
 .khzyojb.cn,DIRECT
 .e.ki18c.cn,DIRECT
 .m.ki18c.cn,DIRECT
@@ -48028,6 +48345,7 @@
 .testlink.kidzapp.com,DIRECT
 .kieden.com,DIRECT
 .kiees.com,DIRECT
+.kiestercentry.com,DIRECT
 .a-counter.kiev.ua,DIRECT
 .uhd5nn09mgml.fort-shop.kiev.ua,DIRECT
 .kifaunsu.com,DIRECT
@@ -48311,6 +48629,7 @@
 .kkpbisoyan.com,DIRECT
 .stat.kkpp.cz,DIRECT
 .kkqcnrk.com,DIRECT
+.kkrdrgd0m.com,DIRECT
 .k.kksgl.top,DIRECT
 .kksjoa.com,DIRECT
 .kksjsa.top,DIRECT
@@ -48323,6 +48642,7 @@
 .kkuztcsx.com,DIRECT
 .kkvesjzn.com,DIRECT
 .kkwfvwpyswjmvi.com,DIRECT
+.kkwy85a1n.com,DIRECT
 .kkyjfdj.xyz,DIRECT
 .kkyqrxqd.com,DIRECT
 .kl-toys.com,DIRECT
@@ -48511,9 +48831,11 @@
 .sxjfhh.knoxnews.com,DIRECT
 .marketing.knoxville.org,DIRECT
 .knpkxgfp.xyz,DIRECT
+.knprbbye.com,DIRECT
 .knudsenunmast.top,DIRECT
 .knuinws.icu,DIRECT
 .knutenegros.pro,DIRECT
+.knwsyddyx.com,DIRECT
 .knziesxepvaina.com,DIRECT
 .koabapeed.com,DIRECT
 .koadoasi.net,DIRECT
@@ -48584,6 +48906,7 @@
 .kokuoccurs.top,DIRECT
 .smetrics.kol.se,DIRECT
 .kolanx.com,DIRECT
+.kolerevprivatedqu.com,DIRECT
 .hqjuww.kolesa-darom.ru,DIRECT
 .ns1.koleso.tc,DIRECT
 .sa.kolik.cz,DIRECT
@@ -48713,6 +49036,7 @@
 .kotikinar2ko8tiki09.com,DIRECT
 .kotnvzp.com,DIRECT
 .xrxybn.kotofey-shop.ru,DIRECT
+.kotokot.com,DIRECT
 .kouceeptait.com,DIRECT
 .koucerie.com,DIRECT
 .kouclo.com,DIRECT
@@ -48726,7 +49050,6 @@
 .a8.kougu-kaitoriyasan.com,DIRECT
 .koujaups.xyz,DIRECT
 .b.kouke5.com,DIRECT
-.doc.kouken-kasei-jp.com,DIRECT
 .campaign-direct.kouketsuatsu-health.xyz,DIRECT
 .koureptu.xyz,DIRECT
 .koustouk.net,DIRECT
@@ -48747,6 +49070,7 @@
 .kozhyf.icu,DIRECT
 .marketing.kozzyavm.com,DIRECT
 .xiaoshuo.kp53.cn,DIRECT
+.kpbmqxucd.com,DIRECT
 .kpbqlqv.cn,DIRECT
 .kpcjwjdvlh.com,DIRECT
 .mastertag.kpcustomer.de,DIRECT
@@ -48775,6 +49099,7 @@
 .kprbexp21.com,DIRECT
 .sharing.kptncook.com,DIRECT
 .kpyerxzn.xyz,DIRECT
+.kq272lw4c.com,DIRECT
 .kqbrgl.icu,DIRECT
 .kqduogttdmryguw.com,DIRECT
 .app.e.kqed.org,DIRECT
@@ -48815,12 +49140,12 @@
 .srepdata.krem.com,DIRECT
 .krful.com,DIRECT
 .krgukepers.org,DIRECT
+.kriankxukt.com,DIRECT
 .connect.kristechwire.com,DIRECT
 .metrics.kristinehamn.se,DIRECT
 .krisydark.com,DIRECT
 .kritgu.xyz,DIRECT
 .krivo.buzz,DIRECT
-.krixyncbsyhju.com,DIRECT
 .krjxhvyyzp.com,DIRECT
 .krkstrk.com,DIRECT
 .engage.krm22.com,DIRECT
@@ -48846,6 +49171,7 @@
 .krutvncd.top,DIRECT
 .krux.net,DIRECT
 .krxd.net,DIRECT
+.kryeia.xyz,DIRECT
 .ssc.krymr.com,DIRECT
 .stats.kryptoslogic.com,DIRECT
 .ssp.kssws.ks-cdn.com,DIRECT
@@ -48990,7 +49316,6 @@
 .ebis.kubara.jp,DIRECT
 .kubhwrkpycngbwl.com,DIRECT
 .kubicadza.xyz,DIRECT
-.ad.kubiccomps.icu,DIRECT
 .kubicserves.icu,DIRECT
 .m.kubiqq.com,DIRECT
 .tracking.kubota.ca,DIRECT
@@ -49099,6 +49424,7 @@
 .kurlipush.com,DIRECT
 .we.kurly.com,DIRECT
 .wqytxm.kurly.com,DIRECT
+.kuroptip.com,DIRECT
 .kursatarak.com,DIRECT
 .marketing.kurtzon.com,DIRECT
 .mxhunv.kurz-mal-weg.de,DIRECT
@@ -49126,7 +49452,6 @@
 .ecomgxh.kuwo.cn,DIRECT
 .log.kuwo.cn,DIRECT
 .log1.kuwo.cn,DIRECT
-.webstat.kuwo.cn,DIRECT
 .c.kuwo.cn,DIRECT
 .g.kuwo.cn,DIRECT
 .kwmsg.kuwo.cn,DIRECT
@@ -49136,7 +49461,9 @@
 .rich.kuwo.cn,DIRECT
 .updatepage.kuwo.cn,DIRECT
 .wa.kuwo.cn,DIRECT
+.webstat.kuwo.cn,DIRECT
 .kuwoucaxoad.com,DIRECT
+.kuxatsiw.net,DIRECT
 .kuxfznnf.xyz,DIRECT
 .kuyncvkntfke.com,DIRECT
 .kuyun.com,DIRECT
@@ -49156,7 +49483,6 @@
 .kvhrrr.top,DIRECT
 .kvhtsvy.xyz,DIRECT
 .kvjkkwyomjrx.com,DIRECT
-.tdep.kvk.nl,DIRECT
 .sdc.kvm-ga.de,DIRECT
 .kvovs.xyz,DIRECT
 .kvpqrydt.xyz,DIRECT
@@ -49164,6 +49490,7 @@
 .kvskknklssv.com,DIRECT
 .kvstithy.top,DIRECT
 .kvsvug.xyz,DIRECT
+.kvtgl4who.com,DIRECT
 .srepdata.kvue.com,DIRECT
 .ywrcqa.kvue.com,DIRECT
 .kvumadoxpipqq.com,DIRECT
@@ -49182,6 +49509,7 @@
 .kwedzcq.com,DIRECT
 .kwerilxd.top,DIRECT
 .kweriod.top,DIRECT
+.kwesxaxizwca.com,DIRECT
 .kwgqaqf.icu,DIRECT
 .wsoe.kwiago.com,DIRECT
 .target.kwiktripfleet.com,DIRECT
@@ -49319,6 +49647,7 @@
 .l520.ltd,DIRECT
 .l5kt1.icu,DIRECT
 .m.l620e.cn,DIRECT
+.l6zfigxku.com,DIRECT
 .l7ghj.xyz,DIRECT
 .l7u3kf.cn,DIRECT
 .l80ays.com,DIRECT
@@ -49365,6 +49694,7 @@
 .info.labelworks.com,DIRECT
 .stats.labibli.com,DIRECT
 .a8.labiotte.jp,DIRECT
+.lablyjtnum.com,DIRECT
 .fzb5.laboratoire-giphar.fr,DIRECT
 .laboredlight.com,DIRECT
 .laboredlocket.com,DIRECT
@@ -49653,6 +49983,7 @@
 .a8.lantelno.jp,DIRECT
 .lantodomirus.com,DIRECT
 .rrznha.lanvin-en-bleu.com,DIRECT
+.lanzonmotlier.click,DIRECT
 .glores2.lanzoui.com,DIRECT
 .lao9123.com,DIRECT
 .283.laobanfa.com,DIRECT
@@ -49782,6 +50113,7 @@
 .latestpromotions.club,DIRECT
 .latestsocial.com,DIRECT
 .latheendsmoo.com,DIRECT
+.lathilusted.top,DIRECT
 .tracking.latinaladies.de,DIRECT
 .jrzgcz.latinaoggi.eu,DIRECT
 .go.latincupid.date,DIRECT
@@ -49809,7 +50141,6 @@
 .latternarcoticbullet.com,DIRECT
 .laudianauchlet.com,DIRECT
 .laughablecopper.com,DIRECT
-.laughablelizards.com,DIRECT
 .laughcloth.com,DIRECT
 .laughdrum.com,DIRECT
 .laughedaffront.com,DIRECT
@@ -49900,6 +50231,7 @@
 .lazy8krti.com,DIRECT
 .lazyrelentless.com,DIRECT
 .mugapi.lazzarionline.com,DIRECT
+.lb176n3cg.com,DIRECT
 .m.lbaij.com,DIRECT
 .e.lbaoj.com,DIRECT
 .m.lbaoj.com,DIRECT
@@ -49912,6 +50244,7 @@
 .lbjxsort.xyz,DIRECT
 .lbkezllkewevy.top,DIRECT
 .mo.lbmx.com.cn,DIRECT
+.lboxpznkq.com,DIRECT
 .lbswotkkpry.com,DIRECT
 .lbxcnbrczmmp.com,DIRECT
 .lbxetynjwqyrw.com,DIRECT
@@ -49975,6 +50308,7 @@
 .ldgnrtn.com,DIRECT
 .ldimnveryldgitwe.xyz,DIRECT
 .ldipsuml.top,DIRECT
+.ldjyvegage.com,DIRECT
 .ldlikukemyfueuk.info,DIRECT
 .ldlwdsx.com,DIRECT
 .ldmlnhfnly.com,DIRECT
@@ -50121,6 +50455,7 @@
 .app.learnz.hu,DIRECT
 .marketing.leasehawk.com,DIRECT
 .leasemiracle.com,DIRECT
+.leasepotwort.click,DIRECT
 .leashextendposh.com,DIRECT
 .leashmotto.com,DIRECT
 .leashrationaldived.com,DIRECT
@@ -50437,6 +50772,7 @@
 .event-service.letslinc.com,DIRECT
 .go.letspepapp.com,DIRECT
 .letstry69.xyz,DIRECT
+.lettedhomoean.shop,DIRECT
 .letterbox-path.com,DIRECT
 .letterboxtrail.com,DIRECT
 .letterslamp.online,DIRECT
@@ -50622,6 +50958,7 @@
 .lgpjw.cn,DIRECT
 .lgqffscxfqv.com,DIRECT
 .lgqqhbnvfywo.com,DIRECT
+.lgs3ctypw.com,DIRECT
 .lgse.com,DIRECT
 .lgsmartad.com,DIRECT
 .lgtdkpfnor.com,DIRECT
@@ -50633,6 +50970,7 @@
 .bizmkt.lguplus.com,DIRECT
 .track.biz.lguplus.com,DIRECT
 .lgviqkrimvmy.xyz,DIRECT
+.lh031i88q.com,DIRECT
 .lhafy.com,DIRECT
 .lhamjcpnpqb.xyz,DIRECT
 .marketing.lhbindustries.com,DIRECT
@@ -50881,6 +51219,7 @@
 .liliwoin.top,DIRECT
 .smetrics.lilly.com,DIRECT
 .smetrics.lillymedical.com,DIRECT
+.lilnowpunptsxs.com,DIRECT
 .marketing.lilogy.com,DIRECT
 .lilureem.com,DIRECT
 .tgbfha.lily-brw.com,DIRECT
@@ -50926,6 +51265,7 @@
 .lindasmensagens.online,DIRECT
 .lindawei.cn,DIRECT
 .linderbourgs.top,DIRECT
+.lindnerelektroanlagen.de,DIRECT
 .promotion.lindt.az,DIRECT
 .promotion.lindt.cr,DIRECT
 .promotion.lindt.gt,DIRECT
@@ -50951,6 +51291,7 @@
 .lingerincle.com,DIRECT
 .zxcs.linghit.com,DIRECT
 .linglong001.com,DIRECT
+.lingosurveys.com,DIRECT
 .lingpaocar.com,DIRECT
 .lingrethertantin.com,DIRECT
 .lingsiqiwu.com,DIRECT
@@ -51051,6 +51392,7 @@
 .lipidicchaoush.com,DIRECT
 .lipmswonv.com,DIRECT
 .stats.lippeshirts.de,DIRECT
+.lipqkoxzy.com,DIRECT
 .lipsate.com,DIRECT
 .fahmta.lipsum.com,DIRECT
 .lipurialauroyl.com,DIRECT
@@ -51299,6 +51641,7 @@
 .lkhfkjp.com,DIRECT
 .lkhmkmhlqst.xyz,DIRECT
 .mvo.lki6hy.xyz,DIRECT
+.lkiawpwigg.com,DIRECT
 .lkjgdyhtdrnau.com,DIRECT
 .lkjjhrwrcmvtl.com,DIRECT
 .lkjoncgixi.com,DIRECT
@@ -51382,6 +51725,7 @@
 .lmeeulcfttqv.ru,DIRECT
 .lmepbq.com,DIRECT
 .js.lmggdka.cn,DIRECT
+.lmgyjug31.com,DIRECT
 .trk.lmipumps.com,DIRECT
 .lmiutil.com,DIRECT
 .lmj8i.pro,DIRECT
@@ -51481,7 +51825,6 @@
 .smon.loc.gov,DIRECT
 .local-flirt.com,DIRECT
 .localadbuy.com,DIRECT
-.api.localadswidget.com,DIRECT
 .sadbmetrics.localdigitalkit.com,DIRECT
 .localedgemedia.com,DIRECT
 .locallycompare.com,DIRECT
@@ -51655,6 +51998,7 @@
 .lokuai.com,DIRECT
 .link.lola.com,DIRECT
 .stagelink.lola.com,DIRECT
+.lolacorded.top,DIRECT
 .abpwqf.lolaflora.com.mx,DIRECT
 .bopmkf.lolahome.es,DIRECT
 .cmhmpr.lolaliza.com,DIRECT
@@ -51781,6 +52125,7 @@
 .lope4refl.com,DIRECT
 .lopley.com,DIRECT
 .lopostone.com,DIRECT
+.loppersixtes.top,DIRECT
 .lopqkwmm.xyz,DIRECT
 .lopsidedleather.com,DIRECT
 .loqhpdkx.com,DIRECT
@@ -51794,6 +52139,7 @@
 .marketing.lord.com,DIRECT
 .stats.lord.io,DIRECT
 .smetrics.lordabbett.com,DIRECT
+.lordandogger.top,DIRECT
 .lordhelpuswithssl.com,DIRECT
 .lordofthesuperfrogs.com,DIRECT
 .marketing.lorenz.ca,DIRECT
@@ -51960,6 +52306,7 @@
 .lparket.com,DIRECT
 .lpawakkabpho.com,DIRECT
 .lpeqztx.com,DIRECT
+.lpernedasesium.com,DIRECT
 .lpetooopz.com,DIRECT
 .lpfmeavbcqbmy.com,DIRECT
 .qqdflf.lpga.or.jp,DIRECT
@@ -51967,7 +52314,10 @@
 .webtest.lpio.jp,DIRECT
 .metrics.lpl.com,DIRECT
 .smetrics.lpl.com,DIRECT
+.lplmqxqte.com,DIRECT
+.lpmcr1h7z.com,DIRECT
 .lpmetorealiuk.info,DIRECT
+.lpmugcevks.com,DIRECT
 .lporirxe.com,DIRECT
 .lppexpgt.com,DIRECT
 .lpqhkj.cn,DIRECT
@@ -52057,12 +52407,14 @@
 .ltfpbp.xyz,DIRECT
 .ltg69t.com,DIRECT
 .ltienll.top,DIRECT
+.ltmcixdhx.com,DIRECT
 .ltmlsehfqikh.xyz,DIRECT
 .ltmuzcp.com,DIRECT
 .ltmywtp.com,DIRECT
 .pv.ltn.com.tw,DIRECT
 .ltnyzlrqggx.com,DIRECT
 .ltohnghngrfeg.xyz,DIRECT
+.ltrac4vyw.com,DIRECT
 .ltstyov.ru,DIRECT
 .ltsubzgmw.xyz,DIRECT
 .get.lu.gg,DIRECT
@@ -52120,6 +52472,7 @@
 .lugajxy.com,DIRECT
 .lugansk-info.ru,DIRECT
 .luggagebuttonlocum.com,DIRECT
+.luhhcodutax.com,DIRECT
 .luhjdiomy.com,DIRECT
 .luhkbsyx.com,DIRECT
 .stats.luieremmer.net,DIRECT
@@ -52179,7 +52532,6 @@
 .lumatag.co.uk,DIRECT
 .lumberamount.com,DIRECT
 .lumberperpetual.com,DIRECT
-.lumberrule.com,DIRECT
 .ametrics.lumen.com,DIRECT
 .email.everyonesocial.lumen.com,DIRECT
 .marketing.lumenera.com,DIRECT
@@ -52211,6 +52563,7 @@
 .lumpygnome.com,DIRECT
 .lumpylumber.com,DIRECT
 .lumpyouter.com,DIRECT
+.lumtogle.net,DIRECT
 .lumupu.xyz,DIRECT
 .lumxts.com,DIRECT
 .metricssecure.luna.com,DIRECT
@@ -52225,6 +52578,7 @@
 .lunchvenomous.com,DIRECT
 .smetrics.lundbeck.com,DIRECT
 .analytics.lunge.de,DIRECT
+.lungersleaven.click,DIRECT
 .lungingunified.com,DIRECT
 .lunio.net,DIRECT
 .use.lunos.app,DIRECT
@@ -52307,6 +52661,7 @@
 .luxuriouscomplicatedsink.com,DIRECT
 .luxuryfluencylength.com,DIRECT
 .marketing.luxurylink.com,DIRECT
+.luxurypropertiesfl.com,DIRECT
 .bnc.luxurysportsrelocation.com,DIRECT
 .cyeabs.luxyhair.com,DIRECT
 .luymtmiku.com,DIRECT
@@ -52356,10 +52711,12 @@
 .e.lvsih.cn,DIRECT
 .m.lvsih.cn,DIRECT
 .lvsnmgg.com,DIRECT
+.lvw7k4d3j.com,DIRECT
 .lvwuuehkvitwn.com,DIRECT
 .lvxingxian.cn,DIRECT
 .lvyowwkqealv.top,DIRECT
 .jdgtgb.lvz.de,DIRECT
+.lw2dplgt8.com,DIRECT
 .a8.lwa-coating.com,DIRECT
 .lwadm.com,DIRECT
 .lwdcnz.xyz,DIRECT
@@ -52584,9 +52941,11 @@
 .m365log.com,DIRECT
 .m3cads.com,DIRECT
 .marketing.m3design.com,DIRECT
+.m3i0v745b.com,DIRECT
 .m4clicks.com,DIRECT
 .m4pgay.com,DIRECT
 .innovation.m5.net,DIRECT
+.m53frvehb.com,DIRECT
 .m549z.site,DIRECT
 .p.m5bn.com,DIRECT
 .now.m5net.com,DIRECT
@@ -52624,6 +52983,7 @@
 .mabipa.com,DIRECT
 .mabolmvcuo.com,DIRECT
 .mabtcaraqdho.com,DIRECT
+.mabyerwaxand.click,DIRECT
 .macacosmarline.top,DIRECT
 .macan-native.com,DIRECT
 .macaronibackachebeautify.com,DIRECT
@@ -53026,6 +53386,7 @@
 .malictuiar.com,DIRECT
 .malief.com,DIRECT
 .malignantbriefcaseleading.com,DIRECT
+.malinkesmectis.shop,DIRECT
 .nprkvj.mall.sk,DIRECT
 .bisko.mall.tv,DIRECT
 .mass.mall044.com,DIRECT
@@ -53155,7 +53516,6 @@
 .maniconclavis.com,DIRECT
 .manifefashiona.info,DIRECT
 .manipulativegraphic.com,DIRECT
-.manjeetsteelproductions.com,DIRECT
 .strack.manjiro.net,DIRECT
 .manlytribute.com,DIRECT
 .smetrics.mann-filter.com,DIRECT
@@ -53475,6 +53835,7 @@
 .uncanny.marvelkids.com,DIRECT
 .marvellousperforming.com,DIRECT
 .marvelmetrix.com,DIRECT
+.marwerreh.top,DIRECT
 .marx7loki.com,DIRECT
 .marketing.marybrowns.com,DIRECT
 .qdicel.marymaxim.com,DIRECT
@@ -53653,6 +54014,7 @@
 .smetrics.maurices.com,DIRECT
 .vqjacf.mauriziocollectionstore.com,DIRECT
 .mautifasa.xyz,DIRECT
+.mautsanaces.shop,DIRECT
 .smetrics.maverik.com,DIRECT
 .mavic852.com,DIRECT
 .images.programme.mavieclaire.com,DIRECT
@@ -53708,7 +54070,6 @@
 .hdb.maxli.cn,DIRECT
 .olziko.maxmara.com,DIRECT
 .seyfwl.maxmodels.pl,DIRECT
-.maxmoney.com,DIRECT
 .maxocdgras.com,DIRECT
 .maxonclick.com,DIRECT
 .rzafbl.maxpeedingrods.com,DIRECT
@@ -54071,6 +54432,7 @@
 .mechaelpaceway.com,DIRECT
 .mechanicalcardiac.com,DIRECT
 .mktg.mecinc.com,DIRECT
+.meckaughiy.com,DIRECT
 .news.mecktimes.com,DIRECT
 .meckvpiey.com,DIRECT
 .app.meclub.com,DIRECT
@@ -54097,7 +54459,6 @@
 .media-click.ru,DIRECT
 .media-general.com,DIRECT
 .smetrics.media-global.net,DIRECT
-.apps.media-lab.ai,DIRECT
 .analytics.media-proweb.de,DIRECT
 .media-sapiens.com,DIRECT
 .media-servers.net,DIRECT
@@ -54227,6 +54588,7 @@
 .xqdwwj.medpeer.jp,DIRECT
 .marketing.medprostaffing.com,DIRECT
 .om.medreps.com,DIRECT
+.medriz.xyz,DIRECT
 .ssl.o.medscape.co.uk,DIRECT
 .bi.medscape.com,DIRECT
 .ssl.o.medscape.com,DIRECT
@@ -54350,7 +54712,6 @@
 .ftaysn.meinekette.de,DIRECT
 .jdgtgb.meineorte.com,DIRECT
 .meineserver.com,DIRECT
-.mlm-tracking-service.meinestadt.de,DIRECT
 .navigation-timing.meinestadt.de,DIRECT
 .m.meinianguoji.com,DIRECT
 .meinxovwep.com,DIRECT
@@ -54733,6 +55094,7 @@
 .analytics.metro.pk,DIRECT
 .data.emails.metro.ro,DIRECT
 .analytics.metro.ua,DIRECT
+.dhcp-206-248-59-5.metro86.ru,DIRECT
 .metroaverage.com,DIRECT
 .data.account.metrobyt-mobile.com,DIRECT
 .data.cart.metrobyt-mobile.com,DIRECT
@@ -54765,6 +55127,7 @@
 .mevarabon.com,DIRECT
 .mewgzllnsp.com,DIRECT
 .mewlstomolo.top,DIRECT
+.mewrutx.top,DIRECT
 .mews2ruck.com,DIRECT
 .go.mexicancupid.date,DIRECT
 .mexicantransmission.com,DIRECT
@@ -54819,6 +55182,7 @@
 .marketing.mgis.com,DIRECT
 .mgjgqztw.com,DIRECT
 .mgjnmfhyis.xyz,DIRECT
+.mgl9hmluh.com,DIRECT
 .mgldzcls.com,DIRECT
 .mgln.ai,DIRECT
 .mglvfetiub.com,DIRECT
@@ -54868,6 +55232,7 @@
 .in.mgwcn.com,DIRECT
 .rc.mgwcn.com,DIRECT
 .s.mgwcn.com,DIRECT
+.mgwdrnjxolcr.com,DIRECT
 .mgxqqtrdse.com,DIRECT
 .mgxxuqp.com,DIRECT
 .mgyccfrshz.com,DIRECT
@@ -54935,6 +55300,7 @@
 .sentry.d.mi.com,DIRECT
 .union.mi.com,DIRECT
 .mi1.cc,DIRECT
+.mi62r416j.com,DIRECT
 .mi82ltk3veb7.com,DIRECT
 .miadates.com,DIRECT
 .movie.miaiche.cn,DIRECT
@@ -55140,6 +55506,7 @@
 .mignonsniper.com,DIRECT
 .migo011.top,DIRECT
 .migopwrajhca.com,DIRECT
+.migraira.net,DIRECT
 .migrantacknowledged.com,DIRECT
 .migrantfarewellmoan.com,DIRECT
 .migrantspiteconnecting.com,DIRECT
@@ -55162,7 +55529,6 @@
 .uojpjo.miin-cosmetics.com,DIRECT
 .gg.miinaa.com,DIRECT
 .hpxsci.miista.com,DIRECT
-.360down7.miiyun.cn,DIRECT
 .mijifen.com,DIRECT
 .tr.mijn-superaanbieding.be,DIRECT
 .data.customermail.mijnextra.be,DIRECT
@@ -55449,6 +55815,7 @@
 .mirfakpersei.top,DIRECT
 .web.campaign.miriade.com,DIRECT
 .miricommunity.net,DIRECT
+.mirifelon.com,DIRECT
 .trcksplt.miro.com,DIRECT
 .a8.miror.jp,DIRECT
 .nlvnht.miror.jp,DIRECT
@@ -55662,6 +56029,7 @@
 .mjvnpybcakx.com,DIRECT
 .mjxlfwvirjmt.com,DIRECT
 .mjxvufetukfrav.com,DIRECT
+.mjymhwdu.com,DIRECT
 .mjzrebrjty.com,DIRECT
 .mkbbjtfp.xyz,DIRECT
 .mkeliihb.com,DIRECT
@@ -55747,6 +56115,7 @@
 .mlsys.xyz,DIRECT
 .mlt01.com,DIRECT
 .mltmjevd.xyz,DIRECT
+.mltmsw0td.com,DIRECT
 .mluemlmxn.com,DIRECT
 .mluptwapaj.com,DIRECT
 .mlvlesvw.com,DIRECT
@@ -55798,11 +56167,13 @@
 .mmnc87.shop,DIRECT
 .mmnetwork.mobi,DIRECT
 .mmo2350.top,DIRECT
+.mmoabpvutkr.com,DIRECT
 .mmoddkdn.com,DIRECT
 .mmoframes.com,DIRECT
 .gamer.mmohuts.com,DIRECT
 .mmondi.com,DIRECT
 .mmotraffic.com,DIRECT
+.mmpgultziojbcw.com,DIRECT
 .mmphijndajxiui.com,DIRECT
 .mmpool.org,DIRECT
 .vnzq.mmpuh.cn,DIRECT
@@ -56361,6 +56732,7 @@
 .ahisft.moonmagic.com,DIRECT
 .moonoafy.net,DIRECT
 .moonovernegril.com,DIRECT
+.moonreals.com,DIRECT
 .moonrocketaffiliates.com,DIRECT
 .moonsade.com,DIRECT
 .moontuftboy.com,DIRECT
@@ -56719,6 +57091,7 @@
 .mpbpuctr.com,DIRECT
 .mpcbjnku.com,DIRECT
 .mpcrvcbwdouo.com,DIRECT
+.mpeaagpugbjf.com,DIRECT
 .f1.mperf.com,DIRECT
 .lbv5.mperf.com,DIRECT
 .tr1.mperf.com,DIRECT
@@ -56801,6 +57174,7 @@
 .smetrics.mrelectric.com,DIRECT
 .spersonalization.mrelectric.com,DIRECT
 .mrelko.com,DIRECT
+.mremlogjam.com,DIRECT
 .mrflvyizjrkytj.com,DIRECT
 .content.mrgmarketing.net,DIRECT
 .mrgrekeroad.com,DIRECT
@@ -56968,6 +57342,7 @@
 .log.mtime.cn,DIRECT
 .log2.mtime.cn,DIRECT
 .advert.mting.info,DIRECT
+.mtinsqq.com,DIRECT
 .mtkgyrzfygdh.com,DIRECT
 .ee.mtmfjdo.cn,DIRECT
 .m.mtmfjdo.cn,DIRECT
@@ -56987,6 +57362,7 @@
 .mttjepfakwch.com,DIRECT
 .mttpsy6666.cc,DIRECT
 .vr.mttr.pt,DIRECT
+.mttvhsmbtnmse.xyz,DIRECT
 .material.mtty.xin,DIRECT
 .mtty-cdn.mtty.xin,DIRECT
 .target.mtu-solutions.com,DIRECT
@@ -57021,6 +57397,7 @@
 .daima.mubite.cn,DIRECT
 .veqvek.much.com,DIRECT
 .get.muchbetter.com,DIRECT
+.muchezougree.com,DIRECT
 .muchlivepad.com,DIRECT
 .muchotrust.com,DIRECT
 .yst4.muchoviaje.com,DIRECT
@@ -57034,6 +57411,7 @@
 .muddledaftermath.com,DIRECT
 .muddledmemory.com,DIRECT
 .muddyharold.com,DIRECT
+.muddyprocedure.com,DIRECT
 .go.mudoudou.net,DIRECT
 .link.mudrex.com,DIRECT
 .muendakutyfore.info,DIRECT
@@ -57042,6 +57420,7 @@
 .muffled-apartment.com,DIRECT
 .mufflercypress.com,DIRECT
 .mufflerlightsgroups.com,DIRECT
+.muffygaslike.click,DIRECT
 .adbq.bk.mufg.jp,DIRECT
 .adnl.bk.mufg.jp,DIRECT
 .mugantlerfloral.com,DIRECT
@@ -57267,6 +57646,7 @@
 .go.muzz.com,DIRECT
 .muzzlematrix.com,DIRECT
 .muzzlepairhysteria.com,DIRECT
+.mvbh7124w.com,DIRECT
 .mvblxbuxe.com,DIRECT
 .mvbvvch.xyz,DIRECT
 .mvcqerddcnyfx.com,DIRECT
@@ -57327,6 +57707,7 @@
 .mworkhovdimin.info,DIRECT
 .mworkhovdiminat.info,DIRECT
 .mwprotected.com,DIRECT
+.mwqetvn.icu,DIRECT
 .mwqucr.icu,DIRECT
 .mwquick.com,DIRECT
 .mwrgi.com,DIRECT
@@ -57337,6 +57718,7 @@
 .mxcdn.net,DIRECT
 .mxeq.cn,DIRECT
 .mxgboxq.com,DIRECT
+.mxgdslqtrdb.com,DIRECT
 .mxgjgvoazhit.com,DIRECT
 .m.mxguan.com,DIRECT
 .mxipwcyo.xyz,DIRECT
@@ -57374,6 +57756,7 @@
 .marketing.mya.co.uk,DIRECT
 .myabcd.cc,DIRECT
 .myabsconds.com,DIRECT
+.myaceaeudist.shop,DIRECT
 .myactualblog.com,DIRECT
 .myad.cn,DIRECT
 .myadcash.com,DIRECT
@@ -57639,6 +58022,7 @@
 .bossaudioandcomic-1252317822.image.myqcloud.com,DIRECT
 .ggtp-1255424916.cos.ap-chengdu.myqcloud.com,DIRECT
 .cndjs-1251973891.coshk.myqcloud.com,DIRECT
+.mhmh1-1251344380.cos.ap-chengdu.myqcloud.com,DIRECT
 .mibook-10006092.cos.myqcloud.com,DIRECT
 .moren-1252794300.file.myqcloud.com,DIRECT
 .pxmianfeiban-1306685166.cos.ap-guangzhou.myqcloud.com,DIRECT
@@ -57783,6 +58167,7 @@
 .mzcaiegjmuwfd.com,DIRECT
 .mzcsdf.com,DIRECT
 .mzelzfnj.xyz,DIRECT
+.mzicucalbw.com,DIRECT
 .mziso.xyz,DIRECT
 .mzlit.com,DIRECT
 .mznizrhd.xyz,DIRECT
@@ -57795,6 +58180,7 @@
 .mzteishamp.com,DIRECT
 .mzthbna.xyz,DIRECT
 .mztqgmr.com,DIRECT
+.mzulenef.com,DIRECT
 .mzuspejtuodc.com,DIRECT
 .f.mzw000.com,DIRECT
 .mzwdiyfp.com,DIRECT
@@ -57838,7 +58224,9 @@
 .n2s.co.kr,DIRECT
 .n2wqmr4lmaummar.xyz,DIRECT
 .n3567.com,DIRECT
+.n40wn7hqh.com,DIRECT
 .n49seircas7r.com,DIRECT
+.n4m5x60.com,DIRECT
 .n4pusher.com,DIRECT
 .n522rv1.cn,DIRECT
 .n5725.com,DIRECT
@@ -57887,6 +58275,7 @@
 .nachusfarced.top,DIRECT
 .trck.naco-do.com,DIRECT
 .nacontent.pro,DIRECT
+.nacy6d355.com,DIRECT
 .expo.nada.org,DIRECT
 .financialservices.nada.org,DIRECT
 .marketing.nada.org,DIRECT
@@ -58216,7 +58605,6 @@
 .bnc-papago.naver.com,DIRECT
 .l.m.naver.com,DIRECT
 .lcs.naver.com,DIRECT
-.nil.naver.com,DIRECT
 .nlog.naver.com,DIRECT
 .sp.naver.com,DIRECT
 .stg-bnc-papago.naver.com,DIRECT
@@ -58270,6 +58658,7 @@
 .qzwktr.nazology.net,DIRECT
 .nazyepfnko.com,DIRECT
 .metrics.adobe.nb.com,DIRECT
+.nb09pypu4.com,DIRECT
 .app.link.nba.com,DIRECT
 .fpcsbulls.nba.com,DIRECT
 .lakerspreferences.gleague.nba.com,DIRECT
@@ -58376,6 +58765,7 @@
 .ncukgqjfaxjv.com,DIRECT
 .ncwabgl.com,DIRECT
 .ncwckj.com,DIRECT
+.ncz3u7cj2.com,DIRECT
 .nczxuga.com,DIRECT
 .a8cv.nd-clinic.net,DIRECT
 .nda3456.com,DIRECT
@@ -58462,7 +58852,6 @@
 .neceme.com,DIRECT
 .necessaryescort.com,DIRECT
 .necessarysticks.com,DIRECT
-.necessarywax.com,DIRECT
 .necheadirtlse.org,DIRECT
 .nechupsu.com,DIRECT
 .neck6bake.com,DIRECT
@@ -58602,6 +58991,7 @@
 .nero.live,DIRECT
 .nerohut.com,DIRECT
 .nerolsdraymen.com,DIRECT
+.neropolicycreat.com,DIRECT
 .pine.nervecentral.com,DIRECT
 .nervegus.com,DIRECT
 .nervingbensh.com,DIRECT
@@ -59214,6 +59604,7 @@
 .geo.ngtv.io,DIRECT
 .go.ngtvalves.com,DIRECT
 .ngujaqm.com,DIRECT
+.ngvcalslfbmtcjq.xyz,DIRECT
 .ngxpprnv.com,DIRECT
 .ggdm1.nhaidu.net,DIRECT
 .nhanziohqat.com,DIRECT
@@ -59253,6 +59644,7 @@
 .nhspndjqoehzf.com,DIRECT
 .nhuzqnpnbjm.com,DIRECT
 .nhyund4.com,DIRECT
+.nhyxzeqkoqme.com,DIRECT
 .adi.ni.com,DIRECT
 .api-websystems.landing.ni.com,DIRECT
 .app.demand.ni.com,DIRECT
@@ -59306,6 +59698,7 @@
 .adtd.niche-beauty.com,DIRECT
 .nicheads.com,DIRECT
 .nichedlinks.com,DIRECT
+.nichedreps.life,DIRECT
 .nicheevaderesidential.com,DIRECT
 .nichibenren.or.jp,DIRECT
 .givoiq.nichiigakkan-careerplus.jp,DIRECT
@@ -59371,6 +59764,7 @@
 .astral.nicovideo.jp,DIRECT
 .log.recommend.nicovideo.jp,DIRECT
 .nicthei.com,DIRECT
+.nidaungig.net,DIRECT
 .as.nidongme.com,DIRECT
 .nidredra.net,DIRECT
 .niecesexhaustsilas.com,DIRECT
@@ -59417,7 +59811,6 @@
 .nigure.com,DIRECT
 .nihiy.com,DIRECT
 .a8shop.nihon-trim.co.jp,DIRECT
-.niiriitmybvqne.com,DIRECT
 .qzwktr.nijimen.net,DIRECT
 .nijiua.com,DIRECT
 .a8cv.nijiun.com,DIRECT
@@ -59442,6 +59835,7 @@
 .link.nilclub.com,DIRECT
 .targeting.washpost.nile.works,DIRECT
 .info.nilex.com,DIRECT
+.nilmc7i0w.com,DIRECT
 .nilreels.com,DIRECT
 .niltibse.net,DIRECT
 .nim.sh,DIRECT
@@ -59644,6 +60038,7 @@
 .nlnmfkr.com,DIRECT
 .nlntrk.com,DIRECT
 .nlrsbd.xyz,DIRECT
+.nlrsrx.xyz,DIRECT
 .nltsvf.xyz,DIRECT
 .nlvwdlnhfnnw.com,DIRECT
 .nlwjdxsa.com,DIRECT
@@ -59729,6 +60124,7 @@
 .noahilum.net,DIRECT
 .noanawie.com,DIRECT
 .noanrzfdt.com,DIRECT
+.noapsovochu.net,DIRECT
 .noaptauw.com,DIRECT
 .noazauro.net,DIRECT
 .nobbutaaru.com,DIRECT
@@ -59773,6 +60169,7 @@
 .b5j6itccyluq.nofluffjobs.com,DIRECT
 .ut19suycy9vt.nowyformat.nofluffjobs.com,DIRECT
 .smetrics.nofrills.ca,DIRECT
+.nognoongut.com,DIRECT
 .nohezu.xyz,DIRECT
 .noibu.com,DIRECT
 .noiselessplough.com,DIRECT
@@ -60228,6 +60625,7 @@
 .npdaqy6x1j.me,DIRECT
 .npdnnsgg.com,DIRECT
 .npdocxjt.com,DIRECT
+.npetropicalnorma.com,DIRECT
 .util.nphoto.net,DIRECT
 .nphtakjpw.com,DIRECT
 .npjhdunxxfhwgtv.com,DIRECT
@@ -60331,6 +60729,7 @@
 .marketing.nsfocus.com,DIRECT
 .marketing.nsfocusglobal.com,DIRECT
 .marketing.nsford.com,DIRECT
+.nsfsfn.xyz,DIRECT
 .nsfwadds.com,DIRECT
 .nsgyedmpxy.com,DIRECT
 .nshypdry.xyz,DIRECT
@@ -60361,6 +60760,7 @@
 .nstracking.com,DIRECT
 .nsuchasricew.com,DIRECT
 .nsultingcoe.net,DIRECT
+.nsuuuhqgjrdxhs.com,DIRECT
 .nswtojdi.icu,DIRECT
 .nsxtob.cn,DIRECT
 .nsyywkq.com,DIRECT
@@ -60372,6 +60772,7 @@
 .marketing.ntconsult.com,DIRECT
 .ntcqmdif.com,DIRECT
 .ntedbycathyhou.info,DIRECT
+.ntemtrfrqe.com,DIRECT
 .ntent.com,DIRECT
 .nterpimne.com,DIRECT
 .ntfsformac.cc,DIRECT
@@ -60574,6 +60975,7 @@
 .m.nuxyz.cn,DIRECT
 .counter.nv.ua,DIRECT
 .remp.nv.ua,DIRECT
+.nv3tosjqd.com,DIRECT
 .nvaepsns.com,DIRECT
 .nvane.com,DIRECT
 .nvchhzg.com,DIRECT
@@ -60642,6 +61044,7 @@
 .response.nxp.com,DIRECT
 .sources.nxp.com,DIRECT
 .wa.nxp.com,DIRECT
+.nxp8tefwy.com,DIRECT
 .nxpdotflwcmrcfh.com,DIRECT
 .nxqolxelijv.com,DIRECT
 .nxrajr.xyz,DIRECT
@@ -60702,6 +61105,7 @@
 .nylonnickel.com,DIRECT
 .nylonnickel.xyz,DIRECT
 .nyltx.com,DIRECT
+.nymilasha.click,DIRECT
 .tracking.nymphomaneladies.de,DIRECT
 .nynjiahyewoji.com,DIRECT
 .nyorgagetnizati.info,DIRECT
@@ -60826,6 +61230,7 @@
 .smetrics.oakleysi.com,DIRECT
 .oakmn.top,DIRECT
 .oakmostlyaccounting.com,DIRECT
+.oakoghoy.net,DIRECT
 .oakrirtorsy.xyz,DIRECT
 .oaksafta.com,DIRECT
 .oaksandtheircle.info,DIRECT
@@ -60863,6 +61268,7 @@
 .oasazedy.com,DIRECT
 .oasismarketing.oasisadvantage.com,DIRECT
 .oasishonestydemented.com,DIRECT
+.oassimpi.net,DIRECT
 .oastoamox.com,DIRECT
 .oataltaul.com,DIRECT
 .oatbcxnhacfjnc.com,DIRECT
@@ -60881,6 +61287,7 @@
 .oaysdumjrpoq.xyz,DIRECT
 .oazartie.com,DIRECT
 .web.e.obayaty.com,DIRECT
+.obbabvonfkal.com,DIRECT
 .obbkucbipw.com,DIRECT
 .koowiu.obchod-vtp.cz,DIRECT
 .obdjzhq.xyz,DIRECT
@@ -60953,6 +61360,7 @@
 .obosnovano.su,DIRECT
 .obouckie.com,DIRECT
 .oboxads.com,DIRECT
+.obpocloxbon.com,DIRECT
 .obqdwcfcvc.com,DIRECT
 .obraioewm.com,DIRECT
 .obrom.xyz,DIRECT
@@ -61052,7 +61460,9 @@
 .ocogmhqo.com,DIRECT
 .oconner.biz,DIRECT
 .oconner.link,DIRECT
+.ocoumsetoul.com,DIRECT
 .marketing.ocozzio.com,DIRECT
+.ocponcphaafb.com,DIRECT
 .ocpydszq.xyz,DIRECT
 .rh.ocq.com.br,DIRECT
 .info.ocr-inc.com,DIRECT
@@ -61098,6 +61508,7 @@
 .gp.oddo-bhf.com,DIRECT
 .widgets.oddschecker.com,DIRECT
 .a8.st.oddspark.com,DIRECT
+.link.oddsscanner.net,DIRECT
 .oddsserve.com,DIRECT
 .pjbncv.ode.co.kr,DIRECT
 .mousebusters.odencat.com,DIRECT
@@ -61120,6 +61531,7 @@
 .odoucessu.com,DIRECT
 .odourcowspeculation.com,DIRECT
 .odpfujlimjuk.com,DIRECT
+.odpgponumrw.com,DIRECT
 .odpokjcucdax.com,DIRECT
 .odqicviub.com,DIRECT
 .odrgacvbl.com,DIRECT
@@ -61142,6 +61554,7 @@
 .oepce.xyz,DIRECT
 .oepnccxasww.com,DIRECT
 .smetrics.oerproject.com,DIRECT
+.oesaxttqhpdc.com,DIRECT
 .e.oesnw.com,DIRECT
 .m.oesnw.com,DIRECT
 .oestpq.com,DIRECT
@@ -61149,7 +61562,9 @@
 .oetkwahrsdvrnn.com,DIRECT
 .oeubqjx.com,DIRECT
 .oeufvkymknbie.com,DIRECT
+.oeuvy1td2.com,DIRECT
 .oevery.com,DIRECT
+.oevll.com,DIRECT
 .oewabox.at,DIRECT
 .oewrutk.top,DIRECT
 .of-bo.com,DIRECT
@@ -61285,6 +61700,7 @@
 .oftencostbegan.com,DIRECT
 .oftheappyri.org,DIRECT
 .oftheseveryh.org,DIRECT
+.ofzzuqlfuof.com,DIRECT
 .og-affiliate.com,DIRECT
 .ogaewcqgj.com,DIRECT
 .a8cv.ogaland.com,DIRECT
@@ -61328,6 +61744,7 @@
 .ohcgwgeyfjlqlhe.com,DIRECT
 .ohdjswkuaym.xyz,DIRECT
 .ohdvafp.xyz,DIRECT
+.ohfavdbmuat.com,DIRECT
 .ohfowsawvgig.com,DIRECT
 .ohhotnmcibij.com,DIRECT
 .ohibal.com,DIRECT
@@ -61355,6 +61772,7 @@
 .ohmystats.com,DIRECT
 .ohncc.cn,DIRECT
 .ohndsplu.com,DIRECT
+.ohnpb9yi0.com,DIRECT
 .ohnwmjnsvijdrgx.xyz,DIRECT
 .ohopao.xyz,DIRECT
 .xslmpq.ohou.se,DIRECT
@@ -61404,6 +61822,7 @@
 .ojhjzzuekxq.com,DIRECT
 .ojiwkroegfkbx.com,DIRECT
 .ojj258.com,DIRECT
+.ojjduccmolc.com,DIRECT
 .ojmvywz.com,DIRECT
 .ojoglir.com,DIRECT
 .ojoodoaptouz.com,DIRECT
@@ -61458,6 +61877,7 @@
 .okeyletsgo.ml,DIRECT
 .okfgsbtmcnh.com,DIRECT
 .e.okfhn.com,DIRECT
+.okhrtusmuod.com,DIRECT
 .okiafogless.top,DIRECT
 .buyer.okiela.com,DIRECT
 .dgd.okiela.com,DIRECT
@@ -61572,6 +61992,7 @@
 .ololenopoteretol.info,DIRECT
 .olomonautcatho.info,DIRECT
 .olpaeclary.top,DIRECT
+.olq18dx1t.com,DIRECT
 .olqkudodsrix.com,DIRECT
 .oltcneutwheoioo.xyz,DIRECT
 .oltptelifmal.com,DIRECT
@@ -61607,6 +62028,7 @@
 .omareeper.com,DIRECT
 .omasatra.com,DIRECT
 .omatri.info,DIRECT
+.omaumeng.net,DIRECT
 .omazeiros.com,DIRECT
 .ombfunkajont.com,DIRECT
 .omchanseyr.com,DIRECT
@@ -61644,6 +62066,7 @@
 .omgt5.com,DIRECT
 .omgthink.com,DIRECT
 .omguk.com,DIRECT
+.omgwowgirls.com,DIRECT
 .omiki.com,DIRECT
 .omine.org,DIRECT
 .logger.omio.com,DIRECT
@@ -62120,6 +62543,7 @@
 .smetrics.opdivohcp.com,DIRECT
 .opdowvamjv.com,DIRECT
 .smetrics.opdualag.com,DIRECT
+.opdxpycrizuq.com,DIRECT
 .opeanresultanc.com,DIRECT
 .opeanresultancete.info,DIRECT
 .tagger.opecloud.com,DIRECT
@@ -62452,6 +62876,7 @@
 .v.oq68.com,DIRECT
 .oq6ry.com,DIRECT
 .e.oq7d6b.cn,DIRECT
+.oqcjtifihpi.com,DIRECT
 .oqcrqirncna.xyz,DIRECT
 .oqddkgixmqhovv.xyz,DIRECT
 .oqeazohx.com,DIRECT
@@ -62570,7 +62995,6 @@
 .orfa1st5.de,DIRECT
 .orgagetnization.org,DIRECT
 .organiccopiedtranquilizer.com,DIRECT
-.organizationdogs.com,DIRECT
 .organize3452.fun,DIRECT
 .organizecoldness.com,DIRECT
 .stats.organizeit.com,DIRECT
@@ -62628,6 +63052,7 @@
 .orlowedonhisdhilt.info,DIRECT
 .ormolusapiary.com,DIRECT
 .ornamentbyechose.com,DIRECT
+.ornatomial.click,DIRECT
 .ornismolal.top,DIRECT
 .trcka8.orobianco-jp.com,DIRECT
 .a8cv.orochoku.shop,DIRECT
@@ -62654,12 +63079,14 @@
 .ortlisk.top,DIRECT
 .ortontotlejohn.com,DIRECT
 .stats.ortussolutions.com,DIRECT
+.oruxdwhatijun.info,DIRECT
 .eiorzm.orvis.com,DIRECT
 .omni.orvis.com,DIRECT
 .somni.orvis.com,DIRECT
 .orxbqsvibjxqvai.com,DIRECT
 .oryhic.xyz,DIRECT
 .os.tc,DIRECT
+.os2mypcw8.com,DIRECT
 .osafsr.xyz,DIRECT
 .static.osalta.eu,DIRECT
 .osangauh.net,DIRECT
@@ -62669,6 +63096,7 @@
 .ppmakl.oscarcalcados.com.br,DIRECT
 .wt.oscaro.com,DIRECT
 .oscism.com,DIRECT
+.oscohkajcjz.com,DIRECT
 .osekwacuoxt.xyz,DIRECT
 .osesuntent.top,DIRECT
 .osfrjut.com,DIRECT
@@ -62676,6 +63104,7 @@
 .solutions.oshaeducationcenter.com,DIRECT
 .oshaista.xyz,DIRECT
 .ybgsyd.osharewalker.co.jp,DIRECT
+.osharvrziafx.com,DIRECT
 .oshp.io,DIRECT
 .oshunooy.xyz,DIRECT
 .osiaffiliate.com,DIRECT
@@ -62695,6 +63124,7 @@
 .osoirux.com,DIRECT
 .osotirukurwyo.com,DIRECT
 .a8clk.osoujihonpo.com,DIRECT
+.ospartners.xyz,DIRECT
 .ospreymedialp.com,DIRECT
 .osptjkslmy.com,DIRECT
 .osqbfakufafv.com,DIRECT
@@ -62747,6 +63177,7 @@
 .otbeksf.cn,DIRECT
 .otbuzvqq8fm5.com,DIRECT
 .otclick-adv.ru,DIRECT
+.otdalxhhiah.com,DIRECT
 .tgtgzo.otelz.com,DIRECT
 .otfiqdmohyhywj.com,DIRECT
 .othdgemanow.com,DIRECT
@@ -62813,7 +63244,6 @@
 .oudistit.com,DIRECT
 .oudoanoofoms.com,DIRECT
 .oudseroa.com,DIRECT
-.stat.ouedkniss.com,DIRECT
 .consentement.ouest-france.fr,DIRECT
 .go.labonneadresse.ouest-france.fr,DIRECT
 .dldotl.ouestfrance-auto.com,DIRECT
@@ -62983,6 +63413,7 @@
 .links.outskill.app,DIRECT
 .outsliggooa.com,DIRECT
 .outsmoke-niyaxabura.com,DIRECT
+.outsohoam.com,DIRECT
 .metrics.outsourcing-pharma.com,DIRECT
 .outstandingsnails.com,DIRECT
 .outstandingspread.com,DIRECT
@@ -62995,6 +63426,7 @@
 .campaigns.outvote.io,DIRECT
 .votedotorg.outvote.io,DIRECT
 .votejoe.outvote.io,DIRECT
+.outvoteloco.shop,DIRECT
 .outwhirlipedeer.com,DIRECT
 .outwitridiculousresume.com,DIRECT
 .outwoodeuropa.com,DIRECT
@@ -63116,10 +63548,10 @@
 .ovsgalzea.com,DIRECT
 .ovsiicni.com,DIRECT
 .go.ovsoftware.nl,DIRECT
+.ovspahdicqan.com,DIRECT
 .ovsrhikuma.com,DIRECT
 .ovstfuogmni.com,DIRECT
 .smetrics.ovumkc.com,DIRECT
-.ovvmptgnrskmmkr.com,DIRECT
 .ovvmrrufvhclxf.com,DIRECT
 .ovykq.online,DIRECT
 .ow5a.net,DIRECT
@@ -63135,6 +63567,7 @@
 .oweoumoughtcal.com,DIRECT
 .oweriok.top,DIRECT
 .owevel.com,DIRECT
+.owfjlchuvzl.com,DIRECT
 .owfrbdikoorgn.xyz,DIRECT
 .owgjivjkoelfhcn.com,DIRECT
 .owhlmuxze.com,DIRECT
@@ -63182,6 +63615,7 @@
 .q.ox11.com,DIRECT
 .ox4h1dk85.com,DIRECT
 .oxado.com,DIRECT
+.oxbbzxqfnv.com,DIRECT
 .oxbowfog.com,DIRECT
 .oxbowmentaldraught.com,DIRECT
 .oxcluster.com,DIRECT
@@ -63257,7 +63691,6 @@
 .oytoworkwithcatuk.com,DIRECT
 .oyugspe.cn,DIRECT
 .osuwzo.oyunfor.com,DIRECT
-.oyuvcqmqjyrqd.com,DIRECT
 .oyuwkbk.top,DIRECT
 .oywzrri.com,DIRECT
 .oyxctgotabvk.com,DIRECT
@@ -63298,6 +63731,7 @@
 .ozwxhoonxlm.com,DIRECT
 .ozykeor.icu,DIRECT
 .images.bio.ozyme.fr,DIRECT
+.ozznarazdtz.com,DIRECT
 .ozzruxazcoxc.com,DIRECT
 .visitor-microservice.ext.p-a.im,DIRECT
 .p-advg.com,DIRECT
@@ -63313,6 +63747,7 @@
 .app.p100.io,DIRECT
 .p188.cn,DIRECT
 .p1corn.com,DIRECT
+.p1yhfi19l.com,DIRECT
 .p24.hu,DIRECT
 .p2ijd.space,DIRECT
 .p2kfynrr.icu,DIRECT
@@ -63369,7 +63804,6 @@
 .metrics.pacsun.com,DIRECT
 .smetrics.pacsun.com,DIRECT
 .analytics.paddle.com,DIRECT
-.paddleangle.com,DIRECT
 .paddlediscovery.com,DIRECT
 .paddleniecehandicraft.com,DIRECT
 .padfungusunless.com,DIRECT
@@ -63483,6 +63917,7 @@
 .pair1tune.com,DIRECT
 .rsv.pairorder.jp,DIRECT
 .beoofo.pairs.lv,DIRECT
+.paishoonain.net,DIRECT
 .paiwaupseto.com,DIRECT
 .paiwena.xyz,DIRECT
 .paiwhisep.com,DIRECT
@@ -63661,6 +64096,7 @@
 .marketing.pangea-cds.com,DIRECT
 .panger-top.click,DIRECT
 .vip.panggugu.com,DIRECT
+.pangiingsinspi.com,DIRECT
 .pangintrigueliquidate.com,DIRECT
 .analytics.pangle-ads.com,DIRECT
 .pangolin-dsp-toutiao-b.com,DIRECT
@@ -63702,6 +64138,7 @@
 .c.panqishu.com,DIRECT
 .pansymerbaby.com,DIRECT
 .pantafives.com,DIRECT
+.pantheatincted.click,DIRECT
 .pantherads.com,DIRECT
 .pantiesattemptslant.com,DIRECT
 .pantomimecattish.com,DIRECT
@@ -63768,6 +64205,7 @@
 .paragraphopera.com,DIRECT
 .info.parallel6.com,DIRECT
 .parallelbulb.com,DIRECT
+.parallelinefficientlongitude.com,DIRECT
 .parallelsdesktop.cn,DIRECT
 .paralyzedepisodetiny.com,DIRECT
 .paralyzedresourcesweapons.com,DIRECT
@@ -63847,7 +64285,6 @@
 .parkcircularpearl.com,DIRECT
 .parkdues.com,DIRECT
 .parkdumbest.com,DIRECT
-.parkedcheerful.com,DIRECT
 .parkedcountdownallows.com,DIRECT
 .app.mailserver.parker.com,DIRECT
 .discover.parker.com,DIRECT
@@ -64406,6 +64843,7 @@
 .solutions.peco-energy.com,DIRECT
 .tracking.peco.com,DIRECT
 .pectasefrisker.com,DIRECT
+.pectosealvia.click,DIRECT
 .pectsofcukorporatef.info,DIRECT
 .peculiaritiessevermaestro.com,DIRECT
 .peculiarpug.com,DIRECT
@@ -64439,6 +64877,7 @@
 .peer39.com,DIRECT
 .peer39.net,DIRECT
 .marketing.peerapp.com,DIRECT
+.peerdomatop.click,DIRECT
 .peeredfoggy.com,DIRECT
 .peeredgerman.com,DIRECT
 .peeredplanned.com,DIRECT
@@ -64460,7 +64899,6 @@
 .pegablackjal.com,DIRECT
 .dncxgm.pegadorfashion.com,DIRECT
 .pegasuson.com,DIRECT
-.pegasusplate.com,DIRECT
 .peggyhypoid.com,DIRECT
 .dbmbfe.pegipegi.com,DIRECT
 .peglikedioecia.com,DIRECT
@@ -64546,7 +64984,6 @@
 .pensionerbrightencountess.com,DIRECT
 .smetrics.pensionstallet.dk,DIRECT
 .pensiveblindlytwin.com,DIRECT
-.penspade.com,DIRECT
 .marketing.pentaho.com,DIRECT
 .pentalime.com,DIRECT
 .adxzju.penti.com,DIRECT
@@ -64608,6 +65045,7 @@
 .go.peppermarketing.com.au,DIRECT
 .peppermintinstructdumbest.com,DIRECT
 .pepperthusadventure.com,DIRECT
+.pepperunmoveddecipher.com,DIRECT
 .peppincalmy.top,DIRECT
 .peppy2lon1g1stalk.com,DIRECT
 .adpromo.peppynet.com,DIRECT
@@ -64947,6 +65385,7 @@
 .tracking.pgi.com,DIRECT
 .pgieqr.top,DIRECT
 .pgjlctmswgnwf.com,DIRECT
+.pgjt26tsm.com,DIRECT
 .pglcyeawb.com,DIRECT
 .pglstatp-sdk-toutiao.com,DIRECT
 .pglstatp-snssdk-toutiao.com,DIRECT
@@ -64978,6 +65417,7 @@
 .phaidraih.net,DIRECT
 .phaighoosie.com,DIRECT
 .phaikroo.net,DIRECT
+.phaikrouh.com,DIRECT
 .phaiksul.net,DIRECT
 .phaimseksa.com,DIRECT
 .phaipaun.net,DIRECT
@@ -65119,6 +65559,7 @@
 .phirozeon.com,DIRECT
 .phitchoord.com,DIRECT
 .phjml.cn,DIRECT
+.phjtxx.xyz,DIRECT
 .phkucgq.com,DIRECT
 .phkwimm.com,DIRECT
 .phkyhiohh.com,DIRECT
@@ -65238,6 +65679,7 @@
 .phvhnxebmrzf.com,DIRECT
 .phwrju.xyz,DIRECT
 .phxnkysa.com,DIRECT
+.phylumslypes.top,DIRECT
 .phymasfacks.com,DIRECT
 .setup.physiapp.com,DIRECT
 .physical-flow-i-255.site,DIRECT
@@ -65401,6 +65843,7 @@
 .t-dsp.pinduoduo.com,DIRECT
 .pineappleconsideringpreference.com,DIRECT
 .pinefluencydiffuse.com,DIRECT
+.pinesichor.click,DIRECT
 .ping-admin.ru,DIRECT
 .ping-fast.com,DIRECT
 .ping-traffic.info,DIRECT
@@ -65527,6 +65970,7 @@
 .images.web.pirelli.com,DIRECT
 .tracking.pirelli.com,DIRECT
 .pirnirok.top,DIRECT
+.pirogumbrina.shop,DIRECT
 .pirouque.com,DIRECT
 .pirsch.io,DIRECT
 .pirtecho.net,DIRECT
@@ -65571,9 +66015,7 @@
 .afep.pivn.shop,DIRECT
 .act.pivotpointsecurity.com,DIRECT
 .pivotrunner.com,DIRECT
-.piwfhzzby.com,DIRECT
 .piwhbfgyj.com,DIRECT
-.piwxzsuewln.com,DIRECT
 .12112336.pix-cdn.org,DIRECT
 .pix.pub,DIRECT
 .content.mini.pix.style,DIRECT
@@ -65647,8 +66089,6 @@
 .pjhbyaaadlw.com,DIRECT
 .pjivapiumeb.com,DIRECT
 .pjjpp.com,DIRECT
-.pjkfmxvsjtyp.com,DIRECT
-.pjlufuwtxv.com,DIRECT
 .pjnwmbz.com,DIRECT
 .pjoibbc.com,DIRECT
 .pjoqkmks.com,DIRECT
@@ -65667,6 +66107,7 @@
 .pjyvgdpvjp.com,DIRECT
 .pjzgggywd.com,DIRECT
 .pjzxdl.xyz,DIRECT
+.pk0grqf29.com,DIRECT
 .h5.pk1179.com,DIRECT
 .pk840.com,DIRECT
 .pk910324e.com,DIRECT
@@ -65815,7 +66256,6 @@
 .smetrics.platypusshoes.com.au,DIRECT
 .plausible-analytics.xyz,DIRECT
 .plausible.io,DIRECT
-.plausiblecable.com,DIRECT
 .plavxml.com,DIRECT
 .plaxo.com,DIRECT
 .play-asia.com,DIRECT
@@ -66017,6 +66457,7 @@
 .somni.pluralsight.com,DIRECT
 .stt.pluralsight.com,DIRECT
 .tt.pluralsight.com,DIRECT
+.plureleroding.shop,DIRECT
 .tr.newsletter.plurielmedia.com,DIRECT
 .marketing.plus-projects.com,DIRECT
 .bfjoyp.plus.nl,DIRECT
@@ -66075,6 +66516,7 @@
 .t.pmu.fr,DIRECT
 .tr.pmu.fr,DIRECT
 .pmweb.com.br,DIRECT
+.pmwwedke.com,DIRECT
 .pmxyzqm.com,DIRECT
 .pmzbrfpijoa.com,DIRECT
 .pmzer.com,DIRECT
@@ -66219,6 +66661,7 @@
 .poiseacacialaw.com,DIRECT
 .poisedfuel.com,DIRECT
 .poisedpig.com,DIRECT
+.poisegel.com,DIRECT
 .poisism.com,DIRECT
 .poisonencouragement.com,DIRECT
 .poisonousamazing.com,DIRECT
@@ -66310,6 +66753,7 @@
 .analytics.pollardwater.com,DIRECT
 .content.pollardwater.com,DIRECT
 .stats.polldaddy.com,DIRECT
+.pollenshuckles.click,DIRECT
 .poll.pollinatepolls.com,DIRECT
 .pollingpephonourable.com,DIRECT
 .marketing.pollock.com,DIRECT
@@ -66324,6 +66768,7 @@
 .polpepsn.com,DIRECT
 .polredsy.com,DIRECT
 .clnbze.polskatimes.pl,DIRECT
+.polsonaith.com,DIRECT
 .poltarimus.com,DIRECT
 .elqtrack.poly.com,DIRECT
 .polyad.net,DIRECT
@@ -66412,7 +66857,6 @@
 .popbounty.com,DIRECT
 .popbutler.com,DIRECT
 .popcash.net,DIRECT
-.popcornfood.com,DIRECT
 .popcpm.com,DIRECT
 .aa.popculture.com,DIRECT
 .saa.popculture.com,DIRECT
@@ -66586,6 +67030,7 @@
 .jslog.post.cz,DIRECT
 .l.post2b.com,DIRECT
 .postaffiliatepro.com,DIRECT
+.postaipay.top,DIRECT
 .postalfranticallyfriendship.com,DIRECT
 .postalusersneatly.com,DIRECT
 .postback.info,DIRECT
@@ -66808,6 +67253,7 @@
 .web.data.pplive.com,DIRECT
 .pplkrh.xyz,DIRECT
 .ppmzcafertd.com,DIRECT
+.ppnnnuluvyaj.com,DIRECT
 .ppoi.org,DIRECT
 .sfgysl.ppomppu.co.kr,DIRECT
 .ppoommhizazn.com,DIRECT
@@ -66990,6 +67436,7 @@
 .pregnancyreproducepalace.com,DIRECT
 .pregnancyslayidentifier.com,DIRECT
 .prehem.com,DIRECT
+.prehistoricprefecturedale.com,DIRECT
 .prejudiceinsure.com,DIRECT
 .prelandcleanerlp.com,DIRECT
 .prelandtest01.com,DIRECT
@@ -67152,7 +67599,6 @@
 .pricklyachetongs.com,DIRECT
 .pricklydebt.com,DIRECT
 .pricklyjourney.com,DIRECT
-.pricklypies.com,DIRECT
 .pricklyplastic.com,DIRECT
 .pricklypollution.com,DIRECT
 .t.pridat.eu,DIRECT
@@ -67264,7 +67710,6 @@
 .private4.com,DIRECT
 .privateadx.com,DIRECT
 .eval.privateapi.click,DIRECT
-.paicdn.privateapi.click,DIRECT
 .privateappealingsymphony.com,DIRECT
 .app.manager.privateaser.com,DIRECT
 .privatedqualizebrui.info,DIRECT
@@ -67297,6 +67742,7 @@
 .prngpwifu.com,DIRECT
 .prnx.net,DIRECT
 .trk.pro-activ.com,DIRECT
+.pro-adblocker.com,DIRECT
 .pro-advert.de,DIRECT
 .pro-market.net,DIRECT
 .pro-pro-go.com,DIRECT
@@ -67324,6 +67770,7 @@
 .probersnobles.com,DIRECT
 .probessanggau.com,DIRECT
 .probestrike.com,DIRECT
+.probeswiglet.top,DIRECT
 .probid.ai,DIRECT
 .metrics.probiotaamericas.com,DIRECT
 .probitystuck.com,DIRECT
@@ -67767,6 +68214,7 @@
 .psalmexceptional.com,DIRECT
 .psalrausoa.com,DIRECT
 .psaltauw.net,DIRECT
+.psapailrims.com,DIRECT
 .tr.psaparts.com,DIRECT
 .psapsiph.net,DIRECT
 .psarecommendas.com,DIRECT
@@ -67963,6 +68411,7 @@
 .pticmootoat.com,DIRECT
 .ptidfrvqxpucy.com,DIRECT
 .ptidsezi.com,DIRECT
+.ptigjkkds.com,DIRECT
 .ptinouth.com,DIRECT
 .ptipsixo.com,DIRECT
 .ptipsout.net,DIRECT
@@ -68001,6 +68450,7 @@
 .ptotchie.xyz,DIRECT
 .ptoubeeh.net,DIRECT
 .ptouckop.xyz,DIRECT
+.ptoudsid.com,DIRECT
 .ptoumsid.net,DIRECT
 .ptoupisso.net,DIRECT
 .ptoushoa.com,DIRECT
@@ -68041,6 +68491,7 @@
 .ptwmemd.com,DIRECT
 .ptwmjmp.com,DIRECT
 .ptyalinbrattie.com,DIRECT
+.ptyhawwuwj.com,DIRECT
 .ptyomtzjpdlcf.com,DIRECT
 .ptztvpremium.com,DIRECT
 .pu5hk1n2020.com,DIRECT
@@ -68236,6 +68687,7 @@
 .pupur.net,DIRECT
 .pupur.pro,DIRECT
 .puqobfkghmyb.com,DIRECT
+.puqvwadzaa.com,DIRECT
 .puranasebriose.top,DIRECT
 .puraquealtered.shop,DIRECT
 .zvvpcz.puravita.ch,DIRECT
@@ -68466,7 +68918,6 @@
 .pushwoosh.com,DIRECT
 .pushy.ai,DIRECT
 .pushynations.com,DIRECT
-.pushypipe.com,DIRECT
 .pushzolo.com,DIRECT
 .pusishegre.com,DIRECT
 .pussl3.com,DIRECT
@@ -68633,6 +69084,7 @@
 .pwxlbsie.icu,DIRECT
 .pwxmwmoyuobgku.com,DIRECT
 .pwxtock.com,DIRECT
+.pwyruccp.com,DIRECT
 .px3792.com,DIRECT
 .e.px69z.cn,DIRECT
 .m.px69z.cn,DIRECT
@@ -68718,12 +69170,12 @@
 .smetrics.q107.com,DIRECT
 .smetrics.q107fm.ca,DIRECT
 .q1gel.icu,DIRECT
+.q1gfgcimk.com,DIRECT
 .q1media.com,DIRECT
 .q1mediahydraplatform.com,DIRECT
 .q1qfc323.com,DIRECT
 .q20jqurls0y7gk8.info,DIRECT
 .q27sz.com,DIRECT
-.a.q2b2n4y4ghu320.shop,DIRECT
 .q2i8kd5n.de,DIRECT
 .q49q7g0n7gra.su,DIRECT
 .q4v3c.site,DIRECT
@@ -68738,6 +69190,7 @@
 .q99i1qi6.de,DIRECT
 .q9y39.cn,DIRECT
 .qa24ljic4i.com,DIRECT
+.qa5r5j11y.com,DIRECT
 .qaagib.icu,DIRECT
 .qacdf511.cn,DIRECT
 .qads.io,DIRECT
@@ -68778,6 +69231,7 @@
 .qatsbesagne.com,DIRECT
 .qatttuluhog.com,DIRECT
 .qauksl.icu,DIRECT
+.qavpknyx.com,DIRECT
 .qawbaxcpeku.com,DIRECT
 .qawzwkvlebqaz.top,DIRECT
 .qawzwkvlebzaw.top,DIRECT
@@ -68798,6 +69252,7 @@
 .qbjqpopv.com,DIRECT
 .qbkvksakslhgek.com,DIRECT
 .qblcyqgn.com,DIRECT
+.qbnqyieaw.com,DIRECT
 .qbomomlavkksh.xyz,DIRECT
 .qbop.com,DIRECT
 .dn-growing.qbox.me,DIRECT
@@ -68830,6 +69285,7 @@
 .smetrics.qcnet.com,DIRECT
 .axp.qcnews.com,DIRECT
 .qcohkm.xyz,DIRECT
+.qcollect.co.za,DIRECT
 .qcotzalsettiv.com,DIRECT
 .qcsjmidihe.com,DIRECT
 .qcsvku.xyz,DIRECT
@@ -68843,6 +69299,7 @@
 .qdaawkgdaiwlh.com,DIRECT
 .qdcode.com,DIRECT
 .qdcxia.xyz,DIRECT
+.qdeduzaixe.com,DIRECT
 .qdhyy.cn,DIRECT
 .qdibvllqu.com,DIRECT
 .qdipsumy.top,DIRECT
@@ -68912,6 +69369,7 @@
 .qflm.net,DIRECT
 .opsm.qflwh.cn,DIRECT
 .qfnimusv.com,DIRECT
+.qfoobwxadcmi.com,DIRECT
 .qfoodskfubk.com,DIRECT
 .qfwjgivatds.com,DIRECT
 .qfyavpwmraqibv.com,DIRECT
@@ -68993,6 +69451,7 @@
 .game.qidian.com,DIRECT
 .o.if.qidian.com,DIRECT
 .tongji.qidian.com,DIRECT
+.qidmhohammat.com,DIRECT
 .qidou.com,DIRECT
 .qids.xyz,DIRECT
 .qienews.cn,DIRECT
@@ -69060,7 +69519,6 @@
 .t.qiuqiuqipai.com,DIRECT
 .fzb01.qiushibaike.com,DIRECT
 .becode.qiushibaike.com,DIRECT
-.audit.qiuwen.net.cn,DIRECT
 .qivaiw.com,DIRECT
 .qiviutsdextran.com,DIRECT
 .qivolcgcemi.com,DIRECT
@@ -69098,6 +69556,7 @@
 .qjekt0c.xyz,DIRECT
 .qjhlc.com,DIRECT
 .1.qjhm.net,DIRECT
+.qjllvrcp.com,DIRECT
 .qjmlmaffrqj.com,DIRECT
 .qjrhacxxk.xyz,DIRECT
 .qjsknpxwlesvou.com,DIRECT
@@ -69167,6 +69626,7 @@
 .a.qncye.net,DIRECT
 .qndown.com,DIRECT
 .m.qneit.com,DIRECT
+.qnhuxyqjv.com,DIRECT
 .qnhvvrpkus.com,DIRECT
 .qnifdlay.top,DIRECT
 .qnjyeyc.com,DIRECT
@@ -69472,6 +69932,7 @@
 .qqqwes.com,DIRECT
 .sdk-ab-config.qquanquan.com,DIRECT
 .tracelog-debug.qquanquan.com,DIRECT
+.qquhzi4f3.com,DIRECT
 .qqurzfi.com,DIRECT
 .hao.qquu8.com,DIRECT
 .qquubyoknj.com,DIRECT
@@ -69654,6 +70115,7 @@
 .quaruzon.com,DIRECT
 .quasimanagespreparation.com,DIRECT
 .quaternnerka.com,DIRECT
+.quatralupshots.shop,DIRECT
 .links.quatreepingles.fr,DIRECT
 .quatrefeuillepolonaise.xyz,DIRECT
 .a8cv.quattrocart.com,DIRECT
@@ -69663,6 +70125,7 @@
 .quayolderinstance.com,DIRECT
 .irc.qubiankeji.com,DIRECT
 .qubitproducts.com,DIRECT
+.qubjweguszko.com,DIRECT
 .qucaigg.com,DIRECT
 .qudajie.com,DIRECT
 .n.qudwrj.cn,DIRECT
@@ -69710,7 +70173,6 @@
 .tracking1.questdiagnostics.com,DIRECT
 .tracking2.questdiagnostics.com,DIRECT
 .marketing.questforum.org,DIRECT
-.questionableobservation.com,DIRECT
 .questionfly.com,DIRECT
 .questioningexperimental.com,DIRECT
 .questioningsanctifypuberty.com,DIRECT
@@ -69858,6 +70320,7 @@
 .qutzljcrj.com,DIRECT
 .hl.quw18.com,DIRECT
 .ad.quwin.cn,DIRECT
+.quwkke.xyz,DIRECT
 .quwwa.top,DIRECT
 .quxegtegmvlfln.com,DIRECT
 .quxsiraqxla.com,DIRECT
@@ -69880,6 +70343,7 @@
 .smetrics.qvcuk.com,DIRECT
 .target.qvcuk.com,DIRECT
 .qvftejz.cn,DIRECT
+.qvgkwcarqmhw.com,DIRECT
 .qvikar.com,DIRECT
 .qvjqbtbt.com,DIRECT
 .qvlczhitbsqpl.com,DIRECT
@@ -69923,6 +70387,7 @@
 .qwvv.com,DIRECT
 .qwvvoaykybbo.top,DIRECT
 .qwvvoaykyrbj.top,DIRECT
+.qwvvoaykyyvj.top,DIRECT
 .qwxcs.com,DIRECT
 .qwyonzatjoq.com,DIRECT
 .qwyoxrmhep.com,DIRECT
@@ -69977,6 +70442,7 @@
 .qylmbemvlloov.top,DIRECT
 .qylmbemvllzrb.top,DIRECT
 .qylrihck.xyz,DIRECT
+.qylyknxkeep.com,DIRECT
 .qymdcuco.com,DIRECT
 .qynmfgnu.xyz,DIRECT
 .qyoqeq.xyz,DIRECT
@@ -70012,6 +70478,7 @@
 .qzsgudj.com,DIRECT
 .qzsvwo.xyz,DIRECT
 .qzvzluu.xyz,DIRECT
+.qzybrmzevbro.top,DIRECT
 .qzybrmzevrlr.top,DIRECT
 .qzyllgqficyd.com,DIRECT
 .qzzswl.com,DIRECT
@@ -70055,6 +70522,7 @@
 .raac33.net,DIRECT
 .raadth.com,DIRECT
 .applink.raaho.in,DIRECT
+.raananfunning.shop,DIRECT
 .a.raasnet.com,DIRECT
 .p.raasnet.com,DIRECT
 .p0.raasnet.com,DIRECT
@@ -70227,7 +70695,6 @@
 .rainyhand.com,DIRECT
 .rainyrule.com,DIRECT
 .rainystretch.com,DIRECT
-.rainyzinc.com,DIRECT
 .i.raise.me,DIRECT
 .event.raise3d.cn,DIRECT
 .raiseallocation.com,DIRECT
@@ -70314,7 +70781,9 @@
 .target.ramtrucks.com,DIRECT
 .ran2.top,DIRECT
 .ranabreast.com,DIRECT
+.rancheparsnip.com,DIRECT
 .ranchoboscardin.com.br,DIRECT
+.ranchreives.click,DIRECT
 .ranchsatin.com,DIRECT
 .rancorousjustin.com,DIRECT
 .rancorousnoncommittalsomewhat.com,DIRECT
@@ -70503,6 +70972,7 @@
 .rayshopsshabby.com,DIRECT
 .info.raytecled.com,DIRECT
 .razdvabm.com,DIRECT
+.razorhsi.click,DIRECT
 .razzlebuyer.com,DIRECT
 .info.rbatriad.com,DIRECT
 .rbcfecxs.com,DIRECT
@@ -70554,7 +71024,9 @@
 .rbthre.work,DIRECT
 .rbtwo.bid,DIRECT
 .rbuirpyptplp.com,DIRECT
+.rbukrgxwqup.com,DIRECT
 .rbweljjemzkza.top,DIRECT
+.rbxh2wukx.com,DIRECT
 .rbxycnnesqsjc.com,DIRECT
 .rbzqarqlyzamj.top,DIRECT
 .e.rcaiu.com,DIRECT
@@ -70599,7 +71071,6 @@
 .rdairclewestoratesa.info,DIRECT
 .rdalpha.net,DIRECT
 .rdcdn.com,DIRECT
-.rddissisifigifidi.net,DIRECT
 .rddywd.com,DIRECT
 .rdeswa1.com,DIRECT
 .rdgdjmgll.com,DIRECT
@@ -70768,7 +71239,6 @@
 .realssp.co.kr,DIRECT
 .marketing.realstorygroup.com,DIRECT
 .realtime-bid.com,DIRECT
-.track.realtimeboard.com,DIRECT
 .realtimely.io,DIRECT
 .realtimewebstats.com,DIRECT
 .realtimewebstats.net,DIRECT
@@ -70820,10 +71290,12 @@
 .a8clk.www.rebo-success.co.jp,DIRECT
 .rebojf.xyz,DIRECT
 .tr.info.rebond-bpifrance.fr,DIRECT
+.rebonebilify.click,DIRECT
 .promo.reborncabinets.com,DIRECT
 .rebrew-foofteen.com,DIRECT
 .rebsouvaih.com,DIRECT
 .rebuxoos.xyz,DIRECT
+.recageddolabra.shop,DIRECT
 .app.info.recall.com,DIRECT
 .recalledmesnarl.com,DIRECT
 .recalledriddle.com,DIRECT
@@ -71124,6 +71596,7 @@
 .refineminx.top,DIRECT
 .measure.refinery89.com,DIRECT
 .tags.refinery89.com,DIRECT
+.refingoon.com,DIRECT
 .solutions.refinitiv.cn,DIRECT
 .info.refinitiv.com,DIRECT
 .metrics.refinitiv.com,DIRECT
@@ -71296,7 +71769,6 @@
 .rekipion.com,DIRECT
 .link.reklaimyours.com,DIRECT
 .reklamko.pro,DIRECT
-.ad.reklamport.com,DIRECT
 .reklamz.com,DIRECT
 .rekuyy.com,DIRECT
 .relap.io,DIRECT
@@ -71352,6 +71824,7 @@
 .relmaxtop.com,DIRECT
 .reloadphoto.com,DIRECT
 .reloadsusa.com,DIRECT
+.relogotd.com,DIRECT
 .info.reltio.com,DIRECT
 .reluctancefleck.com,DIRECT
 .reluctanceghastlysquid.com,DIRECT
@@ -71531,8 +72004,6 @@
 .stats.reprage.com,DIRECT
 .reprak.com,DIRECT
 .reprenebritical.org,DIRECT
-.representativebat.com,DIRECT
-.representativeray.com,DIRECT
 .representrollerpurposely.com,DIRECT
 .reprimandheel.com,DIRECT
 .reprimandhick.com,DIRECT
@@ -71643,6 +72114,7 @@
 .resniks.pro,DIRECT
 .resnikscdn.pro,DIRECT
 .resnubdreich.com,DIRECT
+.resolesmidewin.top,DIRECT
 .resolutekey.com,DIRECT
 .ping.resoluteoil.com,DIRECT
 .resolutethumb.com,DIRECT
@@ -71757,9 +72229,11 @@
 .retargettracker.com,DIRECT
 .retaxenteron.top,DIRECT
 .retentionscience.com,DIRECT
+.retgspondingco.com,DIRECT
 .reth45dq.de,DIRECT
 .retherdoresper.info,DIRECT
 .mail.rethinkretirementincome.co.uk,DIRECT
+.rethinkshone.com,DIRECT
 .metrics.rethinksma.com,DIRECT
 .smetrics.rethinksma.com,DIRECT
 .rethinkwrinkle.com,DIRECT
@@ -71797,6 +72271,7 @@
 .tr.info.reunica.com,DIRECT
 .reunitedglossybewildered.com,DIRECT
 .reusable-flex.com,DIRECT
+.reusedbiphase.shop,DIRECT
 .app.reuters.com,DIRECT
 .info.assets.reuters.com,DIRECT
 .link.reuters.com,DIRECT
@@ -71875,6 +72350,7 @@
 .revulsiondeportvague.com,DIRECT
 .revupads.com,DIRECT
 .info.revvity.com,DIRECT
+.rewallesthete.shop,DIRECT
 .get.reward.me,DIRECT
 .rewardrush.life,DIRECT
 .rewardsaffiliates.com,DIRECT
@@ -71932,6 +72408,7 @@
 .rfihub.com,DIRECT
 .rfihub.net,DIRECT
 .rfimzurarqk.com,DIRECT
+.rfinidtirz.com,DIRECT
 .rfity.com,DIRECT
 .rfmjcnramsw.com,DIRECT
 .rfnvqpo.xyz,DIRECT
@@ -72157,6 +72634,7 @@
 .ridgescrapstadium.com,DIRECT
 .ridiculousatta.xyz,DIRECT
 .ridiculousegoismaspirin.com,DIRECT
+.ridikoptil.net,DIRECT
 .ridingdisguisessuffix.com,DIRECT
 .ridleward.info,DIRECT
 .ridseechiph.com,DIRECT
@@ -72380,11 +72858,13 @@
 .rjeruqs.com,DIRECT
 .rjhbjv.xyz,DIRECT
 .rjhiomohthqr.com,DIRECT
+.rjhuwqxah.com,DIRECT
 .e.rjiau.com,DIRECT
 .rjiwweegcearer.com,DIRECT
 .rjkezyfcpxffc.com,DIRECT
 .rjlfolk.xyz,DIRECT
 .rjokawzjqrezk.top,DIRECT
+.rjpyyrskn.com,DIRECT
 .rjqysigghdl.com,DIRECT
 .rjvfxxrsepwch.xyz,DIRECT
 .rjw4obbw.com,DIRECT
@@ -72434,9 +72914,11 @@
 .rlsspiuyx.com,DIRECT
 .mo.rltk.com.cn,DIRECT
 .rlwiupbqn.com,DIRECT
+.rlwoyomyj.com,DIRECT
 .rlxhbff.cn,DIRECT
 .rlxw.info,DIRECT
 .rmagugarmk.com,DIRECT
+.rmahmighoogg.com,DIRECT
 .rmaiksacouuo.xyz,DIRECT
 .rmaticalacycurated.info,DIRECT
 .rmawm7mw.top,DIRECT
@@ -72516,6 +72998,7 @@
 .bzuaqh.roan.nl,DIRECT
 .infospot.roanokegroup.com,DIRECT
 .ruw.roanokeunderwriting.com,DIRECT
+.roapsoogaiz.net,DIRECT
 .roar9beer.com,DIRECT
 .roarcontrivanceuseful.com,DIRECT
 .roastedvolt.net,DIRECT
@@ -72595,6 +73078,7 @@
 .rock5rice.com,DIRECT
 .metrics.rockandpop.cl,DIRECT
 .smetrics.rockandpop.cl,DIRECT
+.rockcreekdds.com,DIRECT
 .rockersbaalize.com,DIRECT
 .somni.rocketaccount.com,DIRECT
 .somni.rocketauto.com,DIRECT
@@ -72812,7 +73296,6 @@
 .tamedbc.roska.fr,DIRECT
 .rosolicdalapon.com,DIRECT
 .visitping.rossel.be,DIRECT
-.rossel.tech,DIRECT
 .asamgd.rossmann.de,DIRECT
 .fpghll.rossmann.hu,DIRECT
 .connect.medical.rossu.edu,DIRECT
@@ -72954,10 +73437,12 @@
 .rptdbyvychrfap.com,DIRECT
 .rptmoczqsf.com,DIRECT
 .rpts.org,DIRECT
+.rpxjcseuilgwss.com,DIRECT
 .rpyor0k.xyz,DIRECT
 .rpzbfftekjdz.com,DIRECT
 .rqakljxbs.com,DIRECT
 .rqazepammrl.com,DIRECT
+.rqbqlwhlui.xyz,DIRECT
 .rqbugumvsprr.com,DIRECT
 .rqctubqtcbgeug.com,DIRECT
 .rqdcusltmryapg.com,DIRECT
@@ -72978,6 +73463,7 @@
 .rriodxsmyjk.com,DIRECT
 .rrkouuz.icu,DIRECT
 .rrmlejvyqebk.top,DIRECT
+.rrmlejvyqwzk.top,DIRECT
 .rrnhilainbjii.com,DIRECT
 .rrobbybvvbybj.top,DIRECT
 .rrolqae.com,DIRECT
@@ -73010,6 +73496,7 @@
 .mldy.rsgbt.cn,DIRECT
 .rsgouhlbhfl.com,DIRECT
 .rshsk.xyz,DIRECT
+.rsivgpaydl.com,DIRECT
 .w1.rskwai.com,DIRECT
 .rsldfvt.com,DIRECT
 .experience.rsm.com.au,DIRECT
@@ -73072,8 +73559,10 @@
 .rtclx.com,DIRECT
 .rtdqhjiqf.com,DIRECT
 .rtfmakw.com,DIRECT
+.rthbycustomla.info,DIRECT
 .rthmhocfdb.com,DIRECT
 .tracking.rti-inc.com,DIRECT
+.rtihookier.top,DIRECT
 .rtk.io,DIRECT
 .tracking.rtl.de,DIRECT
 .smetrics.rtl.nl,DIRECT
@@ -73362,6 +73851,7 @@
 .p.ryanhalliday.com,DIRECT
 .metrics.ryanhomes.com,DIRECT
 .smetrics.ryanhomes.com,DIRECT
+.ryaqlybvobjw.top,DIRECT
 .ryauzo.xyz,DIRECT
 .ryazabti.com,DIRECT
 .rycff.online,DIRECT
@@ -73403,6 +73893,7 @@
 .rzkphskfifmo.com,DIRECT
 .rzneekilff.com,DIRECT
 .rzpvbl.xyz,DIRECT
+.rzqeps15a.com,DIRECT
 .go.rzr.to,DIRECT
 .rztrkr.com,DIRECT
 .rzwhlgvzny.com,DIRECT
@@ -73434,6 +73925,7 @@
 .tracking.s24.com,DIRECT
 .s24hc8xzag.com,DIRECT
 .s2blosh.com,DIRECT
+.s2btwhr9v.com,DIRECT
 .s2d6.com,DIRECT
 .s2dcm.com,DIRECT
 .s2sterra.com,DIRECT
@@ -73443,6 +73935,7 @@
 .s3network1.com,DIRECT
 .s3s-main.net,DIRECT
 .s3sng.cn,DIRECT
+.s3vracbwe.com,DIRECT
 .pb.s3wfg.com,DIRECT
 .pixel.s3xified.com,DIRECT
 .ee.s47e8.cn,DIRECT
@@ -73467,6 +73960,7 @@
 .s8x1.com,DIRECT
 .news.s9377.com,DIRECT
 .s99i.org,DIRECT
+.s9mlyfq8g.com,DIRECT
 .stats.sa-as.com,DIRECT
 .sa2m4buc5us.com,DIRECT
 .sa8zdui.com,DIRECT
@@ -73484,6 +73978,7 @@
 .sfsinfo.sabic.com,DIRECT
 .solutions.sabic.com,DIRECT
 .tracking.sabic.com,DIRECT
+.sabksfsgeq.com,DIRECT
 .sableloss.com,DIRECT
 .sablesmile.com,DIRECT
 .sablesong.com,DIRECT
@@ -73613,7 +74108,6 @@
 .sailingmineral.com,DIRECT
 .sailorandmoist.com,DIRECT
 .sailorlanceslap.com,DIRECT
-.sailsuit.com,DIRECT
 .sailundu.xyz,DIRECT
 .saimiripullman.shop,DIRECT
 .t4e.sainsburys.co.uk,DIRECT
@@ -73884,6 +74378,7 @@
 .santonpardal.com,DIRECT
 .santosattestation.com,DIRECT
 .santoscologne.com,DIRECT
+.santosdomino.shop,DIRECT
 .santosfeltmanager.com,DIRECT
 .santosmiddle.com,DIRECT
 .santtacklingallaso.com,DIRECT
@@ -74003,6 +74498,7 @@
 .sauptoacoa.com,DIRECT
 .sauptowhy.com,DIRECT
 .saurajembe.top,DIRECT
+.saurelwithsaw.shop,DIRECT
 .sausagegirlieheartburn.com,DIRECT
 .sauyv.top,DIRECT
 .savableee.com,DIRECT
@@ -74045,6 +74541,7 @@
 .sawfluenttwine.com,DIRECT
 .st.sawlive.tv,DIRECT
 .stats.sawlive.tv,DIRECT
+.sawneywigger.top,DIRECT
 .saworbpox.com,DIRECT
 .sawpokw.com,DIRECT
 .sawsdaggly.com,DIRECT
@@ -74479,7 +74976,6 @@
 .screechcompany.com,DIRECT
 .screechdonationshowed.com,DIRECT
 .screechingfurniture.com,DIRECT
-.screechingslip.com,DIRECT
 .screechingstocking.com,DIRECT
 .screechingstove.com,DIRECT
 .screen13.com,DIRECT
@@ -74531,6 +75027,7 @@
 .sculpturelooking.com,DIRECT
 .scupio.com,DIRECT
 .scutesneatest.com,DIRECT
+.scuttercoaxing.click,DIRECT
 .scw.systems,DIRECT
 .scwawseh.com,DIRECT
 .scxurii.com,DIRECT
@@ -74552,6 +75049,7 @@
 .metrics.sdcvisit.com,DIRECT
 .smetrics.sdcvisit.com,DIRECT
 .sddan.com,DIRECT
+.sde98jd39.com,DIRECT
 .sdfdsd.click,DIRECT
 .sdfgbuy.com,DIRECT
 .sdfsad562.xyz,DIRECT
@@ -74747,8 +75245,8 @@
 .secretionforbearace.com,DIRECT
 .secretiongrin.com,DIRECT
 .secretivecub.com,DIRECT
+.secretivelimpfraudulent.com,DIRECT
 .secretivesheep.com,DIRECT
-.secretivestick.com,DIRECT
 .izbwce.secretoutlet.com.br,DIRECT
 .fnfhgj.secretsales.com,DIRECT
 .senlvg.secretsdujeu.com,DIRECT
@@ -74796,6 +75294,7 @@
 .secure.securitetotale.fr,DIRECT
 .joinsai.securitiesamerica.com,DIRECT
 .practicemanagement.securitiesamerica.com,DIRECT
+.securityassociationgoa.com,DIRECT
 .communications.securityins.net,DIRECT
 .securitymetrics.com,DIRECT
 .securitytrfx.com,DIRECT
@@ -74852,6 +75351,7 @@
 .tics.seeker.gg,DIRECT
 .seekmymatch.com,DIRECT
 .seekoflol.com,DIRECT
+.seeluphill.shop,DIRECT
 .seemaicees.xyz,DIRECT
 .seemingverticallyheartbreak.com,DIRECT
 .seemlysuggestion.com,DIRECT
@@ -74873,6 +75373,7 @@
 .seevolution.com,DIRECT
 .seeyourdata.de,DIRECT
 .ad.seeyouyima.com,DIRECT
+.seezutet.com,DIRECT
 .lfmhcb.sefamerve.com,DIRECT
 .sefsdvc.com,DIRECT
 .a8clk.segatoys.com,DIRECT
@@ -74892,6 +75393,7 @@
 .segs.jp,DIRECT
 .data.segugio.it,DIRECT
 .sehiba.com,DIRECT
+.sehlicegxy.com,DIRECT
 .ldorlv.seiban.co.jp,DIRECT
 .usage.seibert-media.io,DIRECT
 .seibertspart.com,DIRECT
@@ -74944,6 +75446,7 @@
 .app.selectyourtickets.com,DIRECT
 .t.selectyourtickets.com,DIRECT
 .hugupq.selency.fr,DIRECT
+.selenicabbot.shop,DIRECT
 .marketing.self-helpfcu.org,DIRECT
 .self-study-service.com.cn,DIRECT
 .sstats.self.com,DIRECT
@@ -75234,7 +75737,6 @@
 .servingserved.com,DIRECT
 .servingsurroundworldwide.com,DIRECT
 .solutions.servometer.com,DIRECT
-.servr-jkt.com,DIRECT
 .servsserverz.com,DIRECT
 .servtraff97.com,DIRECT
 .ssigpc.servusmarktplatz.com,DIRECT
@@ -75442,6 +75944,7 @@
 .sgwsqcyhxkb.com,DIRECT
 .sgwsss.xyz,DIRECT
 .sgxkm.com,DIRECT
+.sgyahkkwcb.com,DIRECT
 .g9s.sgzs999.com,DIRECT
 .ini.sh-pp.com,DIRECT
 .sh0w-me-h0w.net,DIRECT
@@ -75681,6 +76184,7 @@
 .sheardirectly.com,DIRECT
 .shearobserve.com,DIRECT
 .sxjfhh.sheboyganpress.com,DIRECT
+.sheddercanvass.shop,DIRECT
 .sheedsoh.com,DIRECT
 .sheefursoz.com,DIRECT
 .sheegiwo.com,DIRECT
@@ -75794,7 +76298,6 @@
 .shineinternalindolent.com,DIRECT
 .shinep.xyz,DIRECT
 .shinesavage.com,DIRECT
-.shinestuart.com,DIRECT
 .shinglelatitude.com,DIRECT
 .ad.shinjuku-mens-chuoh.com,DIRECT
 .a8clk.shinnihon-seminar.com,DIRECT
@@ -75810,11 +76313,13 @@
 .metrics.shinseibank.com,DIRECT
 .smetrics.shinseibank.com,DIRECT
 .shiny-aside.com,DIRECT
+.shinygabbleovertime.com,DIRECT
 .ebis-tracking.shinyokohama-beauty.com,DIRECT
 .shinypond.com,DIRECT
 .shinyspiesyou.com,DIRECT
 .shinystat.com,DIRECT
 .shinystat.it,DIRECT
+.shiodfvkes.com,DIRECT
 .smetrics.shionogi.co.jp,DIRECT
 .smetrics.shionogi.tv,DIRECT
 .shipostrich.com,DIRECT
@@ -75880,6 +76385,7 @@
 .khimxz.shoesforcrews.com,DIRECT
 .ezdjat.shoesme.nl,DIRECT
 .shoessaucepaninvoke.com,DIRECT
+.shofarsregroup.shop,DIRECT
 .shokala.com,DIRECT
 .go.shokshak.com,DIRECT
 .track.go.shokubai.co.jp,DIRECT
@@ -75980,6 +76486,7 @@
 .trk.shoppremiumoutlets.com,DIRECT
 .m.shoppreparcels.com,DIRECT
 .reviews.shoppydoo.it,DIRECT
+.shoppyoccults.click,DIRECT
 .connect.shoprentone.com,DIRECT
 .branch.shoprunner.com,DIRECT
 .dp.shoprunner.com,DIRECT
@@ -76020,6 +76527,7 @@
 .shorthandsixpencemap.com,DIRECT
 .shortlyrecyclerelinquish.com,DIRECT
 .shortssibilantcrept.com,DIRECT
+.shosidawgah.com,DIRECT
 .shostobs.net,DIRECT
 .shotdynastyimpetuous.com,DIRECT
 .link.shotgun.live,DIRECT
@@ -76068,7 +76576,6 @@
 .app.showroomprive.com,DIRECT
 .d1.showself.com,DIRECT
 .showsteel.com,DIRECT
-.showstranger.com,DIRECT
 .metrics.showtickets.com,DIRECT
 .smetrics.showtickets.com,DIRECT
 .metrics.showtime.com,DIRECT
@@ -76078,6 +76585,7 @@
 .af.shozankan-shop.com,DIRECT
 .marketing.shpfinancial.com,DIRECT
 .shpg.org,DIRECT
+.shpool2s1.com,DIRECT
 .shprkdnogwqx.com,DIRECT
 .shrapimplume.top,DIRECT
 .shredassortmentmood.com,DIRECT
@@ -76305,6 +76813,7 @@
 .yun.sifuhe.cn,DIRECT
 .sifuwei.com,DIRECT
 .connect.sigbee.com,DIRECT
+.siggjllanja.com,DIRECT
 .sighash.info,DIRECT
 .sigheemibod.xyz,DIRECT
 .bran.sightdots.com,DIRECT
@@ -76332,6 +76841,7 @@
 .click.signaturemarket.co,DIRECT
 .signatureoutskirts.com,DIRECT
 .signaturepod.com,DIRECT
+.signcalamity.com,DIRECT
 .significantnuisance.com,DIRECT
 .significantoperativeclearance.com,DIRECT
 .acc.info.lumxpert.signify.com,DIRECT
@@ -76611,6 +77121,7 @@
 .sinkbooks.com,DIRECT
 .sinkboxphantic.com,DIRECT
 .sinkdescriptivepops.com,DIRECT
+.sinkerskinetin.click,DIRECT
 .sinkfaster.com,DIRECT
 .sinkingspicydemure.com,DIRECT
 .sinkingswap.com,DIRECT
@@ -76858,6 +77369,7 @@
 .sketchystairwell.com,DIRECT
 .promo.skf.com,DIRECT
 .skfda5.com,DIRECT
+.skhmjezzj.com,DIRECT
 .skhqmobc.com,DIRECT
 .stats.ski.com,DIRECT
 .skiddyteapots.com,DIRECT
@@ -76935,6 +77447,7 @@
 .cdn1.skrill.com,DIRECT
 .hit.skrz.cz,DIRECT
 .skskssso.com,DIRECT
+.sksnmfecc.com,DIRECT
 .jhprvk.skstoa.com,DIRECT
 .skuligpzifan.com,DIRECT
 .skulkspreppie.com,DIRECT
@@ -77078,6 +77591,7 @@
 .slimelump.com,DIRECT
 .slimentrepreneur.com,DIRECT
 .slimfiftywoo.com,DIRECT
+.slimishbiosome.shop,DIRECT
 .web.slimjoy.com,DIRECT
 .web.slimjoy.cz,DIRECT
 .web.slimjoy.dk,DIRECT
@@ -77089,12 +77603,15 @@
 .slimspots.com,DIRECT
 .slimtrade.com,DIRECT
 .slimyscarf.com,DIRECT
-.slimyseashore.com,DIRECT
 .slimytree.com,DIRECT
 .metrics.sling.com,DIRECT
 .smetrics.sling.com,DIRECT
 .slingpic.com,DIRECT
+.slinkhub.com,DIRECT
+.slinklink.com,DIRECT
+.slinkonline.com,DIRECT
 .slinksuggestion.com,DIRECT
+.slinkzone.com,DIRECT
 .slippersappointed.com,DIRECT
 .slippersphoto.com,DIRECT
 .slipperspinchingsyntax.com,DIRECT
@@ -77189,7 +77706,6 @@
 .ea.smallable.com,DIRECT
 .xy33.smallable.com,DIRECT
 .smallanybody.pro,DIRECT
-.smallbeginner.com,DIRECT
 .subscriber.smallbusinessstartup.com,DIRECT
 .link.smallcase.com,DIRECT
 .smallerconceivesixty.com,DIRECT
@@ -77282,7 +77798,6 @@
 .secure.smartenterprisewisdom.com,DIRECT
 .smarterhq.io,DIRECT
 .smarterremarketer.net,DIRECT
-.p.smartertravel.com,DIRECT
 .sstats.smartertravel.com,DIRECT
 .smetrics.smartervacations.com,DIRECT
 .smartfarming.cn,DIRECT
@@ -77359,6 +77874,7 @@
 .smbx8.net,DIRECT
 .rs.smc.tf,DIRECT
 .smct.co,DIRECT
+.smctkfqa.com,DIRECT
 .smctmxdeoz.com,DIRECT
 .smearincur.com,DIRECT
 .smeartoassessment.com,DIRECT
@@ -77485,7 +78001,6 @@
 .smugmuseumframe.com,DIRECT
 .smugturner.com,DIRECT
 .app.smumustangs.com,DIRECT
-.smuxmalamw.com,DIRECT
 .smwsrifbmybiyv.com,DIRECT
 .smxflvz.cn,DIRECT
 .smyfbkk.com,DIRECT
@@ -77693,7 +78208,6 @@
 .soaphoupsoas.xyz,DIRECT
 .soapingbourgs.top,DIRECT
 .soaprange.com,DIRECT
-.soapsmoke.com,DIRECT
 .soarfi.cn,DIRECT
 .soawousa.xyz,DIRECT
 .sobakapi2sa8la09.com,DIRECT
@@ -77784,6 +78298,7 @@
 .sadobe.sodimac.com.ar,DIRECT
 .evhvza.sodimac.com.br,DIRECT
 .sodiumcupboard.com,DIRECT
+.sodiumendlesslyhandsome.com,DIRECT
 .sodiumrampcubic.com,DIRECT
 .sodoit.com,DIRECT
 .a.sodra.com,DIRECT
@@ -77870,7 +78385,6 @@
 .pb.i.sogou.com,DIRECT
 .pb.sogou.com,DIRECT
 .pcxzo.pluto.sogou.com,DIRECT
-.shouji.sogou.com,DIRECT
 .uranus.sogou.com,DIRECT
 .vwhi.gou.sogou.com,DIRECT
 .worldwide.sogou.com,DIRECT
@@ -78216,6 +78730,7 @@
 .eloqua.soprasteria.co.uk,DIRECT
 .de.soquair.com,DIRECT
 .sorboseyatvyag.top,DIRECT
+.sorcermojo.shop,DIRECT
 .sordidsmile.com,DIRECT
 .sordidstation.com,DIRECT
 .soremetropolitan.com,DIRECT
@@ -78227,6 +78742,7 @@
 .smetrics.sorgenia.it,DIRECT
 .soritespary.com,DIRECT
 .sorningdaroo.top,DIRECT
+.sorobanbesplit.shop,DIRECT
 .sorrowconstellation.com,DIRECT
 .sorrowfulchemical.com,DIRECT
 .sorrowfulclinging.com,DIRECT
@@ -78251,6 +78767,7 @@
 .sosettoourmarke.info,DIRECT
 .bd1.sosg.net,DIRECT
 .soshoord.com,DIRECT
+.soshvenging.click,DIRECT
 .sosigninggrudge.com,DIRECT
 .marketing.sosintl.com,DIRECT
 .e.sosjyx.com,DIRECT
@@ -78463,6 +78980,7 @@
 .sparklesleet.com,DIRECT
 .sparklesnoop.com,DIRECT
 .sparklespaghetti.com,DIRECT
+.sparklingfailure.com,DIRECT
 .sparklingnumber.com,DIRECT
 .sparklingshelf.com,DIRECT
 .sparkloop.app,DIRECT
@@ -78647,6 +79165,7 @@
 .spicy-combination.pro,DIRECT
 .spicy-effect.com,DIRECT
 .spicygirlshere.life,DIRECT
+.spicytucker.shop,DIRECT
 .spider-mich.com,DIRECT
 .spidersboats.com,DIRECT
 .spiderspresident.com,DIRECT
@@ -78681,6 +79200,7 @@
 .spirebaboon.com,DIRECT
 .spiredilution.com,DIRECT
 .spireprideleaf.com,DIRECT
+.spirited-teacher.com,DIRECT
 .puzzle.spiriteq.com,DIRECT
 .tw.spiriteq.com,DIRECT
 .metrics.spirithalloween.com,DIRECT
@@ -78694,6 +79214,7 @@
 .spisulavoc.com,DIRECT
 .spit0stge.com,DIRECT
 .spitretired.com,DIRECT
+.spitspacecraftfraternity.com,DIRECT
 .spittenant.com,DIRECT
 .spklmis.com,DIRECT
 .bonfire.spklw.com,DIRECT
@@ -78923,6 +79444,7 @@
 .a.spv.se,DIRECT
 .info.marketing.spxflow.com,DIRECT
 .spxhu.com,DIRECT
+.spyingwhiffer.shop,DIRECT
 .spylees.com,DIRECT
 .spylog.com,DIRECT
 .spylog.ru,DIRECT
@@ -79166,7 +79688,6 @@
 .staggeredquelldressed.com,DIRECT
 .staggeredravehospitality.com,DIRECT
 .links.staging-lifestepsapp.com,DIRECT
-.stagingbyvdveen.com,DIRECT
 .stagingjobshq.com,DIRECT
 .app.stagingsimpl.com,DIRECT
 .stagroam.net,DIRECT
@@ -79230,6 +79751,7 @@
 .stankyrich.com,DIRECT
 .uaaooa.stansberryresearch.com,DIRECT
 .stansoam.com,DIRECT
+.stanzasleerier.click,DIRECT
 .stapledsaur.top,DIRECT
 .metrics.staples.com,DIRECT
 .smetrics.staples.com,DIRECT
@@ -79256,6 +79778,7 @@
 .starchportraypub.com,DIRECT
 .starchy-foundation.pro,DIRECT
 .starchytoxifer.top,DIRECT
+.starcountry.net,DIRECT
 .stardatis.com,DIRECT
 .stargame.com,DIRECT
 .stargamesaffiliate.com,DIRECT
@@ -79269,6 +79792,7 @@
 .starklesalta.com,DIRECT
 .starkscale.com,DIRECT
 .starkslaveconvenience.com,DIRECT
+.starkuno.com,DIRECT
 .starlayer.com,DIRECT
 .plausible.starlegacyfoundation.org,DIRECT
 .starlingposterity.com,DIRECT
@@ -79503,10 +80027,10 @@
 .steamjaws.com,DIRECT
 .steamtraffic.com,DIRECT
 .stedrits.xyz,DIRECT
-.stedsous.xyz,DIRECT
 .steeelm.online,DIRECT
 .steefaulrouy.xyz,DIRECT
 .steegnow.com,DIRECT
+.steeheghe.com,DIRECT
 .steel-bedroom.pro,DIRECT
 .go.steelbuilding.com,DIRECT
 .metrics.steelcase.com,DIRECT
@@ -79748,7 +80272,6 @@
 .stnew.xyz,DIRECT
 .stoachaigog.com,DIRECT
 .stoaphalti.com,DIRECT
-.stoapoothu.com,DIRECT
 .stoashou.net,DIRECT
 .stoawugluce.net,DIRECT
 .link.stockalarm.io,DIRECT
@@ -80767,6 +81290,7 @@
 .susheeze.xyz,DIRECT
 .stats.sushibyte.io,DIRECT
 .sushipool.com,DIRECT
+.susifhfh2d8ldn09.com,DIRECT
 .suspectedadvisor.com,DIRECT
 .suspectmark.com,DIRECT
 .suspendedjetthus.com,DIRECT
@@ -80834,6 +81358,7 @@
 .svptpcjefg.com,DIRECT
 .svr-prc-01.com,DIRECT
 .svr007phz.com,DIRECT
+.svrgcqgtpe.com,DIRECT
 .svrkdkopdsdj.com,DIRECT
 .tk.svsound.com,DIRECT
 .yjpgxf.svsound.com,DIRECT
@@ -80923,12 +81448,12 @@
 .swelltouching.com,DIRECT
 .swelteringcrazy.pro,DIRECT
 .swelteringsleep.com,DIRECT
-.swelteringsmile.com,DIRECT
 .swensaidohet.com,DIRECT
 .sweptbroadarchly.com,DIRECT
 .sweptgrimace.com,DIRECT
 .swerilxb.top,DIRECT
 .sweriob.top,DIRECT
+.swervercutup.top,DIRECT
 .swesomepop.com,DIRECT
 .swetrix.org,DIRECT
 .swevengrise.com,DIRECT
@@ -81043,11 +81568,13 @@
 .sxxjdz.com,DIRECT
 .sxyunyou.cn,DIRECT
 .c.sy123888.com,DIRECT
+.sy2h39ep8.com,DIRECT
 .sy57d8wi.com,DIRECT
 .sya9yncn3q.com,DIRECT
 .sybhpi.cn,DIRECT
 .syblyj.com,DIRECT
 .sybobuicks.com,DIRECT
+.syboticflemer.shop,DIRECT
 .dl.sybspools.com,DIRECT
 .kr.sybspools.com,DIRECT
 .sycbbs.com,DIRECT
@@ -81192,7 +81719,6 @@
 .system-notify.app,DIRECT
 .rampjs-cdn.system1.com,DIRECT
 .feppiu.systemaction.es,DIRECT
-.fp27ee.wac.systemcdn.net,DIRECT
 .systeme-business.online,DIRECT
 .systeme.io,DIRECT
 .systemengagedwisely.com,DIRECT
@@ -81324,7 +81850,6 @@
 .t0sfe1.com,DIRECT
 .t13.io,DIRECT
 .t157.com,DIRECT
-.hfs.t1linux.com,DIRECT
 .t1n.cn,DIRECT
 .t2.t2b.click,DIRECT
 .t2click.com,DIRECT
@@ -81345,6 +81870,9 @@
 .hhqda.pop.t5yx.cn,DIRECT
 .e.t71q.com,DIRECT
 .t7cp4fldl.com,DIRECT
+.t7tli5r8t.com,DIRECT
+.t85itha3nitde.com,DIRECT
+.t8mbwgbjn.com,DIRECT
 .m.t98rzq.cn,DIRECT
 .c.t98u8f.com,DIRECT
 .ta20k.xyz,DIRECT
@@ -81415,6 +81943,7 @@
 .tacticsjoan.com,DIRECT
 .go.tactile.co,DIRECT
 .go.tactile.com,DIRECT
+.tacwrekhixf.com,DIRECT
 .tadadamads.com,DIRECT
 .tadamads.com,DIRECT
 .app.tadatada.com,DIRECT
@@ -81487,6 +82016,7 @@
 .tailorendorsementtranslation.com,DIRECT
 .a8.tailorenglish.jp,DIRECT
 .tailorfunctionknuckle.com,DIRECT
+.tailorsstoup.shop,DIRECT
 .goat.tailspace.net,DIRECT
 .tailsweep.com,DIRECT
 .tailtarget.com,DIRECT
@@ -81645,6 +82175,7 @@
 .plausible-stats.tangodelta.media,DIRECT
 .tangozebra.com,DIRECT
 .tangpuax.xyz,DIRECT
+.tangsrimery.click,DIRECT
 .tangyamount.com,DIRECT
 .tangycover.com,DIRECT
 .tanhelpfulcuddle.com,DIRECT
@@ -81832,6 +82363,7 @@
 .onelink.taptalk.io,DIRECT
 .link.taptapapp.com,DIRECT
 .img.ads.taptapnetworks.com,DIRECT
+.tapwhigwy.com,DIRECT
 .cdn.ads.tapzin.com,DIRECT
 .tvuaeb.taqi.com.br,DIRECT
 .stats.tarasyarema.com,DIRECT
@@ -81894,7 +82426,6 @@
 .tastefulsongs.com,DIRECT
 .tastelesstoes.com,DIRECT
 .tastelesstrees.com,DIRECT
-.tastelesstrucks.com,DIRECT
 .metrics.tasteline.com,DIRECT
 .link.tastemade.com,DIRECT
 .plausible.tasteslikeme.ca,DIRECT
@@ -81923,6 +82454,7 @@
 .uedvam.tatilsepeti.com,DIRECT
 .tatpek.com,DIRECT
 .lxwasy.tatragarden.ua,DIRECT
+.tatsmanoculate.click,DIRECT
 .tattepush.com,DIRECT
 .statistics.tattermedia.com,DIRECT
 .tattoocommit.com,DIRECT
@@ -82016,6 +82548,7 @@
 .tburmyor.com,DIRECT
 .a1.tbuz.com.cn,DIRECT
 .tbxnhnorzujvs.com,DIRECT
+.tbxyuwctmt.com,DIRECT
 .tc-clicks.com,DIRECT
 .acesse.tc.com.br,DIRECT
 .tc8ji.website,DIRECT
@@ -82034,6 +82567,7 @@
 .s.tccc-comms.com,DIRECT
 .img.tcdxt.com,DIRECT
 .tcdyjyrj.com,DIRECT
+.tcdypeptz.com,DIRECT
 .m.tcenn.com,DIRECT
 .tcfgtd.xyz,DIRECT
 .tcgaqh.icu,DIRECT
@@ -82096,6 +82630,7 @@
 .sstats.tdameritrade.com,DIRECT
 .stats.tdameritrade.com,DIRECT
 .click.e.tdbank.com,DIRECT
+.tdbcfbivjq.xyz,DIRECT
 .smetrics.tdc.dk,DIRECT
 .tdcoincore.org,DIRECT
 .tdditqosnpeo.com,DIRECT
@@ -82161,6 +82696,7 @@
 .team-rec.jp,DIRECT
 .secure.team8save.com,DIRECT
 .teamagonan.com,DIRECT
+.teamairportheedless.com,DIRECT
 .smetrics.teambeachbody.com,DIRECT
 .teambetaffiliates.com,DIRECT
 .analytics.teamcovenant.com,DIRECT
@@ -82289,6 +82825,7 @@
 .teefuthe.com,DIRECT
 .teeglimu.com,DIRECT
 .teemcapablespinal.com,DIRECT
+.teemingmutts.shop,DIRECT
 .teemingweekend.com,DIRECT
 .teemooge.net,DIRECT
 .teenagerapostrophe.com,DIRECT
@@ -82313,6 +82850,7 @@
 .teethfan.com,DIRECT
 .teetusee.xyz,DIRECT
 .outreach.teex.info,DIRECT
+.tefbawbee.top,DIRECT
 .med.teflaro.com,DIRECT
 .tefuse.com,DIRECT
 .tegleebs.com,DIRECT
@@ -82463,6 +83001,7 @@
 .smetrics.telustvplus.com,DIRECT
 .telwrite.com,DIRECT
 .temachaumble.top,DIRECT
+.temirtau-adm.ru,DIRECT
 .i.temiz.co,DIRECT
 .temksrtd.net,DIRECT
 .tempbugs.com,DIRECT
@@ -82556,6 +83095,7 @@
 .kwwgmv.tennistown.de,DIRECT
 .tenoad.com,DIRECT
 .marketing.tenoapp.com,DIRECT
+.tenoneraliners.top,DIRECT
 .tenping.kr,DIRECT
 .discover.tenplay.com.au,DIRECT
 .visit.tenplay.com.au,DIRECT
@@ -82566,7 +83106,6 @@
 .tent0mown.com,DIRECT
 .tentaculos.net,DIRECT
 .tentativenegotiate.com,DIRECT
-.tentativeroofearlap.com,DIRECT
 .tenthgiven.com,DIRECT
 .tenthsfrumpy.com,DIRECT
 .tentioniaukmla.info,DIRECT
@@ -82607,6 +83146,7 @@
 .terciogouge.com,DIRECT
 .teredoknoit.com,DIRECT
 .terelinkman.info,DIRECT
+.tereteclit.shop,DIRECT
 .terethat.ru,DIRECT
 .pages.response.terex.com,DIRECT
 .tracking.response.terex.com,DIRECT
@@ -82672,12 +83212,14 @@
 .testin.cn,DIRECT
 .testingmetriksbre.ru,DIRECT
 .s.testingreactjs.com,DIRECT
+.stat.testme.cloud,DIRECT
 .s.testneedle.co.uk,DIRECT
 .testnet.nl,DIRECT
 .go.testo.com,DIRECT
 .forms.testoil.com,DIRECT
 .testsite34.com,DIRECT
 .marketing.testtargettreat.com,DIRECT
+.tetelsillers.com,DIRECT
 .tethsrump.com,DIRECT
 .tetigi.com,DIRECT
 .tetlwsi.top,DIRECT
@@ -82730,6 +83272,7 @@
 .metrics-broker.prod.p.tf1.fr,DIRECT
 .tf58.com,DIRECT
 .tfaln.com,DIRECT
+.tfarruaxzgi.com,DIRECT
 .tfauwtzipxob.com,DIRECT
 .marketing.tfawealthplanning.com,DIRECT
 .tfb7jc.de,DIRECT
@@ -82751,6 +83294,7 @@
 .tfosrv.com,DIRECT
 .tfovmbclzpekgb.com,DIRECT
 .tfqrqdpgarskxv.com,DIRECT
+.tfrsuupbwlmpott.com,DIRECT
 .tfsqxdc.com,DIRECT
 .tfsxszw.com,DIRECT
 .tftran.shop,DIRECT
@@ -82805,6 +83349,7 @@
 .thairoob.com,DIRECT
 .thaistiboa.com,DIRECT
 .thaitingsho.info,DIRECT
+.thaitsie.com,DIRECT
 .thaiwhou.com,DIRECT
 .eulerian.thalasseo.com,DIRECT
 .thale-ete.com,DIRECT
@@ -82827,6 +83372,7 @@
 .thanot.com,DIRECT
 .thanstruggling.com,DIRECT
 .tharbadir.com,DIRECT
+.thargookroge.net,DIRECT
 .thatbeefysit.com,DIRECT
 .thathislitt.ru,DIRECT
 .thatmonkeybites3.com,DIRECT
@@ -83094,6 +83640,7 @@
 .e.e.themighty.com,DIRECT
 .gfeede.theminda.com,DIRECT
 .themingmidland.top,DIRECT
+.themiskvah.top,DIRECT
 .themoneytizer.com,DIRECT
 .marketing.themonumentgroup.com,DIRECT
 .a8.themoonmilk.jp,DIRECT
@@ -83342,6 +83889,7 @@
 .thewowfeed.com,DIRECT
 .thewulsair.com,DIRECT
 .thewymulto.life,DIRECT
+.thexeech.xyz,DIRECT
 .app.thexlife.co,DIRECT
 .denver.thexlife.co,DIRECT
 .phoenix.thexlife.co,DIRECT
@@ -83381,7 +83929,6 @@
 .thingstorrent.com,DIRECT
 .thinkablefloor.com,DIRECT
 .thinkablerice.com,DIRECT
-.thinkabletrick.com,DIRECT
 .thinkappetitefeud.com,DIRECT
 .innovation.thinkcommunica.com,DIRECT
 .tracker.thinkermail.com,DIRECT
@@ -83408,7 +83955,6 @@
 .thirdfloor.it,DIRECT
 .thirdreasoncomplex.com,DIRECT
 .thirdrespect.com,DIRECT
-.thirstylettuce.com,DIRECT
 .thirstyswing.com,DIRECT
 .thirstytwig.com,DIRECT
 .thirteenthadjectivecleaning.com,DIRECT
@@ -83555,7 +84101,6 @@
 .thrillingpairsreside.com,DIRECT
 .integrate.thrive.today,DIRECT
 .thrivebubble.com,DIRECT
-.thrivecover.com,DIRECT
 .links.thriveglobal.com,DIRECT
 .staging-links.thriveglobal.com,DIRECT
 .metrics.thrivent.com,DIRECT
@@ -83583,7 +84128,6 @@
 .data.crm-edm.thsrc.com.tw,DIRECT
 .thterras.com,DIRECT
 .thtpxwnqfx.com,DIRECT
-.thuant.com,DIRECT
 .thubanoa.com,DIRECT
 .thuckautiru.com,DIRECT
 .link.thue.do,DIRECT
@@ -83805,6 +84349,7 @@
 .analytics-sg.tiktok.com,DIRECT
 .analytics.tiktok.com,DIRECT
 .business-api.tiktok.com,DIRECT
+.mcs-va-useast2a.tiktokv.com,DIRECT
 .mcs-va.tiktokv.com,DIRECT
 .mcs.us.tiktokv.com,DIRECT
 .mon.us.tiktokv.com,DIRECT
@@ -83816,6 +84361,7 @@
 .tilesmuzarab.com,DIRECT
 .reddwarf.till-sanders.de,DIRECT
 .link.tillfinancial.io,DIRECT
+.tillinextricable.com,DIRECT
 .diypxh.tillys.com,DIRECT
 .tiltgardenheadlight.com,DIRECT
 .tilttrk.com,DIRECT
@@ -83918,6 +84464,7 @@
 .cdn.tinglian.com,DIRECT
 .e.tingniubi.cn,DIRECT
 .tingrinter.com,DIRECT
+.tingswifing.click,DIRECT
 .tingyun.com,DIRECT
 .tingyunfenxi.com,DIRECT
 .ypwzcq.tink.de,DIRECT
@@ -83984,6 +84531,7 @@
 .tiresomereluctantlydistinctly.com,DIRECT
 .tiresomethunder.com,DIRECT
 .tiringinadmissiblehighlight.com,DIRECT
+.tirlnursle.shop,DIRECT
 .tirosagalite.com,DIRECT
 .aurum.tirto.id,DIRECT
 .trk.tirto.id,DIRECT
@@ -84164,6 +84712,7 @@
 .tnalzli.top,DIRECT
 .tnative.ru,DIRECT
 .tnbedvhussaxz.com,DIRECT
+.tnbobppfkpsye.com,DIRECT
 .tncid.app,DIRECT
 .tncomg.com,DIRECT
 .tncred.com,DIRECT
@@ -84185,6 +84734,7 @@
 .tnnpozuqdhes.com,DIRECT
 .tnpads.xyz,DIRECT
 .tnqsnxsdt.com,DIRECT
+.tnrfbodtrxmqi.com,DIRECT
 .tns-counter.ru,DIRECT
 .tns-cs.net,DIRECT
 .tns-gallup.dk,DIRECT
@@ -84237,6 +84787,7 @@
 .tobaccoearnestnessmayor.com,DIRECT
 .tobaitsie.com,DIRECT
 .tobaltoyon.com,DIRECT
+.tobipovsem.com,DIRECT
 .toboads.com,DIRECT
 .tobyxev.com,DIRECT
 .toc.io,DIRECT
@@ -84341,6 +84892,7 @@
 .tomatoitch.com,DIRECT
 .tomatoqqamber.click,DIRECT
 .tomawilea.com,DIRECT
+.tomcodlachsa.com,DIRECT
 .smetrics.tomecontroldesusalud.com,DIRECT
 .tomekas.com,DIRECT
 .tomepermissible.com,DIRECT
@@ -84586,6 +85138,7 @@
 .subdo.torrentlocura.com,DIRECT
 .torrentsuperintend.com,DIRECT
 .data.torry.io,DIRECT
+.torsopledget.shop,DIRECT
 .toru0vane.com,DIRECT
 .metrics.toryburch.com,DIRECT
 .xay5o.toscane-boutique.fr,DIRECT
@@ -84663,6 +85216,7 @@
 .marketing.totalcsr.com,DIRECT
 .images.info.totalfleet.fr,DIRECT
 .totalfreshwords.com,DIRECT
+.totalhorsehealth.com,DIRECT
 .dioqto.totaljobs.com,DIRECT
 .my.totaljobs.com,DIRECT
 .response.totaljobs.com,DIRECT
@@ -84755,6 +85309,7 @@
 .toutiaopage.com,DIRECT
 .toutsneskhi.com,DIRECT
 .touzia.xyz,DIRECT
+.touzoaty.net,DIRECT
 .tovanillitechan.com,DIRECT
 .tovery.net,DIRECT
 .tovespiquener.com,DIRECT
@@ -85464,6 +86019,7 @@
 .tritethunder.com,DIRECT
 .tritetongue.com,DIRECT
 .ajvzis.triumph.com,DIRECT
+.triumphalstrandedpancake.com,DIRECT
 .triumphantplace.com,DIRECT
 .go.triumphlearning.com,DIRECT
 .a.trivita.com,DIRECT
@@ -85521,6 +86077,7 @@
 .tronads.io,DIRECT
 .tronmachi.com,DIRECT
 .troolyhonks.com,DIRECT
+.troolytop.com,DIRECT
 .troopsassistedstupidity.com,DIRECT
 .troopseruptionfootage.com,DIRECT
 .tropaiariskful.top,DIRECT
@@ -85547,6 +86104,7 @@
 .sitecats.troweprice.com,DIRECT
 .target.troweprice.com,DIRECT
 .trowingpaba.website,DIRECT
+.trowthsrandia.shop,DIRECT
 .xgspzv.troyestore.com,DIRECT
 .trpool.org,DIRECT
 .trpop.xyz,DIRECT
@@ -85679,6 +86237,7 @@
 .sanalytics.trutv.com,DIRECT
 .stracking.trutv.com,DIRECT
 .tracking.trutv.com,DIRECT
+.trutvnci.top,DIRECT
 .apptest.truveiculos.com,DIRECT
 .app.info.truvenhealth.biz,DIRECT
 .interest.truvenhealth.com,DIRECT
@@ -85695,7 +86254,6 @@
 .link-qc.trycircle.com,DIRECT
 .link.trycircle.com,DIRECT
 .sl.trycircle.com,DIRECT
-.bradford-concept-quit-pen.trycloudflare.com,DIRECT
 .click.trycobble.com,DIRECT
 .metrics.tryg.dk,DIRECT
 .smetrics.tryg.dk,DIRECT
@@ -86077,6 +86635,7 @@
 .sadbmetrics.tusanuncios.com,DIRECT
 .bxumze.tuscaloosanews.com,DIRECT
 .tuscanyaskant.com,DIRECT
+.tuskgler.com,DIRECT
 .tuskhautein.com,DIRECT
 .tusno.com,DIRECT
 .tussisinjelly.com,DIRECT
@@ -86162,7 +86721,6 @@
 .twamjb.cn,DIRECT
 .twangruble.top,DIRECT
 .smetrics.twany-hadabae.jp,DIRECT
-.twaonhcjwoaouj.com,DIRECT
 .twazzyoidwlfe.com,DIRECT
 .twb98.com,DIRECT
 .twcczhu.com,DIRECT
@@ -86301,6 +86859,7 @@
 .tyaqzjp.icu,DIRECT
 .tyblecnuft.com,DIRECT
 .tybmbbgu.xyz,DIRECT
+.tyburnpenalty.com,DIRECT
 .tychon.bid,DIRECT
 .images.e.tycois.com,DIRECT
 .images.info.tycosimplexgrinnell.com,DIRECT
@@ -86312,8 +86871,10 @@
 .tyhjukinimoqfgv.com,DIRECT
 .tyhlwigp.com,DIRECT
 .tyhwheveeshngi.xyz,DIRECT
+.tyhyorvhscdbx.xyz,DIRECT
 .tyingentered.com,DIRECT
 .tyisloi.top,DIRECT
+.tyjttinacorners.info,DIRECT
 .tykor.net,DIRECT
 .tylcpcikj.com,DIRECT
 .tylfgkf.com,DIRECT
@@ -86456,6 +87017,7 @@
 .u51.me,DIRECT
 .u55011.com,DIRECT
 .u595sebqih.com,DIRECT
+.u59shs96o.com,DIRECT
 .u5e.com,DIRECT
 .u5i7k.cn,DIRECT
 .u5lxh1y1pgxy.shop,DIRECT
@@ -86467,6 +87029,7 @@
 .u88.cn,DIRECT
 .u8ad.com,DIRECT
 .u9axpzf50.com,DIRECT
+.u9clrgnus.com,DIRECT
 .uaaftpsy.com,DIRECT
 .uabpuwz.com,DIRECT
 .app.uabsports.com,DIRECT
@@ -86649,6 +87212,7 @@
 .vs8.gzct.u3.ucweb.com,DIRECT
 .vs8.gzcu.u3.ucweb.com,DIRECT
 .gjapplog.ucweb.com,DIRECT
+.ucx98rp6g.com,DIRECT
 .uczzd.com,DIRECT
 .uczzd.net,DIRECT
 .udairgawob.net,DIRECT
@@ -86666,6 +87230,7 @@
 .udinugoo.com,DIRECT
 .udipsumt.top,DIRECT
 .udjdpyrt.xyz,DIRECT
+.udkcqpmuhc.com,DIRECT
 .udkcrj.com,DIRECT
 .udkpcc.xyz,DIRECT
 .udksgsuvcpm.com,DIRECT
@@ -86714,6 +87279,7 @@
 .ueumdkc.cn,DIRECT
 .uewrutt.top,DIRECT
 .uewztebe.com,DIRECT
+.uf4l9b2kw.com,DIRECT
 .ufaexpert.com,DIRECT
 .ufbnqsfbpkmindy.com,DIRECT
 .ufeevhhnjilfeo.com,DIRECT
@@ -86788,6 +87354,7 @@
 .uhjxitn.xyz,DIRECT
 .uhmcjdc.icu,DIRECT
 .adf.uhn.cx,DIRECT
+.uhncnmeubny.com,DIRECT
 .uhodsplo.com,DIRECT
 .m.uhor8.cn,DIRECT
 .uhpdsplo.com,DIRECT
@@ -86908,6 +87475,7 @@
 .ulclick.ru,DIRECT
 .uldlikukemyfueu.com,DIRECT
 .uldmakefeagr.info,DIRECT
+.ulekvetch.click,DIRECT
 .uleptupt.xyz,DIRECT
 .ulesxbo.com,DIRECT
 .ulfqakqfng.xyz,DIRECT
@@ -87088,6 +87656,7 @@
 .unblockedtpb.pw,DIRECT
 .unblockia.com,DIRECT
 .unblocktheship.org,DIRECT
+.unboybandeng.top,DIRECT
 .unbunearyan.com,DIRECT
 .unbuttonfootprintssoftened.com,DIRECT
 .tracker.unbxdapi.com,DIRECT
@@ -87204,6 +87773,7 @@
 .unequaltravelresearch.com,DIRECT
 .unevenobjective.com,DIRECT
 .unevenregime.com,DIRECT
+.unfairgenelullaby.com,DIRECT
 .unfairpromritual.com,DIRECT
 .unfaithfulgoddess.com,DIRECT
 .unfhxszj.xyz,DIRECT
@@ -87219,6 +87789,7 @@
 .l.unfy.ai,DIRECT
 .ungatedsynch.com,DIRECT
 .xpygen.unger-fashion.com,DIRECT
+.ungiblechan.com,DIRECT
 .ungillhenbane.com,DIRECT
 .ungloomnisnas.com,DIRECT
 .ungothoritator.com,DIRECT
@@ -87419,6 +87990,7 @@
 .unluxioer.com,DIRECT
 .app.unlvrebels.com,DIRECT
 .t.unlvrebels.com,DIRECT
+.unmeltsavaged.click,DIRECT
 .unmightboxen.com,DIRECT
 .unmisdreavusom.com,DIRECT
 .unnaturalstring.com,DIRECT
@@ -87476,6 +88048,7 @@
 .unskilfulwalkerpolitician.com,DIRECT
 .unskilledexamples.com,DIRECT
 .unslimtugger.top,DIRECT
+.unsnakyctg.click,DIRECT
 .unsnareparroty.com,DIRECT
 .unspeakablefreezing.com,DIRECT
 .unspeakablepurebeings.com,DIRECT
@@ -87499,6 +88072,7 @@
 .untidyrice.com,DIRECT
 .untidyseparatelyintroduce.com,DIRECT
 .untiedecide.com,DIRECT
+.untiesagami.click,DIRECT
 .untilfamilythrone.com,DIRECT
 .untilpatientlyappears.com,DIRECT
 .untimburra.com,DIRECT
@@ -87810,6 +88384,7 @@
 .urueuah.cn,DIRECT
 .uruftio.com,DIRECT
 .uruswan.com,DIRECT
+.urutvnct.top,DIRECT
 .urvgwij.com,DIRECT
 .us.cf,DIRECT
 .track.us.org,DIRECT
@@ -88160,11 +88735,13 @@
 .uwlzsfo.com,DIRECT
 .marketing.uwmedicine.org,DIRECT
 .uwmlmhcjmjvuqy.xyz,DIRECT
+.uwnqbekejrtibi.com,DIRECT
 .uwoaptee.com,DIRECT
 .uwougheels.net,DIRECT
 .uwrzjgtnur.com,DIRECT
 .uwumr.cn,DIRECT
 .uwzxukualwdkx.com,DIRECT
+.ux782mkgx.com,DIRECT
 .uxernab.com,DIRECT
 .uxicgxqq.com,DIRECT
 .uxjpyfzorpkcg.com,DIRECT
@@ -88190,6 +88767,7 @@
 .uyjmbaiogdtkgwt.com,DIRECT
 .uyjxzvu.com,DIRECT
 .uymahuxv.xyz,DIRECT
+.uyoeybufozsp.com,DIRECT
 .uyohyy.xyz,DIRECT
 .uypsmaxzejvpqx.com,DIRECT
 .uyq3ruf.icu,DIRECT
@@ -88248,6 +88826,7 @@
 .v6rxv5coo5.com,DIRECT
 .web.campaign.v73.it,DIRECT
 .m.v76rk.cn,DIRECT
+.v8tw8x8z1.com,DIRECT
 .v96-surf.com,DIRECT
 .va-endpoint.com,DIRECT
 .vaatmetu.net,DIRECT
@@ -88424,6 +89003,7 @@
 .web.info.vantastic-foods.com,DIRECT
 .vapedia.com,DIRECT
 .a8cv2.vapelog.jp,DIRECT
+.vapjcusfua.com,DIRECT
 .web.mailing.vapormed.com,DIRECT
 .info.vaporstream.com,DIRECT
 .vapourfertile.com,DIRECT
@@ -88440,8 +89020,6 @@
 .variablespestvex.com,DIRECT
 .variablevisualforty.com,DIRECT
 .variationaspenjaunty.com,DIRECT
-.variationsreviewmocking.com,DIRECT
-.varicalpraiser.com,DIRECT
 .variedpretenceclasped.com,DIRECT
 .variedslimecloset.com,DIRECT
 .variedsubduedplaice.com,DIRECT
@@ -88496,6 +89074,7 @@
 .vatzxd.xyz,DIRECT
 .vaugaiva.net,DIRECT
 .vaugroar.com,DIRECT
+.vaukoloon.net,DIRECT
 .marketing.vault49.com,DIRECT
 .vaultmultiple.com,DIRECT
 .vaultwrite.com,DIRECT
@@ -88649,6 +89228,7 @@
 .vegaschina.cn,DIRECT
 .pages.feedback.vegasgoldenknights.com,DIRECT
 .om.vegasmeansbusiness.com,DIRECT
+.vegasreals.com,DIRECT
 .vegetablesparrotplus.com,DIRECT
 .vegetationadmirable.com,DIRECT
 .vegetationartcocoa.com,DIRECT
@@ -88959,6 +89539,7 @@
 .link.vezeeta.com,DIRECT
 .vezizey.xyz,DIRECT
 .htvh.vf5yb4.cn,DIRECT
+.vfcsesjgbj.com,DIRECT
 .vfeeopywioabi.xyz,DIRECT
 .vfgajrk.cn,DIRECT
 .vfghc.com,DIRECT
@@ -89002,7 +89583,6 @@
 .marketing.vgmeducation.com,DIRECT
 .marketing.vgmhomelink.com,DIRECT
 .vgmnpjnrpj.com,DIRECT
-.click.vgnett.no,DIRECT
 .wall.vgr.com,DIRECT
 .vgsjapnjykapgq.com,DIRECT
 .met.vgwort.de,DIRECT
@@ -89459,10 +90039,10 @@
 .violentlybredbusy.com,DIRECT
 .violet-strip.pro,DIRECT
 .violetlovelines.com,DIRECT
-.violetreading.com,DIRECT
 .trk.violife.com,DIRECT
 .trk.violifefoods.com,DIRECT
 .trk.violifeprofessional.com,DIRECT
+.violinagluon.shop,DIRECT
 .violinboot.com,DIRECT
 .violindealtcynical.com,DIRECT
 .violinmode.com,DIRECT
@@ -90351,6 +90931,7 @@
 .vqcuzypju.com,DIRECT
 .vqfustjnvph.com,DIRECT
 .vqglaz.com,DIRECT
+.vqhmjvzvdj.com,DIRECT
 .vqjvnjxbgnz.com,DIRECT
 .vqlwoy.xyz,DIRECT
 .vqonjcnsl.com,DIRECT
@@ -90537,6 +91118,7 @@
 .vvrbjtjxmlgcd.xyz,DIRECT
 .vvsesfeunlu.com,DIRECT
 .vvtadblk.online,DIRECT
+.vvttpn.xyz,DIRECT
 .bu1.vvvdj.com,DIRECT
 .vvvljeqasz.com,DIRECT
 .vvwbjuaerbgmrjm.com,DIRECT
@@ -90629,9 +91211,11 @@
 .vxsscpctuiq.com,DIRECT
 .vxxizaan.com,DIRECT
 .vxxxfveohck.com,DIRECT
+.vy8f0wjhp.com,DIRECT
 .app.vyaparapp.in,DIRECT
 .vyazmi.com,DIRECT
 .vydfijoiw.com,DIRECT
+.vyetjigm.com,DIRECT
 .vyfrxuytzn.com,DIRECT
 .launch.vypr.it,DIRECT
 .vypywufmbsp.com,DIRECT
@@ -90680,6 +91264,7 @@
 .app.w3w.io,DIRECT
 .w3wci.site,DIRECT
 .w4.com,DIRECT
+.w454n74qw.com,DIRECT
 .fpag.w48ge.cn,DIRECT
 .w4pma.cn,DIRECT
 .w4vecl1cks.com,DIRECT
@@ -90842,6 +91427,7 @@
 .waltzprescriptionplate.com,DIRECT
 .wamcash.com,DIRECT
 .wamnetwork.com,DIRECT
+.wanalnatnwto.com,DIRECT
 .wancai.com,DIRECT
 .wanderingchimneypainting.com,DIRECT
 .push.wandoujia.com,DIRECT
@@ -90863,6 +91449,7 @@
 .wangyouxs.cn,DIRECT
 .wangzhan5.com,DIRECT
 .wangzhichao.info,DIRECT
+.wanigandoited.shop,DIRECT
 .wanintrudeabbey.com,DIRECT
 .qd.wanjuanba.com,DIRECT
 .dzz.wankeedu.com,DIRECT
@@ -90934,6 +91521,7 @@
 .warilytumblercheckbook.com,DIRECT
 .warindifferent.com,DIRECT
 .wariod.com,DIRECT
+.warishtruant.click,DIRECT
 .warlike-context.com,DIRECT
 .warliketruck.com,DIRECT
 .warlockstallioniso.com,DIRECT
@@ -90974,7 +91562,6 @@
 .warumbistdusoarm.space,DIRECT
 .warworkunson.top,DIRECT
 .waryfog.com,DIRECT
-.warzone-meta.net,DIRECT
 .kszpsc.waschbaer.ch,DIRECT
 .nnobek.waschbaer.de,DIRECT
 .smetrics.waseda-ac.co.jp,DIRECT
@@ -91150,11 +91737,13 @@
 .link.wazirx.com,DIRECT
 .waztahsmal.com,DIRECT
 .wazzeyzloayz.top,DIRECT
+.wazzeyzlobbj.top,DIRECT
 .wazzeyzlozyj.top,DIRECT
 .ometrics.wb.com,DIRECT
 .m.wbaie.com,DIRECT
 .m.wbaiz.com,DIRECT
 .wbaj.cn,DIRECT
+.wbajwc0yx.com,DIRECT
 .m.wbanv.com,DIRECT
 .e.wbanz.com,DIRECT
 .m.wbanz.com,DIRECT
@@ -91233,6 +91822,7 @@
 .wcnhhqqueu.com,DIRECT
 .wcnmd.top,DIRECT
 .wcnndaazbwmane.com,DIRECT
+.wcoaswaxkrt.com,DIRECT
 .data-logdelivery.wconcept.co.kr,DIRECT
 .wcpltnaoivwob.xyz,DIRECT
 .wcqtgwsxur.xyz,DIRECT
@@ -91333,7 +91923,6 @@
 .wearydisturbing.com,DIRECT
 .wearyregister.com,DIRECT
 .wearyvolcano.com,DIRECT
-.wearywater.com,DIRECT
 .weaselabsolute.com,DIRECT
 .weaselbubblehue.com,DIRECT
 .weaselmicroscope.com,DIRECT
@@ -91486,6 +92075,8 @@
 .webpushr.com,DIRECT
 .webpushs.com,DIRECT
 .webquizspot.com,DIRECT
+.captcha.webredirect.org,DIRECT
+.chrome.webredirect.org,DIRECT
 .webregadvertising.com,DIRECT
 .sstats.webresint.com,DIRECT
 .j45.webringporn.com,DIRECT
@@ -91609,6 +92200,7 @@
 .lrhyty.weeronline.nl,DIRECT
 .weestuch.com,DIRECT
 .weethery.com,DIRECT
+.weeweesozoned.com,DIRECT
 .weewhunoamo.xyz,DIRECT
 .wefihob.cn,DIRECT
 .link.wefish.app,DIRECT
@@ -91682,6 +92274,7 @@
 .seniorliving.welcometomonarchlanding.com,DIRECT
 .seniorliving.welcometosedgebrook.com,DIRECT
 .sp.welcometothejungle.com,DIRECT
+.welcomevaliant.com,DIRECT
 .welcomingvigour.com,DIRECT
 .analytics.weldonowen.com,DIRECT
 .a8clk.weleda.jp,DIRECT
@@ -91762,6 +92355,7 @@
 .weq.me,DIRECT
 .c.werally.com,DIRECT
 .go.werbleapp.com,DIRECT
+.werdolsolt.com,DIRECT
 .weredthechild.info,DIRECT
 .wereksbeforebut.info,DIRECT
 .weremoiety.com,DIRECT
@@ -91895,6 +92489,7 @@
 .wffbdim.com,DIRECT
 .wffgqahhhohdfkp.com,DIRECT
 .wfhxssg.com,DIRECT
+.wfijsc.xyz,DIRECT
 .tr.secretary.wfitn.org,DIRECT
 .wfjslie.top,DIRECT
 .axp.wfla.com,DIRECT
@@ -91952,6 +92547,7 @@
 .whaijeezaugh.com,DIRECT
 .whaijoorgoo.com,DIRECT
 .whairtoa.com,DIRECT
+.whaitsaitch.com,DIRECT
 .whaivoole.com,DIRECT
 .whaiweel.com,DIRECT
 .whaixoads.xyz,DIRECT
@@ -92000,9 +92596,11 @@
 .stats.whattopack.com,DIRECT
 .whaudsur.net,DIRECT
 .whauglorga.com,DIRECT
+.whaukrimsaix.com,DIRECT
 .whaulids.com,DIRECT
 .whaunsockou.xyz,DIRECT
 .whaurgoopou.com,DIRECT
+.whautchaup.net,DIRECT
 .whautsis.com,DIRECT
 .whauvebul.com,DIRECT
 .whazugho.com,DIRECT
@@ -92028,6 +92626,7 @@
 .wheelscomfortlessrecruiting.com,DIRECT
 .wheelstweakautopsy.com,DIRECT
 .wheelysales.com,DIRECT
+.wheempet.xyz,DIRECT
 .wheeptit.net,DIRECT
 .wheerdogra.com,DIRECT
 .wheeshoo.net,DIRECT
@@ -92067,6 +92666,7 @@
 .whickazoxy.top,DIRECT
 .whickgiunta.com,DIRECT
 .whileinferioryourself.com,DIRECT
+.whilieesrogs.top,DIRECT
 .whilroacix.com,DIRECT
 .whimpercategory.com,DIRECT
 .whimsicalcanyon.com,DIRECT
@@ -92188,6 +92788,7 @@
 .analytics.whotargets.me,DIRECT
 .whotchie.net,DIRECT
 .whotrundledthe.com,DIRECT
+.whotsirs.net,DIRECT
 .whoulikaihe.net,DIRECT
 .whoumtefie.com,DIRECT
 .whoumtip.xyz,DIRECT
@@ -92209,6 +92810,7 @@
 .whshangsha.com,DIRECT
 .m.whsjg.cn,DIRECT
 .whudroots.net,DIRECT
+.whufteekoam.com,DIRECT
 .whugeestauva.com,DIRECT
 .whugesto.net,DIRECT
 .whuhough.xyz,DIRECT
@@ -92241,6 +92843,7 @@
 .wickedoutrage.com,DIRECT
 .wickedreports.com,DIRECT
 .wickedunpen.top,DIRECT
+.wicopymastery.com,DIRECT
 .widaimty.com,DIRECT
 .wideangle.co,DIRECT
 .wideaplentyinsurance.com,DIRECT
@@ -92766,6 +93369,7 @@
 .wizssgf.com,DIRECT
 .e.wj57g.cn,DIRECT
 .axp.wjbf.com,DIRECT
+.wjct3s8at.com,DIRECT
 .wjgcygwgrvooio.com,DIRECT
 .wjgglm.com,DIRECT
 .axp.wjhl.com,DIRECT
@@ -92898,6 +93502,7 @@
 .wmwmwwfmkvucbln.ru,DIRECT
 .wmwwmbjkmavr.top,DIRECT
 .wmwwmbjkmrlv.top,DIRECT
+.wmwwmbjkqomr.top,DIRECT
 .bdasd.wmxa.cn,DIRECT
 .bdjiaoben.wmxa.cn,DIRECT
 .wmxthwflju.xyz,DIRECT
@@ -92923,6 +93528,7 @@
 .wnmaoc.xyz,DIRECT
 .wnmoobz.icu,DIRECT
 .wnmyerzbjhu.ru,DIRECT
+.wnnhnaurzbr.com,DIRECT
 .wnootzc.icu,DIRECT
 .wnp.com,DIRECT
 .wnpbdan.bid,DIRECT
@@ -93456,6 +94062,7 @@
 .tracker.wpserveur.net,DIRECT
 .wpshsdk.com,DIRECT
 .wpsmcns.com,DIRECT
+.wpsykwqdjodeabl.com,DIRECT
 .data.wptag.net,DIRECT
 .wpu.sh,DIRECT
 .wpuiuwh.icu,DIRECT
@@ -93529,6 +94136,7 @@
 .wrinkleirritateoverrated.com,DIRECT
 .wristtrunkpublication.com,DIRECT
 .writeestatal.space,DIRECT
+.writerscurling.click,DIRECT
 .writewealth.com,DIRECT
 .writhehawm.com,DIRECT
 .writhenwends.com,DIRECT
@@ -93559,6 +94167,7 @@
 .wryfruw.com,DIRECT
 .wrylength.pro,DIRECT
 .wrypassenger.com,DIRECT
+.ws5ujgqkp.com,DIRECT
 .wsadad.cn,DIRECT
 .wsafeguardpush.com,DIRECT
 .wsaidthemathe.info,DIRECT
@@ -93890,6 +94499,7 @@
 .t.e.x.com,DIRECT
 .x011bt.com,DIRECT
 .x08jd.top,DIRECT
+.x0c9ibwqz.com,DIRECT
 .ee.x0u4o.cn,DIRECT
 .x1fyw.icu,DIRECT
 .x1ka.cn,DIRECT
@@ -94011,6 +94621,7 @@
 .xcrnyxwlbvq.com,DIRECT
 .xcsjbge.com,DIRECT
 .jeewoo.xctd.me,DIRECT
+.xcuffrzha.com,DIRECT
 .xcvf.info,DIRECT
 .xcwxfcav.com,DIRECT
 .xcxbqohm.xyz,DIRECT
@@ -94049,6 +94660,7 @@
 .xdrig.com,DIRECT
 .xdrvkdni.xyz,DIRECT
 .xdsahkln.xyz,DIRECT
+.xdsqhyqpc.com,DIRECT
 .xdttxdqe.xyz,DIRECT
 .e.xdunv.com,DIRECT
 .m.xdunv.com,DIRECT
@@ -94221,6 +94833,7 @@
 .xhzz3moj1dsd.com,DIRECT
 .xi666.com,DIRECT
 .xi9p.com,DIRECT
+.xia4jc6x2.com,DIRECT
 .xiacai.com,DIRECT
 .xiacaidd.com,DIRECT
 .link.xiahealth.com,DIRECT
@@ -94507,6 +95120,7 @@
 .decvsm.xlmoto.se,DIRECT
 .xlmygeuxtv.com,DIRECT
 .xlnvvbk.xyz,DIRECT
+.xloj4d3ny.com,DIRECT
 .xlovecam.com,DIRECT
 .xlplrhum.xyz,DIRECT
 .xlrdr.com,DIRECT
@@ -94743,7 +95357,6 @@
 .xrdqdd.xyz,DIRECT
 .j1.ax.xrea.com,DIRECT
 .xrjponvwqlwthq.com,DIRECT
-.xrkxapomphh.com,DIRECT
 .xrllybr.xyz,DIRECT
 .xrmfjzqo.xyz,DIRECT
 .e.xroun.com,DIRECT
@@ -94752,7 +95365,6 @@
 .xrrhwgj.xyz,DIRECT
 .xrrxodz.xyz,DIRECT
 .xrtzf.com,DIRECT
-.xrujynhcxtbsgp.com,DIRECT
 .m.xrum.info,DIRECT
 .xruolsogwsi.com,DIRECT
 .xs6po.icu,DIRECT
@@ -94798,10 +95410,8 @@
 .xtdioaawlam.com,DIRECT
 .images.e.xtelligentmedia.com,DIRECT
 .xtendmedia.com,DIRECT
-.xtfffudn.com,DIRECT
 .xtgreat.com,DIRECT
-.xtijeyyeqwjegz.com,DIRECT
-.xtnlfgpnml.com,DIRECT
+.xtnfuuckmubrb.com,DIRECT
 .xtnwxhjv.xyz,DIRECT
 .mtl.xtpxw.com,DIRECT
 .xtrackme.com,DIRECT
@@ -94810,7 +95420,6 @@
 .forms.xtralis.com,DIRECT
 .xtraserp.com,DIRECT
 .track.xtrasize.nl,DIRECT
-.xtrddxxjyo.com,DIRECT
 .t.xtreamarena.com,DIRECT
 .xtremepush.com,DIRECT
 .xtremeserve.xyz,DIRECT
@@ -94824,7 +95433,6 @@
 .xtxa.net,DIRECT
 .xtxlijkjtlln.xyz,DIRECT
 .abc.xtyx918.com,DIRECT
-.xtyzlkphfzjir.com,DIRECT
 .xtzxmy.com,DIRECT
 .xu27r.com,DIRECT
 .xu5ctufltn.com,DIRECT
@@ -94833,6 +95441,7 @@
 .xuanlimin.top,DIRECT
 .js1146.xuanmeiguoji.com,DIRECT
 .xuanxuan520.com,DIRECT
+.xubcnzfex.com,DIRECT
 .xucashntaghy.com,DIRECT
 .xuclkzjh.com,DIRECT
 .xudarl.xyz,DIRECT
@@ -95026,12 +95635,14 @@
 .xyhuoi.com,DIRECT
 .app.xyjqy.com,DIRECT
 .xylhwdu.com,DIRECT
+.xylidinzeuxite.shop,DIRECT
 .xylomavivat.com,DIRECT
 .xyly2016.com,DIRECT
 .xymahuxv.xyz,DIRECT
 .t.xymj.xyz,DIRECT
 .xynkxvrvusoh.com,DIRECT
 .xyooepktyy.xyz,DIRECT
+.xypoxsjdjq.com,DIRECT
 .xyrkl.com,DIRECT
 .xyrkotsqhaf.com,DIRECT
 .xyryjt.xyz,DIRECT
@@ -95092,6 +95703,7 @@
 .smetrics.y108.ca,DIRECT
 .m.y195j.cn,DIRECT
 .y1jxiqds7v.com,DIRECT
+.y1zoxngxp.com,DIRECT
 .e.y23zpl.cn,DIRECT
 .y341i.xyz,DIRECT
 .y41my.com,DIRECT
@@ -95114,6 +95726,7 @@
 .yaeigtmhvsibf.com,DIRECT
 .smetrics.yaencontre.com,DIRECT
 .yaffedtwindle.com,DIRECT
+.yafkhmosihg.com,DIRECT
 .yafmqibivbuu.com,DIRECT
 .e.yageben.com,DIRECT
 .yaggergiher.top,DIRECT
@@ -95164,6 +95777,7 @@
 .wc.yahoodns.net,DIRECT
 .adtech.yahooinc.com,DIRECT
 .yahugg.com,DIRECT
+.yahunabaeria.click,DIRECT
 .yahuu.org,DIRECT
 .yaiehgpawwu.com,DIRECT
 .yaighnnuvvj.com,DIRECT
@@ -95294,6 +95908,7 @@
 .m.ybeih.com,DIRECT
 .ybf1o.online,DIRECT
 .m.ybfwmm.cn,DIRECT
+.ybhyziittfg.com,DIRECT
 .ybjfsqcevow.ru,DIRECT
 .ybmebpsmpwueo.com,DIRECT
 .ybotvisit.com,DIRECT
@@ -95325,6 +95940,8 @@
 .ym.ychap.com,DIRECT
 .ycilrurqls.com,DIRECT
 .ycjisa.cn,DIRECT
+.yckamq.xyz,DIRECT
+.ycleptbathing.com,DIRECT
 .yclmw.com,DIRECT
 .yclxrj.top,DIRECT
 .ycmedia.cn,DIRECT
@@ -95502,9 +96119,12 @@
 .ygeqiky.com,DIRECT
 .ygfgzmzo.xyz,DIRECT
 .ygh5.cn,DIRECT
+.ygkfjbgyqszdbr.com,DIRECT
 .ygkwjd.xyz,DIRECT
 .yglhcn.cn,DIRECT
 .a8cv.ygm-clinic.or.jp,DIRECT
+.ygmkcuj3v.com,DIRECT
+.ygowinptqfakw.com,DIRECT
 .ygpd.wang,DIRECT
 .xin.ygqczh.com,DIRECT
 .e.ygqna.cn,DIRECT
@@ -95520,6 +96140,7 @@
 .yhazrfacxd.com,DIRECT
 .yhbcii.com,DIRECT
 .yhbheroq.xyz,DIRECT
+.yhccibeuto.com,DIRECT
 .api.dsp.yhd.com,DIRECT
 .click.yhd.com,DIRECT
 .tracker.yhd.com,DIRECT
@@ -95665,6 +96286,7 @@
 .info.yitsoftware.com,DIRECT
 .yivkzvog.xyz,DIRECT
 .yiwanuu.com,DIRECT
+.yiwckti.icu,DIRECT
 .yiwk.com,DIRECT
 .a.yixie8.com,DIRECT
 .ad.yixin.im,DIRECT
@@ -95706,6 +96328,7 @@
 .yjvyyndre.com,DIRECT
 .yjxhxctqq.com,DIRECT
 .yjxzvqy.xyz,DIRECT
+.yjyfxgoasocy.com,DIRECT
 .ykakassg.com,DIRECT
 .p2.ykauto.cn,DIRECT
 .ykbei.com,DIRECT
@@ -96248,6 +96871,7 @@
 .yrdrtzmsmt.com,DIRECT
 .yretx.cn,DIRECT
 .yrhdmalrfr.com,DIRECT
+.yrhnw7h63.com,DIRECT
 .yrincelewasgiw.info,DIRECT
 .yrlkeazcacxwaj.com,DIRECT
 .yrqxygxnpg.com,DIRECT
@@ -96264,6 +96888,7 @@
 .e.ysdangan.com,DIRECT
 .e.ysdhe.com,DIRECT
 .m.ysdhe.com,DIRECT
+.ysdjsrf.com,DIRECT
 .daima.ysdui.com,DIRECT
 .ysemblyjusting.info,DIRECT
 .ysesials.net,DIRECT
@@ -96335,6 +96960,7 @@
 .yuanchengxiezuo.com,DIRECT
 .m.yuandajiayuan.com,DIRECT
 .frog.yuanfudao.com,DIRECT
+.yuanmengbi.com,DIRECT
 .yuanpinghengkangfuyouxiangongsi.top,DIRECT
 .yuanxiaa.cn,DIRECT
 .yuanxiab.cn,DIRECT
@@ -96438,6 +97064,7 @@
 .yv8zs.online,DIRECT
 .yvamklgamsbsp.com,DIRECT
 .yvbjctqs.xyz,DIRECT
+.yvcxnfry2.com,DIRECT
 .vkctxy.yves-rocher.fi,DIRECT
 .mczqzk.yves-rocher.hu,DIRECT
 .oessbi.yves-rocher.ru,DIRECT
@@ -96506,6 +97133,7 @@
 .photo.yxslt.cn,DIRECT
 .kampanjer.yxvisa.no,DIRECT
 .yxvoud.com,DIRECT
+.yxvyqyy.icu,DIRECT
 .mldy.yxxgab.cn,DIRECT
 .yxyhtea.com,DIRECT
 .1.yxzw.com.cn,DIRECT
@@ -96575,6 +97203,7 @@
 .m.z83rj.cn,DIRECT
 .z8o.cn,DIRECT
 .z91f4.top,DIRECT
+.za1a3hklx.com,DIRECT
 .za5.net,DIRECT
 .ld.za9mnx.com,DIRECT
 .zabanit.xyz,DIRECT
@@ -96608,7 +97237,10 @@
 .zailoanoy.com,DIRECT
 .zaimads.com,DIRECT
 .zaipousu.net,DIRECT
+.zaishaptou.com,DIRECT
 .zaistaug.net,DIRECT
+.zaithootee.com,DIRECT
+.zaiveeneefol.com,DIRECT
 .gp.zaiyunli.cn,DIRECT
 .cf.zaiyunli.cn,DIRECT
 .zajukrib.net,DIRECT
@@ -96676,15 +97308,14 @@
 .maz.zba.jp,DIRECT
 .zbdcrnfheyfu.com,DIRECT
 .zbfemgimtyejpm.com,DIRECT
-.zbfxzpawfeoo.com,DIRECT
 .m.zbhbs.cn,DIRECT
 .m.zbied.com,DIRECT
 .stat.zbii.com,DIRECT
 .p3.zbjimg.com,DIRECT
 .p6.zbjimg.com,DIRECT
-.zbmdbhhtgry.com,DIRECT
 .sss.zbred.com,DIRECT
 .zbvhwaakws.com,DIRECT
+.zbvpfsorrl.com,DIRECT
 .zbwowo.com,DIRECT
 .zbwp6ghm.com,DIRECT
 .zbx01.com,DIRECT
@@ -96732,6 +97363,7 @@
 .s2.zdmimg.com,DIRECT
 .sentry-monitor-new.zdmimg.com,DIRECT
 .za.zdn.vn,DIRECT
+.f24-zfcloud.zdn.vn,DIRECT
 .hits.zdnet.co.kr,DIRECT
 .log.zdnet.co.kr,DIRECT
 .aa.zdnet.com,DIRECT
@@ -97202,12 +97834,14 @@
 .zipstat.dk,DIRECT
 .app.ziptoss.com,DIRECT
 .collector5.zipy.ai,DIRECT
+.zircpiwnend.com,DIRECT
 .zirdough.net,DIRECT
 .zirdrax.com,DIRECT
 .zirkiterocklay.com,DIRECT
 .app.zirtue.com,DIRECT
 .zirve100.com,DIRECT
 .zisboombah.net,DIRECT
+.zissuzcuft.com,DIRECT
 .zitaptugo.com,DIRECT
 .tracker.au.zitcha.app,DIRECT
 .zitchaug.xyz,DIRECT
@@ -97261,6 +97895,7 @@
 .a8clk1.zkai.co.jp,DIRECT
 .ebis01.zkai.co.jp,DIRECT
 .szkbyo.zkai.co.jp,DIRECT
+.zkarinoxmq.com,DIRECT
 .samc.zkb.ch,DIRECT
 .same.zkb.ch,DIRECT
 .samt.zkb.ch,DIRECT
@@ -97272,8 +97907,10 @@
 .m.zkp53.cn,DIRECT
 .zkqegdgj.com,DIRECT
 .zkrdzn.xyz,DIRECT
+.zkt0flig7.com,DIRECT
 .zktsygv.com,DIRECT
 .zkulupt.com,DIRECT
+.zkuotxaxkov.com,DIRECT
 .e.zkwsdf.com,DIRECT
 .m.zkwsdf.com,DIRECT
 .bbsimages.zkxf119.com,DIRECT
@@ -97320,6 +97957,7 @@
 .zmkma.com,DIRECT
 .e.zmlfk.com,DIRECT
 .m.zmlfk.com,DIRECT
+.zmmuzuyb.com,DIRECT
 .zmonei.com,DIRECT
 .zmrrjyyeqaozq.top,DIRECT
 .zmwbrza.com,DIRECT
@@ -97358,6 +97996,7 @@
 .zog.link,DIRECT
 .zogrepsili.com,DIRECT
 .pagesense-collect.zoho.com,DIRECT
+.zoiefwqhcaczun.com,DIRECT
 .zoilistfrowzly.com,DIRECT
 .zoiqrudc.com,DIRECT
 .zoizfaodz.com,DIRECT
@@ -97586,6 +98225,7 @@
 .zpdnisvzedgbw.com,DIRECT
 .zpgetworker11.com,DIRECT
 .zphgadwnjro.com,DIRECT
+.zpilkesyasa.com,DIRECT
 .zplfwuca.com,DIRECT
 .zpotkvpy.icu,DIRECT
 .zpplsii.xyz,DIRECT
@@ -97608,6 +98248,7 @@
 .zqfbsrldaeawna.com,DIRECT
 .zqfcndk.com,DIRECT
 .zqgixxp.icu,DIRECT
+.zqjklzajmmwq.top,DIRECT
 .zqjljeyqbejrb.top,DIRECT
 .zqksqsjupnb.com,DIRECT
 .zqkxlf.com,DIRECT
@@ -97672,8 +98313,10 @@
 .ztxhxby.com,DIRECT
 .ztxjutz.xyz,DIRECT
 .ztzdvv.xyz,DIRECT
+.ztzxxtclak.com,DIRECT
 .e.zu08e.cn,DIRECT
 .m.zu08e.cn,DIRECT
+.zu9jt14b5.com,DIRECT
 .zuanke123.com,DIRECT
 .zubajuroo.com,DIRECT
 .crew-qa.zubie.com,DIRECT
@@ -97778,7 +98421,6 @@
 .uzixia.zwdu.com,DIRECT
 .a8clk.www.zwei.com,DIRECT
 .marketing.zwei.com,DIRECT
-.z194668-ex70k.ps02.zwhhosting.com,DIRECT
 .app.zwilling.com,DIRECT
 .zwlxnj.xyz,DIRECT
 .zwnhufcwhaw.com,DIRECT
@@ -97852,6 +98494,7 @@
 .zymerget.win,DIRECT
 .zymessuppl.top,DIRECT
 .zymjzwyyjklb.top,DIRECT
+.zymjzwyyjyvb.top,DIRECT
 .zynga.com,DIRECT
 .zyngaplayersupport.com,DIRECT
 .zypenetwork.com,DIRECT
@@ -97864,6 +98507,7 @@
 .zyzo.cn,DIRECT
 .zz123.com,DIRECT
 .zzad.com,DIRECT
+.zzaniglcic.com,DIRECT
 .zzasj.cn,DIRECT
 .zzb6.cn,DIRECT
 .zzbb1.top,DIRECT
@@ -97889,6 +98533,7 @@
 .zztsxepxumxoyw.com,DIRECT
 .zztxfj.xyz,DIRECT
 .zzyanhushi.com,DIRECT
+.zzyjpmh.com,DIRECT
 .a8.zzz-land.com,DIRECT
 .zzzjvqzkmqjlo.top,DIRECT
 .zzzjvqzkmqjyb.top,DIRECT
