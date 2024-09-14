@@ -1,0 +1,5 @@
+HOST,www.googleapis.com,DIRECT
+HOST-SUFFIX,docs.google.com,DIRECT
+HOST-SUFFIX,drive.google.com,DIRECT
+HOST-SUFFIX,googledrive.com,DIRECT
+HOST-SUFFIX,googleusercontent.com,DIRECT
