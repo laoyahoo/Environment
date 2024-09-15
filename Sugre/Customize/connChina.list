@@ -3,7 +3,6 @@ DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,dfcfw.com
 DOMAIN-SUFFIX,18.cn
 DOMAIN,captive.apple.com
-DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,ebscn.com
 DOMAIN-SUFFIX,qq.com
@@ -12,7 +11,6 @@ DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,dfcfs.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
-DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,douban.com
@@ -55,6 +53,9 @@ DOMAIN-SUFFIX,huaweicloud.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,sunlogin.net
+DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,gaode.com
 DOMAIN-SUFFIX,ele.me
@@ -106,6 +107,7 @@ DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,mijia.tech
+DOMAIN-SUFFIX,aliapp.org
 DOMAIN-KEYWORD,bitwarden
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
