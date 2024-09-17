@@ -3,7 +3,6 @@ HOST-SUFFIX,eastmoney.com,xxx
 HOST-SUFFIX,dfcfw.com,xxx
 HOST-SUFFIX,18.cn,xxx
 HOST,captive.apple.com,xxx
-HOST-SUFFIX,id6.me,xxx
 HOST-SUFFIX,mob.com,xxx
 HOST-SUFFIX,ebscn.com,xxx
 HOST-SUFFIX,qq.com,xxx
@@ -12,7 +11,6 @@ HOST-SUFFIX,gtimg.com,xxx
 HOST-SUFFIX,dfcfs.com,xxx
 HOST-SUFFIX,weibo.com,xxx
 HOST-SUFFIX,weibocdn.com,xxx
-HOST-SUFFIX,aliyun.com,xxx
 HOST-SUFFIX,1688.com,xxx
 HOST-SUFFIX,dingtalk.com,xxx
 HOST-SUFFIX,douban.com,xxx
@@ -55,6 +53,9 @@ HOST-SUFFIX,huaweicloud.com,xxx
 HOST-SUFFIX,ximalaya.com,xxx
 HOST-SUFFIX,feng.com,xxx
 HOST-SUFFIX,oray.com,xxx
+HOST-SUFFIX,sunlogin.net,xxx
+HOST-SUFFIX,oray.net,xxx
+HOST-SUFFIX,orayimg.com,xxx
 HOST-SUFFIX,gitee.com,xxx
 HOST-SUFFIX,gaode.com,xxx
 HOST-SUFFIX,ele.me,xxx
@@ -105,6 +106,9 @@ HOST-SUFFIX,sinopayment.com.cn,xxx
 HOST-SUFFIX,gov.cn,xxx
 HOST-SUFFIX,jd.com,xxx
 HOST-SUFFIX,qpic.cn,xxx
+HOST-SUFFIX,mijia.tech,xxx
+HOST-SUFFIX,aliapp.org,xxx
+HOST-SUFFIX,sgcc.com.cn,xxx
 HOST-KEYWORD,bitwarden,xxx
 HOST-KEYWORD,alicdn,xxx
 HOST-KEYWORD,alipay,xxx
@@ -123,3 +127,4 @@ HOST-KEYWORD,bilibili,xxx
 HOST-KEYWORD,douyin,xxx
 HOST-KEYWORD,nstool,xxx
 HOST-KEYWORD,12306,xxx
+#,xxx
