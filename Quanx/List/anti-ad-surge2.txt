@@ -8197,6 +8197,7 @@
 .anysolely.com,xxx
 .anythingamg.org,xxx
 .adx-cn.anythinktech.com,xxx
+.adx-os.anythinktech.com,xxx
 .anytimesand.com,xxx
 .cc.anytrack.de,xxx
 .anytrack.io,xxx
