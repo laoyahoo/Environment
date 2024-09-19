@@ -1,2 +1,3 @@
 # geoip规则,xxx
-GEOIP,CN,DIRECT
+GEOIP,CN,xxx
+#
