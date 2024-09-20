@@ -109,6 +109,8 @@ HOST-SUFFIX,qpic.cn,xxx
 HOST-SUFFIX,mijia.tech,xxx
 HOST-SUFFIX,aliapp.org,xxx
 HOST-SUFFIX,sgcc.com.cn,xxx
+HOST-SUFFIX,cup.com.cn,xxx
+HOST-SUFFIX,goofish.com,xxx
 HOST-KEYWORD,bitwarden,xxx
 HOST-KEYWORD,alicdn,xxx
 HOST-KEYWORD,alipay,xxx
@@ -127,4 +129,6 @@ HOST-KEYWORD,bilibili,xxx
 HOST-KEYWORD,douyin,xxx
 HOST-KEYWORD,nstool,xxx
 HOST-KEYWORD,12306,xxx
+HOST-KEYWORD,midea.com,xxx
+HOST-KEYWORD,midea.net,xxx
 #,xxx
